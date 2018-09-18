@@ -1,0 +1,702 @@
+﻿
+
+http://dadun.unav.edu/bitstream/10171/17632/1/Tesis.pdf
+
+
+
+
+TESIS DOCTORAL
+
+
+
+La Filosofía Científica y la Conceptualización del Hecho Comunicativo.
+
+LOS POSTULADOS ONTO-EPISTEMOLÓGICOS DE LA CIENCIA DE LA COMUNICACIÓN.
+
+
+
+
+
+
+
+FERMÍN GOÑI SÁEZ
+
+
+
+
+
+
+Dirigida por:
+
+DR. ALEJANDRO NAVAS GARCÍA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Servicio de Publicaciones de la Universidad de Navarra ISBN 84-8081-098-X
+
+
+
+
+
+
+
+
+A Alex Navas por enseñarme que la responsabilidad epistémica  es el requisito básico para construir libre y críticamente un constructo filosófico-científico sobre los hechos de la realidad y sus procesos legales de cambio.
+
+
+
+
+
+
+AGRADECIMIENTOS
+Agradecer es un acto terriblemente complejo cuando no absolutamente injusto. Durante mis dilatadas reflexiones sobre la construcción filosófica que ensayaba  elaborar, experimenté dos fenómenos cognitivos tan singulares como fascinantes. En algunas ocasiones, mientras no me resultaba excesivamente complicado identificar aquellos conocimientos notables extraídos a partir del procesamiento de los relevantes estímulos ambientales que componían los nichos académicos1 que temporalmente habitaba, acontecía imposible atribuirles con la obligada fiabilidad una procedencia/autoría indiscutible. En otras, a pesar de que mis procesos neuropsicológicos representaban límpidamente sujetos humanos con los que estaba seguro de haber mantenido productivas conversaciones filosóficas, la tragedia se consumaba al comprobar que tan vívidas cogniciones no anexaban el contenido intelectual de las por mi presupuestas brillantes aportaciones.
+
+Ahora, tras investigar profundamente las teorías científicas que explican las situaciones vividas, considero que los fenómenos cognitivos experimentados por el  autor son el producto material de dos hechos neurobiológicos: (a) gran parte de la actividad de nuestro SNC es no-consciente y (b) los procesos y eventos neuropsicológicos conceptualizados a través del constructo memoria no han de ser interpretados como registros perfectos de los acontecimientos recordados. La fragilidad de la memoria resulta tan incuestionable como lo es el valor adaptativo que posee para el ser humano qua propiedad psicobiológica.
+Ergo,
+
+(i) La complejidad que enuncié en las primeras líneas hace referencia al primer hecho expuesto: los múltiples procesos cerebrales automáticos (no conscientes) impiden que ajustemos en consciente nexo relacional sujeto humano-contribución (cognitiva, emocional, motivacional…).
+(ii) La injusticia hace referencia -por su parte- al segundo hecho: el olvido. Recordar a algunos individuos al tiempo que omitimos involuntariamente  a otros es un hecho desagradable que si bien halla justificación biológica, inserta en el pensamiento del autor una muy problemática disyuntiva: Ofrecer  mi  agradecimiento  únicamente  a  aquellos  sujetos  de  los   que
+1 Universidad de Navarra, Universidad de Deusto, UNED y University of Liverpool.
+
+
+
+
+
+
+conservo una representación cerebral consciente, o silenciar sine die mi agradecimiento.
+La solución a tan arduo dilema demanda tiempo -para la reflexión intelectual- y espacio -para la extensión gráfica-; bienes imprescindibles de los que evidentemente no dispongo. Como recurso provisional he optado por una medida pseudo-democrática. Todo aquel individuo de la especie Homo sapiens sapiens que considere que ha contribuido de alguna manera (v.gr. apoyo emocional, acto motivador, idea reveladora…) a la realización de la tesis doctoral aquí desplegada debe incluirse con toda legitimidad en la clase Sujeto Humano al que va dirigido expresamente Mi Agradecimiento.
+Para finalizar este breve apartado, debo reconocer que la producción de esta tesis doctoral no habría sido posible -en las beneficiosas y específicas condiciones en las cuales se ha escrito- sin el soporte económico proporcionado por la Beca Predoctoral para realizar la tesis doctoral y obtener el título de doctor concedida por el Departamento de Educación del Gobierno de Navarra.
+
+
+
+
+
+
+
+Iruña-Pamplona, 11 de enero de 2011.
+
+
+
+
+
+
+ÍNDICE
+AGRADECIMIENTOS…	iii
+INTRODUCCIÓN…	1
+1. MARCO EPISTÉMICO PLUS HIPÓTESIS NUCLEAR…	7
+​ FILOSOFÍA CIENTÍFICA…	7
+​ PRESUPUESTOS E HIPÓTESIS…	18
+2. EL REALISMO CIENTÍFICO: PRESUPUESTO A1 (Primera parte)…	24
+​ CIENCIA Y FILOSOFÍA…	24
+​ SCIENTIFIC REALISM (Ta): EPISTEMOLOGÍA REALISTA- CIENTIFICISTA (A1i)…	25
+​ DESPLIEGUE Y ANÁLISIS CONCEPTUAL DE Ta	33
+​ Postulado R1…	33
+​ Postulado R2…	39
+​ Postulado R3…	46
+​ El Método Inductivista…	51
+​ El Método Deductivista…	60
+​ Viabilidad-Fertilidad-Universalidad...72 2.3.4. Postulado R4…	90
+2.3.5. Postulado R5…	97
+​ CONCLUSIÓN: LARRY LAUDAN VERSUS REALISMO CIENTÍFICO…	127
+
+
+
+
+3. EL MATERIALISMO CIENTÍFICO: PRESUPUESTO A1 (Segunda parte)…142
+​ ORÍGENES FILOSÓFICOS DEL MATERIALISMO CIENTÍFICO Y SU RELEVANCIA HISTÓRICA EN LA ACTIVACIÓN DEL VÍNCULO CIENCIA-FILOSOFÍA (A1ii)…	142
+​ El materialismo pre-científico de los atomistas griegos…	151
+​ DESPLIEGUE Y ANÁLISIS CONCEPTUAL DE Tb	161
+​ Postulado M1…	167
+​ Postulado M2…	178
+​ Postulado M3…	197
+​ Postulado M4…	212
+​ Postulado M5…	218
+​ La Tríada Adaptativa (A1-A2-A3)...230
+​ EL MATERIALISMO NATURALISTA DE CHARLES DARWIN…	259
+​ CONCLUSIÓN-CONFIRMACIÓN DE A1…	280
+4. LA	TEORÍA	SOCIAL	Y	LA	DESNATURALIZACIÓN   DEL   HECHO COMUNICATIVO: PRESUPUESTO A2…	281
+​ EL CONCEPTO DE COMUNICACIÓN H-R…	281
+​ REALISMO CIENTÍFICO Y RACIONALISMO CRÍTICO……298
+​ ETAPAS DEL ANÁLISIS CRÍTICO…	305
+​ LA SOCIEDAD Y SU TEORIZACIÓN…	305
+​ Metafísica Social…	309
+
+
+
+
+​ Auguste Comte: La metafísica del determinismo                       científico…	309
+​ Herbert Spencer: La metafísica de la evolución…	311
+​ Karl	Marx:     La    metafísica    del materialismo                          histórico…	312
+​ Émile Durkheim: La corriente comunicativa.	314
+​ El problema: une chose sociale…….314
+​ La activación: Corriente suicidógena	320
+​ La Conciencia Colectiva: el concepto de comunicación en Durkheim……324
+​ Consecuencias epistémicas: “Y Dios era la Sociedad”…	328
+​ Max Weber: La racionalidad afásica…	331
+​ El problema: la acción social………331
+​ La	activación:    racionalidad    sin sujeto…	337
+​ Sujetos atómicos en busca de fines particulares: el concepto de comunicación en Weber…	341
+​ Consecuencias epistémicas: fines asociales…	344
+​ Alfred Schütz: La conciencia socializada…	345
+​ El problema: la intersubjetividad…..345
+
+
+
+
+​ La activación: las estructuras del mundo                  de                  la vida…	351
+​ La socialización de las mentes: el concepto de comunicación  en  Schütz…	357
+​ Consecuencias epistémicas: el misterio de la conciencia…	360
+​ Talcott Parsons: La forja estructural del sistema…361
+​ El problema: el orden social…	361
+​ La activación: el esquema AGIL…	368
+​ Los intercambios sistémicos: el concepto de comunicación en Parsons…	373
+​ Consecuencias epistémicas: el fraccionamiento de la condición humana…	377
+​ Niklas Luhmann: El sujeto humano exiliado……. 380
+​ El problema: la complejidad	380
+​ La activación: sistemas autopoiéticos.	387
+​ La clausura operativa del proceso comunicativo: el concepto de comunicación en Luhmann…         393
+​ Consecuencias epistémicas: la inconmensurabilidad sistémica……402
+​ CONFIRMACIÓN DE A2…	406
+
+
+
+
+5. CONCEPTUALIZACIÓN FILOSÓFICA DEL HECHO COMUNICATIVO…	409
+​ ADAPTACIÓN1:	LA	CAPACIDAD   COMUNICATIVA   DEL SISTEMA PSICOBIOLÓGICO…	414
+​ ADAPTACIÓN2: EL PROCESO COMUNICATIVO EN EL ENTORNO COMÚN…	419
+​ ADAPTACIÓN3:	LA	CONDUCTA   COOPERATIVA   Y   LA CONSTRUCCIÓN DEL NICHO SOCIAL…	428
+​ COMUNICACIÓN: EL HECHO COMUNICATIVO QUA HECHO BIOSOCIAL PRIMIGENIO…	438
+6. CONCLUSIONES…	442
+BIBLIOGRAFÍA…	447
+
+
+
+
+INTRODUCCIÓN.
+
+“Pero el viaje, que durante tanto tiempo transcurre con facilidad y en línea recta, comienza de pronto a complicarse. Hay paradas y contratiempos. En Rorschach, en territorio suizo, se vuelve a tomar el ferrocarril; pero sólo se consigue llegar hasta Landquart, pequeña estación alpina donde hay que cambiar de tren. Es un tren de vía estrecha, que obliga a una espera prolongada a la intemperie, en una comarca bastante desprovista de encantos; y desde el instante en que la máquina, pequeña pero obviamente de una tracción excepcional, se pone en movimiento, comienza la parte realmente arriesgada del viaje, iniciando una subida brusca y ardua que parece no ha    de tener fin. Pues Landquart aún se halla situado a una altura relativamente moderada;
+aquí comienza el verdadero ascenso a la alta montaña, por un camino pedregoso salvaje y amenazador”l  (Thomas Mann).
+Los seis capítulos que constituyen el área filosófico-científica de esta tesis  doctoral han sido elaborados a partir del riguroso esquema teórico que proporcionan en su firme y productiva coalición -Filosofía Científica qua conocimiento sistemático y crítico de la realidad- el materialismo naturalista y el realismo científico. Sin embargo, un trabajo intelectual tan arduo en su plasmación gráfica como complejo en la investigación de sus componentes nucleares esconde una parcela borrosa y ateórica - mas ineludible- de conocimiento asistemático que ha emergido lentamente y en paralela proyección junto al despliegue onto-epistemológico de la precisa y académica construcción conceptual. Incardinar tan subjetiva y experiencial episteme en la estructura formal de la tesis hubiera sido un grave error epistemológico, obviarla -sin permitir al lector el libre acceso a las sugerentes vivencias cognoscitivas del autor- hubiera sido una decisión tan desafortunada como injustificable.
+Por lo tanto, el breve e inaugural espacio que nos cede la introducción va a ser utilizado expresamente para describir las más significativas etapas intelectuales que, como en el estimulante mas fatigoso viaje que realizó Hans Castorp hasta la puerta del Sanatorio Internacional Berghof, han ido concatenando un conjunto de hechos de manera secuenciada hasta delinear una trayectoria personal que ha encaminado al autor hacia su verdadero ascenso a la Montaña Mágica.
+
+
+
+1  Mann, Thomas. (2009). La montaña mágica. Barcelona: Edhasa. Pág. 9.
+
+
+
+
+
+
+Primera Etapa: 11 de septiembre de  2001.
+
+Al finalizar mis estudios de comunicación audiovisual en la Universidad de Navarra, recibí una beca para trabajar en Madrid en el programa radiofónico Hoy por Hoy de la cadena Ser. Existen multitud de eventos internos (v.gr. procesos mentales) y externos (v.gr. hechos sociales) -si identificamos como punto de referencia al individuo- que estimulan, dadas las condiciones adecuadas, la formulación -no siempre rigurosa-  de preguntas de contenido netamente filosófico. En mi caso, el inicial problema cognoscitivo qua estado embrionario de la futura y extensa reflexión epistemológica surgió desde la ateórica y extremadamente acelerada actividad periodística - reconstrucción permanente, incontrastable y acrítica de objetos conceptuales que representan vagamente algunos sucesos del mundo real- y ante un hecho de innegable relevancia político-social: la destrucción del World Trade Center  plus  las consecuencias humanas, sociales y políticas de tan perturbador y traumático atentado terrorista.
+Las experiencias intensas que viví durante la elaboración de un producto informativo2 -radiofónico- que pretendía describir de manera fiable, atrayente y singular (el objetivo consiste en diferenciarse de los otros medios) el hecho real a los habitantes/ciudadanos de un espacio geográfico ubicado a cinco mil setecientos kilómetros  -aproximadamente-  del  lugar  de  la  tragedia  estimularon  la        pregunta
+filosófica que desde entonces guía mi exploración epistemológica del mundo y los diferentes sistemas que lo componen y estructuran: ¿Cómo es posible conocer la realidad? De manera paralela, el trabajo periodístico que desarrollé durante aquellos vertiginosos días me permitió advertir las carencias conceptuales que manifestaba el objeto de estudio -comunicación- del área de conocimiento a la que había dedicado mi primera etapa universitaria. El uso exageradamente abusivo, arbitrario y acientífico que del término comunicación realizaban la mayor parte de los académicos que entrevisté denotaba un síntoma, si no concluyente, sí revelador de la vacuidad y ambigüedad del concepto.
+
+
+
+
+2 Entrevistas a políticos, sociólogos, politólogos  y psicólogos que debatían  fervorosamente sobre el  poder comunicativo del acto terrorista; investigaciones sobre aquellos sujetos humanos que de algún modo estaban relacionados con víctimas del atentado para obtener testimonios emocionalmente impactantes; conversaciones con arquitectos que exponían sus teorías estéticas acerca del futuro artístico- simbólico de la Ground Zero…
+
+
+
+
+Por lo tanto, a la primera pregunta -radicalmente epistemológica- se anexó una segunda y muy destacada cuestión: ¿Qué realidad del mundo material es representada por el concepto comunicación?
+
+Segunda Etapa: La Universidad de Deusto y la Filosofía Científica.
+Como el lector habrá podido imaginar, decidí que el nicho de expansión intelectual y las condiciones de reflexión filosófica que me ofrecían los medios de comunicación y sus lógicos imperativos de actuación -inmediatez, fugacidad y superficialidad- no ofrecían las condiciones óptimas para resolver apropiadamente las espinosas cuestiones planteadas. Fue en la Universidad de Deusto y en el exhaustivo estudio de la Filosofía Científica donde hallé mi anhelado -calmo y silencioso- espacio de investigación epistemológica.
+El esquema cognitivo que representé pictóricamente en un insignificante pedazo de papel al finalizar mis estudios de filosofía -íntegramente conservado a día de hoy entre las notas de la asignatura Teoría del conocimiento- traza un amplio círculo - denominado Consilience- en cuyo centro convergen las ciencias naturales y las ciencias sociales a través del concepto filosófico de comunicación. Esta hipótesis de trabajo que no en vano moldea la estructura medular de la tesis doctoral que defiendo fue progresivamente construida como respuesta filosófica a las dos preguntas preliminares durante cuatro inolvidables años consagrados en casi exclusiva dedicación al estudio filosófico de la episteme más objetiva y válida elaborada por los sujetos humanos: la ciencia.
+El amplio círculo que simboliza la Unidad del Conocimiento se dibujó sutilmente en Deusto, durante el profundo y dilatado análisis del continuum epistémico que describe la Filosofía Científica:
+La ingenua y a-teórica filosofía radicalmente empirista que esbozó el brillante David Hume en el célebre A treatise of Human Nature fue transformándose a través   de
+(i) la exploración onto-epistemológica de la actividad científica y sus logros teórico- experimentales y (ii) la forja dialógica del fructífero vínculo Ciencia-Filosofía en una construcción sistemática que, si bien ofreció una primera conclusión excesivamente reduccionista en las significativas reflexiones expuestas por los componentes del  Circulo de Viena en su manifiesto pro-cientificista Wissenschaftliche Weltauffassung, se concretó  acertadamente  en  un  sistema  metafísico  -Treatise  on  Basic     Philosophy-
+
+
+
+
+
+
+construido por el filósofo argentino Mario Bunge donde convergen armónicamente el Materialismo Sistemático y el Realismo Científico.
+Los postulados onto-epistemológicos del conocimiento científico qua representación teórica, perfectible y contrastable de los hechos del mundo han sido a partir de la aceptación crítica de la propuesta bungiana mi criterio de análisis y validación a la hora de enfrentarme intelectualmente con las obras especulativas de aquellos teóricos que han conceptualizado el hecho comunicativo: núcleo ineludible - incardinado en el centro del gran círculo Consilience- del esquema cognitivo. De entre todas las teorías que investigué durante aquellos años, fue la poderosa producción socio- filosófica del alemán Niklas Luhmann -sistemáticamente desplegada en varias de sus obras capitales (La ciencia de la sociedad, Introducción a la teoría de sistemas, Fin y racionalidad de los sistemas, La sociedad de la sociedad…)- la que con mayor grado de rigor teórico mas no científico exponía un concepto cuasi-metafísico de comunicación cuyos presupuestos filosóficos (idealismo-funcionalismo-desnaturalización) eran absolutamente contrarios a los defendidos por la Filosofía Científica.
+A partir de la crítica del concepto de comunicación de Luhmann -formalizada en un trabajo de investigación desarrollado durante mi último año en Deusto- exploré en retrospectivo recorrido los objetos conceptuales de algunos de los teóricos sociales más relevantes del pensamiento occidental, al tiempo que iniciaba mis estudios, estimulado por la lectura de las obras de Noam Chomsky y Steven Pinker, en un campo del conocimiento -psicología científica- que iba a proporcionarme las herramientas científicas y los útiles metodológicos necesarios para naturalizar el hecho comunicativo. Fue entonces, cuando decidí, tras iniciar la carrera de Psicología en la UNED, que mi trabajo intelectual debía concretarse en una obra mayor; en una tesis doctoral que abordara como objetivo primario la construcción de un concepto filosófico de comunicación (repuesta epistemológica al segundo de los problemas representados en el esquema cognitivo) y que tuviera como proyecto filosófico de futura consecución la unidad del conocimiento científico (respuesta al primer problema suscitado por la actividad informativa de los medios de comunicación).
+
+
+Tercera Etapa: La Universidad de Navarra y las lagunas epistemológicas de la Ciencia  de la Comunicación.
+
+
+
+
+
+
+Mi retorno a la Universidad de Navarra en calidad de doctorando me ofreció la posibilidad de reencontrarme -grata experiencia- con mi antiguo profesor y ahora director de tesis Alejandro Navas y de iniciar un análisis más exhaustivo, sistemático y preciso de la teoría de la comunicación y sus presupuestos filosóficos. Tres de los textos
+-reducida muestra de una muy extensa población- que confirmaron los síntomas de ambigüedad y vacuidad conceptual que percibí durante la primera etapa de mi largo viaje filosófico fueron: Theories of Human Communication de Stephen W. Littlejohn, Communication Theory -Epistemological Foundations- de James A. Anderson, y el artículo de Frank E. X. Dance publicado en Journal of Communication, The Concept of Communication. La hipótesis que exploré en el trabajo de investigación de mi segundo año de doctorado, y que con alguna mínima modificación configura el capítulo 4 de la tesis, vincula formalmente la acientificidad del concepto hecho comunicativo inserto en el corpus teórico de Ciencia de la Comunicación con las construcciones socio- filosóficas de cinco teóricos sociales (E. Durkheim, M. Weber, A. Schütz, T. Parsons   y
+N. Luhmann) que a partir de la defensa de postulados onto-epistemológicos contrarios a la Filosofía Científica -positivismo reduccionista, sociología comprensiva, fenomenología social, funcionalismo esencialista y sistematismo desnaturalizado- han elaborado un constructo vacio y ambiguo de comunicación (concepto H-R).
+Una vez refutado el constructo conceptual básico de la Teoría de la  Comunicación, advertí que el logro de mi objetivo epistemológico demandaba forzosamente un conocimiento más profundo y preciso de aquellas áreas de la psicología científica3 -superficialmente investigadas durante el estudio de la carrera universitaria- imprescindibles para naturalizar la comunicación y solventar los errores onto-epistemológicos de la propuesta de los teóricos sociales.
+Cuarta Etapa: The University of Liverpool y Biopsychology plus  Evolution.
+
+Mi formación científica -iniciada a partir de los estudios oficiales de la carrera de Psicología en la UNED- se completó en el departamento de psicobiología evolucionista (School of Psychology) de la Universidad de Liverpool. Los campos epistémicos más significativos -para la elaboración de la tesis doctoral- por los que transitó  detenidamente mi reflexión epistemológica -Evolutionary Development Biology, Niche Construction    Theory    y    Cognitive    Neuroscience-    constituyen    ahora    los  ejes
+
+3 Psicobiología evolutiva, neuropsicología clínica y neurociencia cognitiva.
+
+
+
+
+
+
+vertebradores (área científica) de la construcción del concepto de comunicación aquí defendido.
+La consistente unión de los presupuestos onto-epistmológicos de la Filosofía Científica con los objetos conceptuales -científicos- examinados durante mi estancia en Liverpool ha sido el objetivo capital que ha monopolizado los últimos meses de mi investigación. A partir de su exitoso logro, el autor ha construido un concepto filosófico de comunicación que representa el verdadero ascenso a la montaña; la formulación académica del núcleo básico del inicial esquema cognitivo.
+Quinta Etapa: La Montaña Mágica y la Unión del Conocimiento.
+
+Las preguntas originadas en la primera etapa del viaje por los hechos del mundo hallan en esta tesis una perfectible respuesta/solución epistemológica.
+Hans Castorp permaneció durante siete años -a pesar de que sus previsiones iniciales no contemplaban la hipótesis de una estancia excesivamente larga- en el Sanatorio Internacional Berghof. En mi caso, soy consciente de que residiré durante un intervalo de tiempo extenso en los selváticos territorios de la Montaña Mágica. La Unidad del Conocimiento se ha convertido, una vez finalizado el arduo ascenso teorético, en mi filosófica e indispensable estancia intelectual.
+El amplio círculo trazado por la Consilience no puede ser recorrido en su totalidad por un único individuo, ni siquiera por un grupo de individuos perteneciente a una misma generación. Sin embargo, espero que un concepto filosófico de comunicación como el aquí propuesto ayude -una vez aceptado y reformulado científicamente por las áreas disciplinares examinadas en este trabajo- a avanzar en el acercamiento entre las ciencias sociales y las ciencias naturales: hecho epistemológico que provocará a fortiori la Unidad del Conocimiento Científico.
+
+
+
+
+
+
+1. MARCO EPISTÉMICO PLUS HIPÓTESIS NUCLEAR.
+
+​ FILOSOFÍA CIENTÍFICA.
+
+Antes de enunciar la hipótesis nuclear a partir de cuyo análisis serán proyectados y evaluados los problemas teóricos más relevantes del presente examen, juzgo obligado ubicar el discurso racional en alguna de las regiones específicas que conforman el tan cognoscitivamente productivo como taxonómicamente problemático marco filosófico: complejo y fértil escenario multidisciplinar que contextualiza el proyecto teorético registrado en estas páginas. Si fuéramos capaces de rastrear la actividad intelectual que emerge  de  las  diferentes  áreas  de  la  reflexión  filosófica  -de  la  misma  manera que
+exploramos vía PET4  los módulos corticales de un cerebro humano-, identificaríamos
+alta tasa de actividad teórica en la zona epistemológica de nuestro “marco-cerebro” filosófico.
+
+Si profundizamos en nuestra exploración, advertiremos que el objeto de estudio que tras previo ajuste conceptual ha sido inicialmente referido y ulteriormente examinado por esta investigación es La Teoría de la Comunicación; siendo más precisos, el concepto filosófico de comunicación que tal corpus de conocimiento ha patrocinado y desde el cual han ido irrumpiendo con inane resultado científico las diferentes propuestas teóricas que un profuso número de pensadores –adscritos a concepciones  del  mundo  toto  coelo  diverso  de  la  elaborada  por  la      racionalidad
+científica5- ha ofrecido sobre el fenómeno comunicativo.
+
+Cuando el autor decide adscribir el núcleo especulativo de su tesis a la rama de la empresa filosófica (epistemología) que manifiesta un mayor grado de conexión con el conocimiento científico, se ve obligado a fortiori a enunciar y defender una interpretación validada y contrastable de tan singular y polémico vínculo interdisciplinar (Ciencia-Filosofía). La híbrida reflexión epistémica que en paralelo al desarrollo histórico   del   conocimiento   científico   han   formulado   tanto   epistemólogos  como
+
+4 Positron emission to mography.
+5 “El racionalista considera la historia de la ciencia como constitutiva, en términos generales, de progreso hacia la meta. El principal papel explicativo se otorga a los factores internos. Los factores externos,  tales
+como las condiciones sociales de la época o la psicología de los individuos involucrados, sólo entran en escena cuando existe una desviación respecto de las normas implícitas en el modelo racional”. Newton- Smith, W.H. (1987). La racionalidad de la ciencia. Barcelona: Paidós. Pág. 287.
+
+
+
+
+
+
+filósofos de la ciencia puede tan simple como perspicuamente dividirse -via dicotómico equilibrio- en dos grupos (A-B) mediante la asignación de valores simples (0-1) a una muy específica y relevante variable independiente de selección: conocimiento de la producción científica actual; “El filósofo de la ciencia alejado de la problemática científica de su tiempo puede ser útil estudiando algunas ideas científicas del pasado. El epistemólogo atento a la ciencia de su tiempo puede ser aún más útil, ya que puede participar del desarrollo científico, aunque sea indirectamente, al contribuir a cambiar
+positivamente el trasfondo filosófico de la investigación así como de la política de la ciencia.”6. Desde la conformidad con la elaboración argumentativa del físico y filósofo argentino Mario Bunge, denomino filosofía científica7 a la interpretación del vínculo Ciencia-Filosofía que impone al pensamiento filosófico -a la construcción de sistemas racionales que ensayan explicar la realidad- dos condiciones de obligada observancia: a) compatibilidad con el conocimiento científico actual  y b) contrastabilidad  indirecta - via corpus científico- de las hipótesis filosóficas. Ergo, la tesis que es expuesta y defendida    en    este   trabajo   asume    como   presupuesto   de    evidente   matización
+epistemológica que la delimitación entre filosofía y ciencia radica fundamental y exclusivamente en la extensión y generalidad del objeto de estudio. Mientras la ciencia acota áreas especificas de la realidad y enuncia hipótesis de corto alcance y múltiple conectividad inter-científica, la filosofía extiende su arquitectura sistémica al conjunto de lo real (incluida la ciencia)8; ambas se demarcan y fortalecen a través de un continuum  que  halla  en  la  realidad  su  criterio  ontológico  de  corroboración  y en el
+conocimiento falible y progresivo su objetivo cognoscitivo último: “El filósofo debe, pues, hacer, la elección siguiente: o bien imita a los escolásticos que se burlaron de Galileo Galilei, aferrándose a sus prejuicios y negándose a ver el progreso en profundidad; o bien, aprende de la moderna ciencia teorética y modifica consiguientemente su filosofía, ayudando eventualmente al científico a librarse del peso muerto filosófico heredado de una época anterior al nacimiento de la ciencia teorética
+moderna”9.
+
+
+
+6  Bunge, Mario. (1980). Epistemología: curso de actualización. Barcelona: Ariel. Pág. 26.
+7 Cfr. Bunge, Mario. (1987). La ciencia, su método y su filosofía. Buenos Aires: Siglo veinte.
+8 “In other words, ontology is the science concerned with the whole of reality: that which Studies the most general features of every mode of being and becoming. It attempts to answer such general questions as: What is matter? What is a process? What is space-time? Are there emergent properties? Does every event fit some law(s)? Are there natural kinds? What makes an object real? Are there final causes? Is chance for real?” Bunge, Mario. & Mahner, Martin. (1997). Foundations of biophilosophy. London: Springer. Pág.3. 9  Bunge, Mario. (1975). Teoría y realidad. Barcelona: Ariel. Págs. 111-112.
+
+
+
+
+
+
+Las disímiles mas no excesivamente numerosas concepciones filosóficas que al promover el estudio detallado del material alumbrado por la ciencia y originar la elaboración de metateorías racionales reciben desde un análisis minucioso de su esqueleto lógico-formal y su contenido empírico-teórico el nombre de filosofía  científica comparten como singular seña de identidad la adhesión irrenunciable al método científico: criterio universalmente reconocido -siempre perfectible- de validación del conocimiento objetivo sobre la realidad; “What made modern science powerful  was  the  invention  of  the  hypothetico-deductive  method,  the  method  that
+constructs an explanation in the form of a mathematical hypothesis form which the observed facts are deducible”10. Una de las consecuencias más relevantes y productivas para el pensamiento filosófico contemporáneo, fruto de la exhaustiva reflexión sobre el método científico, ha sido la crítica y posterior abandono del sentido común - garante inane de filosofías acientíficas- como singular, única y excepcional herramienta epistémica que posibilita el acceso directo a la realidad. Mario Bunge asevera -en su sistemática y esclarecedora obra Scientific Researchll- que “common sense cannot be
+an authoritative judge of science, and the attempt to evaluate scientific ideas and procedures in the light of ordinary knowledge alone is preposterous: science elaborates its own canons of validity and, in most subjects, is far ahead of common knowledge, which is more and more becoming fossil science”12.
+
+La sentencia dictada ex profeso por la filosofía científica obliga al filósofo contemporáneo a responsabilizarse intelectualmente de la maduración de la actividad productiva de la comunidad científica. De hecho, las estrategias cognoscitivas de la ciencia demandan velis nolis presupuestos ontológicos que posibiliten la comprensión del progreso científico. Resulta innegable, para una filosofía racional, asumir que “en
+ambos campos, el de la ciencia y el de la filosofía, la consigna sigue siendo a los fundamentos”13. Empero, los productos conceptuales de la mayor parte de las  filosofías
+
+
+
+10 Reichenbach, Hans. (1968). The rise of scientific philosophy. Berkeley: University of California Press. Pág. 100.
+11 La última edición estadounidense de tan significativa obra ha variado el título original y se ha repartido en  dos  volúmenes.  En  referencia  al  contenido,  se  ha  revisado el texto	y  ha sido añadida	nueva
+información. En esta tesis, citaré la última edición de la obra: Bunge, Mario. (2007). Philosophy of science. Revised Edition. New Jersey: Transaction.
+12 Bunge, Mario. (2007). Philosophy of science. Volume one. Revised Edition. New Jersey: Transaction. Pág. 4.
+13 Bunge, Mario. (1975). Teoría y realidad. Op. cit. Pág. 112.
+
+
+
+
+
+
+académicamente activas manifiestan un grado extremo de acientificidad. Rastreemos brevemente el contenido sustancial del aserto.
+
+Si efectuáramos un análisis exhaustivo de los sistemas filosóficos más relevantes e influyentes -inspiradores de cosmovisiones e ideologías puntales ineludibles del pensamiento occidental- descubriríamos la perenne división postulada ad nauseam entre ciencia y filosofía: desacreditada -como representación objetiva de la realidad- la primera y sobrevalorada -como acceso sectario y enigmáticamente alumbrado a la verdad- la segunda. La pandémica y artificial disociación obstaculizó el desarrollo - epistemológicamente mediado- del discurrir científico al tiempo que saturó -ontología desnaturalizada- el espacio intelectual al inundarlo de términos pseudocientíficos (alma,
+Aufhebung, espíritu, mente, noúmeno, epoché, causa finalis, élan vital…): dogmáticos en su defensa e inanes en su capacidad de representar la realidad14: “Most metaphysical system-builders, from Plato and Aristotle through Descartes and Leibniz to Hegel and Hartmann, have claimed  that  they had a priori  knowledge of  reality, that  is,     factual
+knowledge independent of controlled experience. They left science the boring task of finding the details of this knowledge but its essence they held, without proof, to be attainable either by a special intuition (intuitionism) or by reason alone (rationalism), in any case without the assistance of extrospection and experiment”15.
+
+Diáfano ejemplo de tan acientífica empresa especulativa nos lo ofrece una de las obras más ininteligibles y equívocas -producto de una tan ociosa como forzada  y obscura argumentación- de la historia de la filosofía cuyo subtítulo -Ciencia de la experiencia de la conciencia16- resume con perspicua exactitud el colapso místico y supranatural que sufre el pensamiento filosófico cuando abandona -mediante la  retirada
+del anclaje científico plus el uso indiscriminado de analogías- la realidad y señala -como criterio definitivo de validez- construcciones conceptuales subjetivas y arbitrarias, carentes de referente material y existentes únicamente en los procesos cognitivos del filósofo: “Esta última figura del espíritu, el espíritu que da a su completo y verdadero contenido, al mismo tiempo, la forma del sí mismo y que, con ello, realiza (realisiert) su
+
+14 “Once empirical observation is abandoned as a source of truth, it is then but a short step to mysticism”. Reichenbach, Hans. (1968). The rise of scientific philosophy. Op. cit. Pág. 32.
+15 Bunge, Mario. (2007). Philosophy of science. Volume two.Op. cit. Pág. 209.
+16 G. W. F. Hegel (1770-1831) obvió ex professo todos y cada uno de los descubrimientos científicos realizados por aquellos ilustres contemporáneos dedicados profesionalmente a diversas ramas de  la ciencia (Isaac Newton, Leonhard Euler, Henry Cavendish, etc.) quienes -no en vano- estaban aportando al corpus científico una representación cada vez más válida de la realidad.
+
+
+
+
+
+
+concepto a la par que es esta realización (Realisierung) permanece en su concepto, es el saber absoluto; es el espíritu que se sabe en la figura del espíritu o el saber conceptual. La verdad no sólo es en sí completamente igual a la certeza, sino que tiene también la figura de la certeza de sí misma, o es en su ser allí, es decir, para el espíritu que la sabe, en la forma del saber de sí mismo. La verdad es el contenido, que en la religión es todavía desigual a su certeza. Pero esta igualdad se halla en que el contenido ha cobrado la figura del sí mismo. De esta forma, aquello se ha convertido en elemento del ser allí o en forma de la objetividad para la conciencia, lo que es la esencia misma, a saber: el
+concepto. El espíritu que se manifiesta en este elemento a la conciencia o, lo que aquí es lo mismo, que es aquí producido por ella, es la ciencia”17. El  problemático  corolario que se infiere del giro acientífico asumido ad verbum por la gran mayoría de escuelas filosóficas contemporáneas (idealismo hegeliano, materialismo dialéctico, neokantismo, historicismo, fenomenología, existencialismo, hermenéutica, neoescolástica, estructuralismo, escuela de Frankfurt, filosofía posmoderna…) fue sintetizado y denunciado  en  1951  y desde los  postulados  cientificistas  del  neopositivismo18  por el
+filósofo y físico alemán Hans Reichenbach (1891-1953). Los últimos epígrafes de su análisis crítico (The rise of Scientific Philosophy), elaborado a partir de la disección conceptual de los problemas filosóficos más relevantes de la historia del pensamiento occidental (espacio-tiempo, evolución, lógica moderna, predicción, ética, mundo exterior…), esbozan los antagonismos epistemológicos que han demostrado -tanto en la operativización como en la resolución de tales problemas- la nueva filosofía (filosofía científica) y la filosofía especulativa (filosofía acientífica - sistemas filosóficos tradicionales): “The line of demarcation between the old and the new philosophy does not set off mathematics from speculative philosophy. It serves the man who fells responsible for every word he says from the man who uses words for the conveyance of intuitive guesses and unanalyzed conjectures; the man who is willing to adjust his conception of knowledge to attainable forms of knowing form the man who cannot renounce the belief in superempirical truth; the man who regards analysis of knowledge as accessible to logical precision methods form the man who regards analysis of knowledge as accessible to logical precision methods form the man who thinks of philosophy as an extralogical domain, free from the restriction by logical controls and open to the satisfaction that flows from the use of picturesque speech and its   emotional
+
+17 Hegel, G. W. F. (2000). Fenomenología del espíritu. Madrid: Fondo de cultura económica. Pág. 4.
+18 Positivismo lógico o empirismo lógico.
+
+
+
+
+
+
+connotations. The separation of these two types of mentality is an inescapable consequence of the new philosophy”19. El filósofo moderno, científico, se dirige a la realidad equipado intelectualmente con las herramientas que le proporcionan la metodología científica y la teorización hipotético-deductiva de las diversas ramas del conocimiento (lógica simbólica, física atómica, probabilidad, biología evolucionista, psicología científica…)20, su representación conceptual de lo real -desde el universo expansivo (macrofísico) hasta las partículas elementales (microfísicas)- se valida y actualiza en constante y progresiva modelización con el material informativo proporcionado por los descubrimientos científicos. De esta manera, el filósofo  científico, eximido de la mistificada carga de las creencias dogmáticas y las entidades supraempíricas  (summum  bonum  de  la  explicación  más  radicalmente  especulativa)
+reconoce su propuesta teorética como falible y contrastable, “it does not claim  to possess an absolute truth, the existence of which it denies for empirical knowledge”21. Mario Bunge lo expresa con singular nitidez al afirmar que “para el partidario de la filosofía  científica  todo  es  problemático:  todo  conocimiento  fáctico  es  falible (pero
+perfectible), y aún las estructuras formales pueden reagruparse de maneras más económicas y racionales; más aún, el propio método de la ciencia será considerado por él como perfectible, como lo muestra la reciente incorporación de conceptos y técnicas estadísticas”22. Ergo, la filosofía científica sustituye -respecto a los sistemas  filosóficos
+especulativos- (i) las pseudoexplicaciones por las explicaciones hipotético-deductivas validadas vía método científico, y (ii) las confusas analogías por conceptos bien definidos.
+
+Esta nueva filosofía planteada en el estudio crítico de Hans Reichenbach  evidencia, sin embargo, dos carencias fundamentales: a) no logra operativizarse como sistema filosófico, definiéndose únicamente como metaciencia positivista: y b) no proporciona una ontología o teoría de la realidad que provea de viabilidad epistémica a los presupuestos naturalistas, realistas y  materialistas  del  factum  científico;  “Scientific philosophy, in contrast, leaves the explanation of the universe entirely to the scientist; it constructs the theory of knowledge by the analysis of the results of science and is aware of the fact that neither the physics of the universe nor that of the atoms can
+
+19 Reichenbach, Hans. (1968). The rise of scientific philosophy. Op. cit. 311. 20 Cfr. Reichenbach, Hans. (1968). The rise of scientific philosophy. Op. cit. 21 Ibídem. Pág. 325.
+22 Bunge, Mario. (1987). La ciencia, su método y su filosofía. Op. Cit. Pág. 67.
+
+
+
+
+
+be understood in terms of concepts derived from everyday life”23. Podríamos inferir que ambas condiciones frustran a fortiori la posibilidad de operativizar la filosofía científica (compatible con el corpus científico, contrastable y conceptualmente exacta)  sin  incurrir en un positivismo cientificista -semejante al enunciado por Hans Reichenbach- que anule todo compromiso ontológico, toda fundamentación filosófica de los supuestos científicos, e imponga axiomáticamente -versión del filósofo Rudolf Carnap- un reduccionismo acrítico donde el “physicalistic language” monopoliza el discurso de la comunidad científica: “All statements whether of the protocol, of the scientific system consisting of a system of hypotheses related to the protocol, can be translated into the
+physical language. The physical language is therefore a universal language and, since no other is known, the language of all Science”24.
+
+Juzgo errada tal supuesta inferencia: si bien es cierto que el trabajo crítico del filósofo alemán nos obliga sin ambigüedad alguna a colegirla como corolario de su propuesta intelectual, su sesgada interpretación de la filosofía científica soslaya la naturaleza teorética (formulación de teorías de segundo nivel) y analítico-crítica de la empresa cientificista de la filosofía: “el enciclopedismo científico pretende que la única tarea de los filósofos es recoger los resultados más generales de la ciencia, elaborando una imagen unificada de los mismos y preferiblemente formulándolos todos en un único
+lenguaje (p.  ej.  El  de  la  física)”25. Por lo tanto, la  filosofía científica que  cimienta la
+arquitectura argumental de nuestra tesis debe encontrar otra interpretación crítico- operativa de la relación Ciencia-Filosofía allende el cientificismo radical26 que evite -al mismo tiempo- el giro acientífico señalado en líneas anteriores. Para tal fin, juzgo necesario reflexionar -escueto acercamiento histórico- sobre el origen filosófico de la ciencia moderna.
+
+Si tuviéramos que fechar y personalizar con cierto grado de precisión  el nacimiento de la ciencia moderna, señalaríamos muy probablemente a dos eminentes
+
+23 Reichenbach, Hans. (1968). The rise of scientific philosophy. Op. cit. Pág. 303. 24 Carnap, Rudolf. (1996). The unity of science. Bristol: Thoemmes Press. Pág. 93. 25 Bunge, Mario. (1987). La ciencia, su método y su filosofía. Op. Cit. Pág. 65.
+26 Distinto del cientificismo moderado: tesis epistemológica que defiende la hegemonía –mas no exclusividad- de  la  ciencia  como  conocimiento  objetivo  superior  -en el  grado  de  aproximación a  la
+verdad- a todos los demás: ordinario, artístico, místico, etc.
+El cientificismo radical afirma que únicamente la ciencia proporciona conocimiento válido sobre la realidad.
+Cientificismo: El método científico constituye la mejor estrategia para conseguir las verdades más objetivas, más precisas y profundas acerca de hechos de toda clase, naturales o sociales.
+
+
+
+
+
+científicos y su respectivo intervalo histórico (El Renacimiento) como ejes  fundacionales de tan poderosa invención intelectual; sin obviar que tal empresa (ciencia moderna) demandó para su espectacular desarrollo la vital participación de un número ingente de pensadores sobresalientes. El primero de ellos fue el astrónomo polaco Nicolás Copérnico (1472-1543) cuyas ideas provocaron (años después de su divulgación27) un capital y perenne cambio cosmovisional en la exégesis científica de la
+realidad al modelizar (en su célebre De Revolutionibus Orbium Celestium) el universo mediante una representación -alterando in toto el modelo geocéntrico postulado por Hiparco y Ptolomeo- que mantenía al Sol estacionario en la posición central, mientras la Tierra y los planetas se movían -a su alrededor- en órbitas circulares: “Copernicus  taught men to look on the World in a new light. Instead of being the centre of the Universe, the Earth sank to the lowlier place of one among the planets. Such a change does not necessarily involve the dethronement of man from his proud position as the summit of creation, but it certainly suggests doubts of the validity of that belief. Thus, besides destroying Ptolemaic system, incorporated in their scheme by the Scholastics,
+Copernican astronomy affected the human mind and human beliefs in more important ways”28. El segundo gran pensador, Galileo Galilei (1564-1641), aportó a la ciencia moderna su más extraordinaria y productiva herramienta formal: El método científico29: “In a very real sense Galileo is the first of the moderns; as we read his writings, we instinctively feel at home; we know that we have reached the method of physical science, which is still in use.”30 Galileo advirtió que el conocimiento válido demandaba grosso modo dos actividades esenciales: A) La experimentación (perspectiva empírica de la ciencia): la verdad de los enunciados científicos (hipótesis) debe certificarse mediante el examen empírico de la naturaleza (cualidades objetivas y primordiales independientes del sujeto). Ergo, resulta obligado diseccionar la realidad para descubrir sus mecanismos. El análisis -via introspección- de aquellos fenómenos que dependen de los     procesos     mentales     (cualidades     secundarias)     de     un     sistema nervioso
+filogenéticamente avanzado no aporta ningún criterio válido para contrastar las hipótesis científicas: “Galileo habló muy directamente cuando dijo que la forma, el tamaño, la cantidad  y el  movimiento  eran  las  cualidades  primordiales  que el hombre de ciencia
+27  Cfr. Butterfield, Herbert. (1982). Los orígenes de la ciencia moderna. Madrid: Taurus.
+28  Dampier, Sir William Cecil. (1961). A history of science: and its relations with philosophy &  religion.
+Cambridge: University Press. Págs. 112-113.
+29 Cfr. Russell, Bertrand (1987). La perspectiva científica. Barcelona: Ariel.
+30 Dampier, Sir William Cecil. (1961). A history of science: and its relations with…Op. cit. Pág. 128.
+
+
+
+
+
+
+tenía que tratar de examinar cuando comenzaba a estudiar un cuerpo determinado. El sabor, el color, los sonidos y los olores eran cosas que le dejaban relativamente indiferente; afirmaba que no existirían si los seres humanos no tuvieran narices y  oídos,
+lenguas y ojos. En otras palabras, la ciencia iba a limitar su interés a aquellas cosas que permitieran ser medias y calculadas”31. B) La modelización matemática (perspectiva teórica de la ciencia): “As was true of Archimedes, mathematical demonstrations were the crucial element in Galileo's scientific method, along with his special emphasis on observation and experimentation”32. Una de las características epistemológicas fundamentales de la matemática pura es su neutralidad ontológica33: sus formulaciones no se comprometen materialmente con ninguna realidad, “are not about concrete things but about constructs: predicates, propositions, and theories”34. No en vano, tal propiedad le permite definirse como el lenguaje universal de la ciencia. Por otra parte, “su abstracción, su precisión, su rigor lógico, el irrefutable carácter de sus conclusiones y, finalmente, el campo excepcionalmente amplio de sus aplicaciones”35 facilita la elaboración de modelos teóricos que proyectan puentes epistémicos entre los objetos materiales (naturaleza) y los objetos conceptuales (teorías e hipótesis)36.
+
+Ergo, A y B perfilan de manera explícita los orígenes de la ciencia moderna per  se: la unión de ambas actividades confirma que el conocimiento científico ha abandonado tanto la creencia arbitraria como la observación ateórica. La genialidad de Galileo nos expone su máxima relevancia para el progreso del pensamiento moderno al declarar que el objetivo tríadico de la ciencia (entender, explicar y predecir el funcionamiento de los mecanismos que constituyen la realidad material), obliga al científico a crear constructos hipotéticos y ponerlos a prueba  experimentalmente.
+
+Juzgo capital -si aspiramos a concretar una interpretación correcta de la filosofía científica que sustente la hipótesis defendida en este trabajo37- operativizar en lenguaje filosófico las dos actividades esenciales reconocidas por el científico -filósofo Galileo Galilei  (Experiencia  y  Modelización  Matemática)  como  base  ineludible  del factum
+31  Butterfield, Herbert. (1982). Los orígenes de la ciencia moderna. Op. cit. Pág. 91.
+32 Schlagel, Richard (1995). From myth to modern mind: a study of the origins and growth of scientific thought. Vol. II. New York: Peter Lang. Pág. 150.
+33  Cfr. Bunge, Mario. (2007). A la caza de la realidad. Barcelona: Gedisa.
+34 Bunge, Mario. (2001). Scientific Realism. (Martin Mahner. Ed.) USA: Prometheus Books. Pág. 190.
+35 Aleksandrov, A. D., Kolmogorov, A. N., Laurentiev, M. A., et alter. (1988). La matemática: su contenido, métodos y significado. Volumen I. Madrid: Alianza Universitaria. Pág. 17.
+36 Cfr. Bunge, Mario. (2001). Scientific Realism. Op. cit.
+37 Será convenientemente analiza en breve.
+
+
+
+
+
+
+científico. De entre las aportaciones más significativas del pensador italiano he seleccionado un fragmento filosófico -inserto en su célebre The Assayer (1623)- que condensa los supuestos capitales que estructuran el núcleo epistemológico de la filosofía científica y origina -al mismo tiempo- su discurrir histórico: “Possibly he thinks that philosophy is a book of fiction by some writer, like the Iliad or Orlando Furioso, productions in which the least important thing is whether what is written there is true. Well, Sarsi, that is not how matters stand. Philosophy is written in this grand book, the universe, which stands continually open to our gaze. But the book cannot be understood unless one first learns to comprehend the language and read the letters in which it is composed. It is written in the language of mathematics, and its characters are triangles, circles,   and  other   geometric  figures  without  which  it  is  humanly  impossible     to
+understand a single word of it; without these, one wanders about in a dark labyrinth”38.
+
+La propuesta epistemológica revelada en este texto ilustre (comparable a los trabajos de autores como Torricelli, Harvey, Huygnes, Boyle …39) prescinde ex professo de vetustas reliquias pseudocientíficas (sobrenaturalismo y apriorismo dogmático)  al  tiempo  que legitima  y refrenda  el  nacimiento  de una  nueva  filosofía
+(científica) que combina una ontología naturalista (materialista) con una epistemología realista-cientificista; es decir, la experimentación (A) adquiere viabilidad ontológica por medio de la existencia (postulado naturalista) de una realidad material independiente del sujeto40 y (B) la modelización matemática es exitosa -desde
+un punto de vista epistémico- debido a que el ser humano posee la capacidad de representar conceptualmente la realidad vía método científico (postulado realista): “La ciencia contemporánea no es experiencia sino teoría más experiencia planeada, conducida y entendida a la luz de teorías. Estas teorías se presentan, con frecuencia creciente,  en  lenguaje  matemático:  las  teorías  específicas  son,  en  efecto,   modelos
+matemáticos  de  trozos  de  la  realidad”41.  El  neopositivismo  inscrito  en  la  filosofía
+científica de Hans Reichenbach no logra actualizar ni operativizar correctamente -como hemos analizamos en líneas anteriores- los presupuestos filosóficos que originaron el nacimiento de la ciencia moderna y posibilitan -no en vano- su presente y triunfante discurrir.  Su  vacía  ontología  plus  su  excesivo  celo  por  priorizar  exclusivamente la
+38 Galilei, Galileo. (1957). Discoveries and opinions of Galileo. New York: Anchor Books. Págs. 237- 238.
+39 Cfr. Bunge, Mario. (2003). Emergencia y Convergencia. Barcelona: Gedisa.
+40  No ficticia, en oposición a los personajes de la Ilíada de Homero.
+41  Bunge, Mario. (1975). Teoría y realidad. Op. cit. Pág. 5.
+perspectiva empírica de la ciencia (minusvalorando la perspectiva teórica) la invalidan a fortiori como filosofía -stricto sensu- al transformar tal conocimiento en el enciclopedismo científico denunciado y criticado por Mario Bunge; “Philosophy can be embraced only insofar as it is consistent with scientific methodology and is furthermore heuristically instrumental in the formulation and evaluation of scientific hypotheses and research programs”42.
+
+Una vez que hemos considerado necesario -desde un punto de vista epistemológico- fundamentar nuestra tesis a partir de una filosofía científica que aúne los dos principios cardinales arriba enunciados (ontología naturalista y epistemología realista-cientificista), debemos, forzosamente, o bien construir un sistema filosófico que posibilite tal empresa intelectual o -si la primera opción es considerada inviable- sustentar nuestro argumento en algún sistema filosófico -ya elaborado- que se ajuste sin excesivas modificaciones a nuestro obligado requerimiento. La segunda opción nos dirige velis nolis a la construcción sistémica del autor argentino Mario Bunge; de hecho, algunos breves apuntes de su amplia y sólida aportación teorética han sido recogidos y expuestos a lo largo de los argumentos defendidos en estas primeras líneas.
+
+Antes de desarrollar con cierta minuciosidad los principios más relevantes del sistema bungiano, formulemos la hipótesis nuclear -plus los presupuestos que la sostienen- a partir de cuya validación -o refutación- irá soldándose nuestra teoría, la cual
+-recordemos- tiene como objeto de investigación La Teoría de la Comunicación.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42 Bunge, Mario. (2001). Scientific Realism. Op. cit. Pág. 36.
+
+- 17 -
+
+
+
+
+
+
+​ PRESUPUESTOS E HIPÓTESIS.
+
+Este breve mas capital apartado constituye el esqueleto formal de la tesis; el autor ha pretendido ser tan exacto como sistemático en su elaboración. Para tal fin, ha recurrido a los conocimientos que la filosofía de la ciencia ha ido engendrando primero y exponiendo después a lo largo de su fructífera historia. En la introducción de la tesis, descubrimos, aclaramos y concretamos -a través de varios epígrafes- el problema que originó el actual proyecto epistemológico. El análisis de aquellas ideas nos permitió advertir una verdad de evidente valía práctica: todo problema requiere -si ha sido correctamente formulado- una solución. Ergo, es tiempo de idearla; “a well-formulated problem will be a determinate (well-defined) one: it will have a unique solution and, by displaying all the relevant items, it will at least suggest what further searches may   help
+to solve it”43.
+
+El objetivo primario de toda investigación es convertir en problema un área específica de la realidad identificando y seleccionado la información relevante que es accesible una vez evaluadas y perfeccionadas las herramientas de registro que se consideran útiles. Mediante la conexión de los constructos hipotéticos, se ensaya via modelo representacional un acercamiento fructífero al mundo externo. Sin embargo, la actividad científica no es autónoma in toto, precisa -máxime cuando alguna de sus ramas se ubica en estadios iniciales de cimentación- ciertos presupuestos filosóficos: “Scientific knowledge contains no philosophical assumptions. From this it is often concluded that scientific research has neither philosophical presuppositions nor a philosophical import, whence science and philosophy would be water-tight compartments. But this is a hurried conclusion. Philosophy may not be found in the finished scientific buildings (although this is controversial) but it is part of the scaffolding employed in their construction. And conversely philosophy can and should be built with the method of science and on the basis of the achievements and failures  of
+scientific research”44.
+
+La pregunta que motivó nuestro examen filosófico -¿por qué la teoría de la comunicación no logra construir un discurso unívoco y contrastable (científico) que sea capaz de incorporarse (vía conexión interdisciplinar) al grueso del conocimiento que  en
+
+43 Bunge, Mario. (2007). Philosophy of science. Volume one. Op. cit. Pág. 203.
+44 Ibídem. Pág. 329.
+
+
+
+
+
+progresivo avance epistémico elabora la ciencia?- no surge ex nihilo. Su existencia demanda a fortiori la presencia implícita de presupuestos fundamentales. Juzgo absurdo e ilógico, desde un punto de vista cognitivo, defender la posibilidad de que un individuo sea capaz de plantearse una pregunta sin presuponer algo: “The presuppositions of the problem are the statements that are somehow involved but not questioned in the statement of the problems and in the inquiry prompted by it”45. Verbigracia, la pregunta
+sobre el funcionamiento de los mecanismos que constituyen la realidad (objeto de estudio de las ramas de las ciencias no formales) presupone grosso modo la existencia de éstos y la posibilidad de conocerlos. Si los presupuestos son tan esenciales para la sólida consolidación de la arquitectura teorética, necesitamos hic et nunc identificarlos.
+
+Mario Bunge nos suministra en su Philosophy of Science46  una definición formal  y perspicua del concepto presupuesto que utilizaremos -con alguna mínima modificación- para enunciar (su revisión será ampliamente desarrollada en los  siguientes temas) aquellos supuestos que de manera tácita revisten nuestro núcleo epistemológico:
+
+B: Hipótesis nuclear.
+
+A1 y A2: Presupuestos.
+
+B presupone A1 y A2 si y sólo si (i) A1 y A2 son condición necesaria de la significación o verosimilitud de B, y (ii) A1 y A2 están fuera de discusión cuando se usa B o se somete a contrastación47.
+
+Presupuesto A1) Defiendo que la única filosofía compatible con la ciencia moderna y su progresivo desarrollo es la filosofía científica (Elaborado y Revisado en los Capítulos 2 y 3).
+
+A1i) La ontología materialista-naturalista y la epistemología realista- cientificista representan los ejes elementales de la filosofía científica;   la
+
+
+45 Bunge, Mario. (2007). Philosophy of science. Volume one. Op. cit. Pág. 194.
+46 Edición revisada de la obra Scientific Research.
+47 He decidió traducir la definición propuesta por Mario Bunge para que tanto las hipótesis como las definiciones y presupuestos aparezcan expuestas en el mismo idioma, facilitando de este modo la homogeneidad de tan capital apartado. Bunge, Mario. (2007). Philosophy of science. Volume one. Op. cit. Pág. 258.
+
+
+
+
+
+
+eliminación de uno de ellos invalida a fortiori el vínculo Ciencia- Filosofía.
+
+A1ii) El vínculo Ciencia-Filosofía (originariamente activado en el materialismo naturalista de los primeros filósofos atomistas) ha ido restaurándose y vigorizándose a través de la historia del pensamiento occidental (filósofos científicos); ambas disciplinas se han delimitado y enriquecido mutuamente al dirigir su examen epistémico hacia un mismo objetivo: la realidad material.
+
+Presupuesto A2) Defiendo que La Teoría de la Comunicación ha incardinado      en sus modelos teóricos un concepto filosófico de comunicación vacío  (desnaturalizado) o48 ambiguo (disociación individuo/sociedad). La  construcción  teórica de este concepto filosófico halla su origen en el núcleo más membrudo -desde un punto de vista especulativo- de la Teoría Social; representado fundamentalmente por sus más  potentes  pensadores:  Émile  Durkheim,   Max   Weber,  Alfred  Schütz,     Talcott
+Parsons y Niklas Luhmann. (Elaborado y Revisado en el Capítulo 4).
+
+A2i) Defiendo que la vacuidad del concepto filosófico de comunicación responde a su desnaturalización. Únicamente el  naturalismo  (definido  en diáfana oferta intelectual por Mario Bunge como materialismo científico y expresado mediante el vínculo filosofía científica-ciencia fáctica) posibilita la interrelación entre las disciplinas científicas y la epistemología; tal factum ha sido obviado ad nauseam por la Teoría Social con el consiguiente aislamiento especulativo y la equívoca y arbitraria emergencia de múltiples entidades inmateriales (conciencia colectiva, sistemas autopoiéticos, Lebenswelt…) cuyo principal rasgo distintivo –supernaturalismo- las invalida velis nolis para cualquier examen científico.
+
+A2ii) Defiendo que la ambigüedad del concepto de comunicación de la teoría social responde a la artificial separación entre el sistema social y
+
+48 La disyunción es inclusiva. Es decir, la verdad de la disyunción se da si: 1) la primera proposición es verdadera independientemente de la segunda, 2) la segunda es verdadera independientemente de  la primera y 3) las dos son verdaderas. La falsedad de la disyunción se sigue de la falsedad conjunta de ambas proposiciones.
+
+
+
+
+
+
+el sujeto humano. El discurso posmoderno se ha nutrido obsesivamente de edificios teóricos (Alfred Schütz, Talcott Parsons, Niklas Luhmann, Manuel Castells, etc.) que en enigmática argumentación han arrebatado  al ser humano capacidades naturales fruto de la evolución biológica de la especie (v. gr. comunicación y lenguaje) para conceder tan preciados bienes al sistema social. La combinación Teoría Social -Posmodernidad (Jean Baudrillard, Gianni Vattimo, Jean-François Lyotard, Zygmunt Bauman, J. Derrida…) compone un discurso teorético aparentemente demostrable -mas carente de metodología científica- donde el fenómeno comunicativo es relatado desde la operatividad recurrente de sistemas clausurados autónomos -juegos del lenguaje- que operan en  idiosincrásico procesamiento. El análisis epistemológico de tan excéntrico relato de microrrelatos nos muestra un conjunto inconexo de reificaciones discursivas axiomáticas y no contrastables. Como resultado, el concepto filosófico de comunicación se diluye en un indescifrable e irracional maremágnum, ajeno in toto a la racionalidad científica.
+
+Enunciados los presupuestos, dediquemos el espacio restante a la  hipótesis.
+
+Antes de ejecutar las acciones que juzgamos pertinentes para resolver un problema, los seres dotados con un sistema nervioso central medianamente desarrollado construimos (inventamos, copiamos, modificamos…) -mediante procesos mentales49 - soluciones hipotéticas que o bien contrastamos experimentalmente o bien son valoradas en relación al corpus de conocimiento que –sobre la realidad- poseemos: “Hypotheses, indispensable in rational action, are even more central in the rational conception of   the
+world (science) and in its rational modification (technology). Sensing is the animal, prescientific requisite for thinking the world; and to conceive the world is nothing but to frame hypothesis about the world”50.
+
+Para identificar una hipótesis necesitamos -del mismo modo que nos ha sucedido con los presupuestos- un criterio de selección tan eficaz como eficiente. En nuestro  caso, debido a la naturaleza disciplinar de la tesis, el foco de atención se dirige sobre las hipótesis epistemológicas.
+
+49 También denominados procesos cognitivos.
+50 Bunge, Mario. (2007). Philosophy of science. Volume one. Op. cit. Pág. 254.
+
+
+
+
+
+
+Definición de hipótesis epistemológica:
+
+Un enunciado H es una hipótesis epistemológica si y sólo si (i) tiene como referente el conocimiento científico (conceptos filosóficos empleados en diversas ciencias, teorías científicas, supuestos filosóficos, reconstrucción axiomática, disciplinas científicas en construcción…) (ii) es contrastable y corregible a la vista de nuevos conocimientos  y  (iii),  en  caso  de  ser  validada,  se  incardina  entre  los presupuestos
+filosóficos de la investigación científica (Realism, Property Pluralism, Ontological Determinism, Epistemological Determinism, Formalism…)51: “…science is not philosophically neutral but partisan. It should not be concluded that science needs a  solid philosophical basis, in the sense that    a philosophy is needed to validate scientific
+hypothesis: it would be disastrous if, once again, the philosopher were given the final word concerning matters of fact. It is not a question of basing science on philosophy or conversely but rather of recognizing that the one does not exist without the other and that the one is not likely to advance without the other’s support and criticism.”52.
+
+En el presente trabajo, la hipótesis nuclear (HpN o B) defendida es formulada como sigue:
+
+Hipótesis nuclear HpN (B): Si (p) la elaboración filosófica del concepto de comunicación es originada desde los fundamentos teóricos de un materialismo  científico que asuma la naturalización del hecho y lo incardine en un modelo factual  que encuentre acomodo epistemológico en los núcleos fácticos de la ciencia (fundamentalmente en aquellos que tienen como objeto de estudio el ser humano y su relación con el entorno), entonces (q) la Teoría de la  comunicación  podrá  ser  postulada y defendida como un corpus de conocimiento válido y objetivo: científicamente contrastable (a partir de las demandas del método científico), intra- disciplinarmente replicable, inter-disciplinarmente ajustable (formando parte del núcleo teórico del conocimiento científico)  y matemáticamente modelizable . (Capítulo 5).
+Enunciada la hipótesis-solución, resta ahora contrastarla desde la conformidad con la propuesta metodológica de Mario Bunge respecto a la contrastabilidad de las  hipótesis científicas, “we lay down a liberal criterion of testability, according to    which
+
+
+
+
+
+
+every hypothesis (not every formula) must be least confirmable –preferably refutable as well- either directly or indirectly”53. El esquema de actuación que se iniciará una vez finalizado este epígrafe, conserva el orden expuesto en los párrafos anteriores: en primer lugar, elaboraremos y revisaremos los dos presupuestos (A1 y A2) que sustentan la arquitectura   epistemológica   de   nuestra   hipótesis.   Posteriormente,  contrastaremos
+indirectamente la solución ideada (HpN) para validarla o refutarla mediante un análisis crítico que proporcione a la disciplina (teoría de la comunicación) un concepto  filosófico de comunicación que viabilice la conexión intercientífica entre aquellas disciplinas (biología, psicología, neurociencia, cognición social…) que demandan conceptualizar científicamente el factum comunicativo. La validez de la hipótesis requiere como conditio sine qua non que la ciencia admita e incorpore -para implementarlo posteriormente- nuestro constructo: es decir, que sea éste coherente con el conocimiento científico. Ergo, comprobemos si el problema encuentra en nuestra solución un resultado válido.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. El REALISMO CIENTÍFICO: PRESUPUESTO A1 (Primera parte).
+
+​ CIENCIA Y FILOSOFÍA.
+
+Defiendo que la única filosofía compatible con la ciencia moderna y  su  progresivo desarrollo es la filosofía científica  (A1).
+
+Antes de iniciar el epígrafe en el que eran desplegados en sintética argumentación tanto los presupuestos como la hipótesis, señaló el autor la relevancia del sistema filosófico de Mario Bunge; no en vano, asumiremos -tras la exposición de A1i- que la filosofía científica -tal y como acontece inserta en el presupuesto A1- equivale stricto sensu  a  los  fundamentos  ontológico-epistemológicos  del  constructo  bungiano.  Para
+elaborar y revisar correctamente A1, ha sido preciso dividirlo en dos aparatos que lo definen y concretan. El primero de ellos (A1i)54, será abordado -como ya hemos mencionado- mediante el análisis de la filosofía bungiana; el segundo (A1ii), requerirá trazar un recorrido histórico, a partir del cual seremos capaces de representar el proceso de maduración del vínculo Ciencia-Filosofía. He resuelto conectar los dos apartados
+mediante la incorporación del estudio de la ontología naturalista al recorrido histórico o examen crítico contextualizado (A1ii). Por lo tanto, la epistemología realista- científicista será examinada desde una perspectiva eminentemente formal, mientras que los presupuestos ontológicos se incardinarán escrupulosamente en el proceso de maduración de la ciencia.
+
+El término ciencia moderna forma parte del enunciado de A1. Tal hecho nos  obliga a presentar una definición -no excesivamente restringida- para operativizar y aportar contenido fáctico a la representación lingüística:
+
+Definición de Ciencia Moderna: perfectible y creciente cuerpo de ideas sobre la realidad material que presenta dos condiciones esenciales: a) proporciona un conocimiento   racional,   sistemático,   exacto,   verificable   y   falible55;   b)   su   éxito
+epistémico está supeditado al método hipotético-deductivo: construcción de explicaciones en forma de hipótesis matemática (modelos formales) que son contrastadas directa e indirectamente mediante la evaluación de los datos de la experiencia.
+54  Ontología naturalista y Epistemología realista-cientificista.
+
+
+
+
+
+
+Si no se explicita lo contrario, el término ciencia moderna referirá a lo expuesto en su definición.
+
+​ SCIENTIFIC REALISM (Ta): EPISTEMOLOGÍA REALISTA-CIENTIFICISTA (A1i).
+
+La ontología materialista-naturalista56 y la epistemología realista-cientificista representan los ejes elementales de la filosofía científica; la eliminación de uno de ellos invalida a fortiori el vínculo Ciencia-Filosofía (A1i).
+
+El filósofo-físico argentino Mario Bunge debe ser considerado como uno de los últimos pensadores modernos comprometido de facto con la  construcción racional de  un sistema filosófico que ensaya comprender y explicar la realidad; rara avis si observamos la deriva postmoderna (antisistémica y anticientífica) de la filosofía occidental: “En particular, el realismo es una de las bêtes noires del posmodernismo, la aplanadora de todo lo bueno que hay en la modernidad, especialmente de la confianza en la razón y la búsqueda de lo verdadero, lo bueno y lo correcto. En consecuencia, si queremos detener esa aplanadora, tenemos que defender el realismo filosófico, entre
+otras cosas”57.
+
+
+​ DESPLIEGUE Y ANÁLISIS CONCEPTUAL DE Ta.
+
+Ta (Scientific Realism) se estructura a partir de 5 postulados defendidos por Mario Bunge en su obra Scientific Realism82.
+
+​ Postulado R1.
+
+R1. There are things in themselves, i.e., objects the existence of which does not depend upon any mind. (Note that the quantifier is existential, not universal: artefacts, thought nonmental, depend on minds for their design and operation).
+
+Este primer postulado83 -conditio sine qua non para reivindicar la posibilidad ex hypothesi del conocimiento objetivo- adquiere mayor relevancia ontológica cuando su referente abarca a la realidad in toto: El mundo EXISTE por sí mismo, su existencia es independiente de su cognoscibilidad. La defensa de tan capital aserto nos enfrenta explícitamente con la tesis del constructivismo ontológico, cuyo origen fue analizado brevemente en líneas anteriores. La tesis constructivista -aplicada a la actividad desarrollada por los científicos- dilapida el discurso racional de la ciencia al declarar  que el conocimiento sobre el mundo -alcanzado por las diferentes disciplinas  científicas- no describe o explica una realidad ontológica (desde los quarks hasta el universo) independiente. Sus leyes, teoremas e hipótesis se refieren exclusivamente a la estructuración, organización y ordenamiento del mundo experiencial construido por el sujeto cognoscente: cada comunidad científica crea sus propios hechos científicos, las convenciones sociales engendran un conocimiento local -los datos no provienen del mundo exterior, sino de un pacto socialmente sancionado por grupos particulares- que renuncia ex professo a la universalidad.
+
+La ciencia se concibe -discurso posmoderno- como un juego lingüístico válido únicamente para aquellos sujetos que en un momento determinado y en una localización específica desean participar de tan subjetiva y lúdica empresa: “El saber científico exige el aislamiento de un juego de lenguaje, el denotativo; y la exlcusión de los demás (…). Ese saber se encuentra así aislado de los demás juegos de lenguaje cuya combinación forma el lazo social. Ya no es un componente inmediato y compartido como lo es el saber narrativo. Es un componente indirecto, por lo que se convierte en una profesión  y
+
+- 32 -
+
+
+

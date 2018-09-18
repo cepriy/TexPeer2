@@ -1,0 +1,559 @@
+﻿http://www.javeriana.edu.co/biblos/tesis/filosofia/tesis08.pdf
+
+Bogotá, D.C., Agosto 28 de 2008.
+
+
+
+Marque con una X
+Tesis	Trabajo de grado
+
+
+Señores
+BIBLIOTECA GENERAL
+Ciudad
+
+
+
+
+Estimados Señores:
+Yo Manuel Andrés Figueroa Castillo, identificado con C.C. No. 80.843.760 autor del trabajo de grado titulado El concepto de libertad en la filosofía de John Dewey presentado  y aprobado en el año 2008 como requisito para optar al título de licenciado en filosofía; autorizo a la Biblioteca General de la Universidad Javeriana para que con fines académicos, muestre al mundo la producción intelectual de la Universidad Javeriana, a través de la visibilidad de su contenido de la siguiente manera:
+
+
+
+ Los usuarios puedan consultar el contenido de este trabajo de grado en la  página Web de la Facultad, de la Biblioteca General y en las redes de información del país  y del exterior, con las cuales tenga convenio la Universidad Javeriana.
+ Permita la consulta, la reproducción, a los usuarios interesados en el contenido de este trabajo, para todos los usos que tengan finalidad académica, ya sea en formato CD-ROM o digital desde Internet, Intranet, etc., y en general para cualquier formato conocido o por conocer.
+
+
+De conformidad con lo establecido en el artículo 30 de la Ley 23 de 1982 y el artículo 11de la Decisión Andina 351 de 1993, “Los derechos morales sobre el trabajo son propiedad de los autores”, los cuales son irrenunciables, imprescriptibles, inembargables e inalienables.
+
+
+
+
+
+
+
+C.C: 80.843.660.
+
+
+
+
+EL CONCEPTO DE LIBERTAD EN LA FILOSOFÍA DE JOHN DEWEY
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trabajo de grado presentado por Manuel Andrés Figueroa Castillo, bajo la dirección del profesor Diego Antonio Pineda,
+como requisito parcial para optar al título de Licenciado en Filosofía
+
+
+
+
+
+
+
+
+
+
+
+
+PONTIFICIA UNIVERSIDAD JAVERIANA
+
+Facultad de Filosofía Bogotá, Julio 31 de 2008
+
+
+
+
+
+
+Bogotá, Julio 31 de 2008
+
+
+
+Doctor
+ALFONSO FLÓREZ FLÓREZ
+Decano Académico Facultad de Filosofía Pontificia Universidad Javeriana
+
+
+
+Apreciado Alfonso:
+
+
+Tengo el gusto de presentar, por intermedio suyo, a consideración de la Facultad, y para su aprobación definitiva de acuerdo con el espíritu del reglamento de la Facultad, el Trabajo de Grado para optar al título de Licenciado en Filosofía del alumno MANUEL ANDRÉS FIGUEROA CASTILLO titulado “El concepto de libertad en la filosofía de John Dewey”.
+
+Considero que el trabajo, fruto de su esfuerzo de lectura y comprensión de la filosofía de Dewey realizada en el último año, es una reflexión ordenada y sugerente sobre el concepto de libertad de este filósofo, concepto que es esencial para la adecuada comprensión de su filosofía política y educativa.
+
+Con lo anterior, reitero mi aprobación del trabajo de Manuel Andrés, pues considero que cumple satisfactoriamente con los requisitos exigidos por la Facultad de Filosofía para el Trabajo de Grado de la Licenciatura en Filosofía. Solicito, pues, que se nombre para él el lector correspondiente, y que, de acuerdo con su juicio, se cite al alumno para su defensa.
+
+
+Cordialmente,
+
+
+
+
+
+DIEGO ANTONIO PINEDA R.
+Profesor Asociado Facultad de Filosofía.
+
+
+
+
+
+AGRADECIMIENTOS
+
+
+
+A Dios, por guiarme como un maestro a su discípulo en el cultivo sincero de la libertad. A mi familia y a mis amigos, por su cariño y apoyo siempre presentes durante la elaboración de este trabajo. A la Compañía de Jesús, por su acompañamiento cercano y amistoso en toda mi etapa de estudios filosóficos. A mi maestro Diego Pineda, por confiar en mí e inspirar a través de sus clases el entusiasmo por la filosofía de John Dewey que dio origen a esta investigación. A todas las personas que de diversas formas me han acompañado en la realización de este trabajo mi más sincera gratitud.
+
+
+
+
+
+
+        Sereís libres en verdad, cuando vuestros días no pasen sin una preocupación, ni vuestras
+noches sin un deseo y una congoja. Sino, más bien, cuando esas cosas acompañen vuestra vida y podaís no obstante, erguiros sobre ellas desnudos y sin ataduras.
+
+
+(Khalil, Gibrán, El Profeta)
+
+
+
+
+
+
+ÍNDICE
+INTRODUCCIÓN	7
+1. LIBERTAD Y NATURALEZA HUMANA	13
+ Antecedentes filosóficos de la comprensión de libertad de John Dewey	14
+ La naturaleza humana en Dewey	20
+  El papel del hábito en la naturaleza humana	23
+  El papel de la inteligencia y su relación con los hábitos	27
+  El rol de los impulsos en su relación con los hábitos	31
+ El concepto de acción recíproca	40
+
+
+
+
+
+2. LA DEMOCRACIA COMO CONDICIÓN PREVIA
+
+A LA CONSECUCIÓN DE LA LIBERTAD	44
+ La democracia como forma de vida	45
+ La comunidad democrática	48
+ La noción de experiencia	50
+ Una democracia más allá de lo político	53
+ Los valores de la democracia	55
+ Ciencia y democracia	64
+ La democracia exige métodos democráticos	69
+
+
+
+
+
+3. EL CONCEPTO DE LIBERTAD
+Y SUS IMPLICACIONES PRAGMATICAS	75
+ La evolución del pragmatismo	76
+  El concepto de libertad en John Dewey	83
+ Un concepto moral	84
+ Libertad y democracia	90
+ La libertad, un concepto político-económico	92
+ La libertad, un concepto pedagógico	100
+3.3 Libertad y educación	102
+CONCLUSIONES	110
+BIBLIOGRAFÍA	115
+
+
+
+
+
+INTRODUCCIÓN
+
+
+
+      Abordar el concepto de libertad es encontrarse con una de las categorías más ampliamente desarrolladas en la historia de la filosofía. Aproximarnos a dicho concepto en la obra del más importante filósofo pragmatista, John Dewey, es insertarse en el desarrollo de una filosofía política y de la educación que sigue interpelando al mundo de hoy, cuestionándolo y abriéndole, a su vez, caminos de acción posibles para su transformación. Así pues, la lectura del presente trabajo podrá suscitar el reconocimiento ameno de un estudio filosófico abierto, moderado, siempre discutible y no concluido sobre la libertad.
+      Nuestra investigación trata a la libertad principalmente como concepto moral y se enmarca en el contexto histórico y filosófico de los Estados Unidos de comienzos del siglo XX, particularmente, en la evolución de lo que el filósofo de Burlington, John Dewey, llamó movimiento pragmatista. Reconocer la obra de Dewey como parte de esta filosofía en proceso de evolución nos ha de trazar una ruta de seguimiento al problema de la libertad  que ha de indagar más por el modo como el autor construye dicha noción  y no tanto por una definición concreta y directa de la misma; aunque la pretensión final sea que al descubrir lo primero, podamos evidenciar lo segundo.
+      La importancia que Dewey otorgó al carácter moral del concepto de libertad y a las consecuencias que éste traía a nivel político, económico y pedagógico, significó un importante aporte a la superación del lastre metafísico con el que dicho concepto se había desarrollado en el recorrido histórico de la filosofía. Durante la Edad Media la noción de libertad tuvo un amplio despliegue intelectual evidenciado en las teorías sobre el libre albedrío. La libertad fue asociada con la posibilidad de elección pero un tipo de elección orientada por una voluntad comprendida como una facultad cuyo rasgo característico era la indiferencia, la capacidad de elegir un camino u otro sin ser movido por algún impulso o deseo en particular. Las comprensiones de libertad así   constituidas
+
+
+
+
+
+
+fueron un fiel reflejo de una visión dualista y escindida de los individuos según la cual sus acciones y elecciones eran más el producto de fuerzas externas que de sus propias emociones y sentimientos.
+      Sería sólo hasta los inicios de la modernidad que las acciones y elecciones de los individuos comenzarían a ser vistas en estrecha conexión con la configuración y el carácter de los mismos. A partir de este tipo de comprensiones, la realización plena de la libertad fue asociada con el ejercicio abierto de las capacidades humanas, para lo cual  era necesaria la supresión de aquellas restricciones políticas y económicas impuestas a los individuos por las instituciones que regían las distintas sociedades.
+      Fue el principio del laissez-faire, y su rechazo de todas las limitaciones  impuestas por las grandes instituciones y el Estado, el que fundamentó la noción de libertad y de individuo que configuraron la Modernidad. Con todo, esta importante visión de la libertad, desarrollada en los orígenes del liberalismo clásico, no constituyó una emancipación humana sino la liberación de los intereses propios de aquellas clases que el pensamiento liberal representaba. Esta noción de libertad tuvo como base la creencia de que todos los individuos están igualmente configurados (independientemente de sus posibilidades económicas, nivel de educación, etc.) para actuar libremente si no  se hallan impedidos por cualquier tipo de reglas. Con el tiempo, estos principios operantes del liberalismo que permearon la sociedad moderna consolidarían la unión de uno de sus bienes más preciados y defendidos, la democracia, con las dinámicas propias de uno de sus más criticados productos, el capitalismo. Este hecho constituyó el germen de lo que Dewey llamó el fracaso del liberalismo.
+      En este complejo contexto político y económico se ubica el aporte del filósofo de Burlington. La filosofía de John Dewey se desarrolló al tiempo que surgían los regímenes totalitarios en los que la libertad y la democracia se vieron seriamente amenazadas y restringidas a un ámbito estrictamente político y procedimental. Las instituciones  del  liberalismo  clásico  económico  comenzaban  a  evidenciar  su fracaso
+
+
+
+
+
+
+después de un tiempo de fervor industrial desordenado y las sociedades que se hacían llamar orgullosamente democráticas tomaban rumbos totalmente contrarios  a  sus ideales. Así pues, las dinámicas de gobierno de aquellas sociedades que se autodenominaban democráticas resultaban bastante distantes de las dinámicas sociales  en las que participaban sus miembros.
+      La reconstrucción del concepto de libertad desarrollada por Dewey en este contexto implicó no sólo una transformación de la comprensión de la naturaleza  humana, sino también una radicalización de la noción de democracia que se tenía en los Estados Unidos de principios del siglo XX; dicha radicalización de la democracia y sus consecuencias en el ámbito educativo siguen interpelando al mundo contemporáneo que encuentra en la obra deweyana una fuente de inspiración para su positiva  transformación.
+      En efecto, el reconocimiento de unas condiciones positivas de vida necesarias en la sociedad, que superaran la simple supresión de restricciones propuesta por el liberalismo, y el planteamiento de una ética de la democracia en la que la libertad y la plena confianza en las potencialidades humanas son valores fundamentales, hizo posible concebir una filosofía política con pretensiones morales que llevó a comprender que la solución de los problemas sociales sólo es posible a través del esfuerzo cooperativo entre los individuos y que la democracia, más que un tipo de gobierno, es una forma de vida.
+      El aporte filosófico de Dewey acaba con las interpretaciones estrictamente políticas de la democracia. La democracia no será para Dewey un modo de gobierno manejado por las mayorías a partir de procesos electorales masivos, sino una forma de vida social. En una comunidad democrática, la participación activa y cooperativa de sus miembros y la visualización de aquellos fines y medios que la misma comunidad considere propicios para su bienestar social, son los medios fundamentales para la transformación de la sociedad.
+
+
+
+
+
+
+      Dewey es, sin duda, la figura más representativa del pensamiento filosófico y pedagógico norteamericano, pero su obra trasciende las fronteras geográficas y temporales en las que surge para aportar y dialogar en el ámbito de la reflexión filosófica universal actual. Nuestro acercamiento a su comprensión de la democracia como forma de vida y a la reconstrucción que hace del significado de la libertad constituye un pertinente punto de referencia para la reflexión y discusión de preguntas que considero están hoy vigentes para la filosofía.
+      Actualmente es posible escuchar con frecuencia mencionar a la libertad y la democracia como ideales naturales e inherentes a la humanidad. Los líderes dirigentes  de las grandes potencias constantemente se proclaman a sí mismos y a sus países como fieles abanderados de la “causa democrática”, afirmando además, que la defensa de los ideales de la libertad y la democracia ha de llevarse hasta las últimas consecuencias. No es inusual encontrar descripciones de la democracia y la libertad como ideales universales, esenciales a la humanidad, que deben ser expandidos a toda costa, que deben ser llevados e implantados en toda nación donde no exista, sin escatimar  esfuerzos.
+      Estas aseveraciones, que en principio señalan la búsqueda de valores muy preciados por la humanidad, frecuentemente se ven desacreditadas por los medios que son utilizados en su consecución. Bajo estas premisas universalistas y naturalistas de los ideales “democráticos” se han visto lamentablemente justificados medios antidemocráticos como la violencia evidenciada en la guerra y el aniquilamiento de seres humanos considerados “antipatriotas”, “terroristas” y “opositores” de los intereses más nobles e “inherentes a la humanidad”. Cuando se comprende la democracia como algo inseparable de la naturaleza humana, la sociedad legítima ciegamente medios totalmente anti-democráticos como los mal llamados “ataques preventivos”, las guerras invasoras,  la violación de la soberanía de los países, y los “daños colaterales” producidos en la supuesta búsqueda por alcanzar fines y valores preciados para la humanidad.
+
+
+
+
+
+
+      ¿No constituyen este tipo de realidades la concreción visible de comprensiones erróneas de la democracia heredadas del pensamiento filosófico?, ¿no son acaso una nueva forma de desconocer y negar las potencialidades humanas, en especial, la capacidad de autodeterminación y de hacer uso de la inteligencia en la elección de los medios y fines que sean más propicios a su bienestar? Nuestro análisis nos ha de  plantear cuestionamientos relevantes en el examen de las prácticas de la sociedad contemporánea, sociedad que se configuró en el ejercicio de los planteamientos filosóficos desarrollados en el pasado, en particular, durante la modernidad.
+      Nuestra investigación está organizada en tres capítulos. En el primero de ellos examinaremos cómo la búsqueda por definir el concepto de libertad en la filosofía de John Dewey pasa previamente por su comprensión de la naturaleza humana. Para ello, analizaremos algunos de los antecedentes filosóficos que precedieron la noción deweyana de libertad. (1.1) Luego, reconoceremos, en segunda instancia, cuáles son los componentes que configuran la comprensión deweyana de naturaleza humana. (1.2) Una vez identificado esto, estudiaremos el que es, sin duda, el elemento clave de dicha comprensión, este es, el hábito. (1.3) Seguidamente, abordaremos también los otros dos componentes que junto con los hábitos configuran el eje central alrededor del cual Dewey construye su noción de naturaleza humana. Estos son, la inteligencia (1.4) y los impulsos. (1.5) Así, podremos acercarnos finalmente al concepto de acción recíproca que comprende la relación de todos los componentes antes expuestos y nos señala además cómo el individuo en Dewey es un ser que se construye en la relación continua de su naturaleza biológica y el entorno social que lo circunda. Entender el concepto de acción recíproca nos coloca en el horizonte de la pregunta que nos responderemos en el segundo capítulo y que indaga por ¿Cuál es el tipo de sociedad que tiene entre sus consecuencias directas la formación de personas libres? (1.6)
+      El segundo capítulo se centra en la caracterización que hace Dewey de la democracia como condición de posibilidad para la vivencia auténtica de la libertad. Presentamos, en primer lugar, toda la descripción que hace Dewey de la democracia
+
+
+
+
+
+
+como una forma de vida. (2.1) Exponemos, a continuación, las características de una comunidad democrática (2.2), y su relación con la noción de experiencia (2.3) que nos coloca en el horizonte de una propuesta de democracia que trasciende lo estrictamente político(2.4), y que encarna unos valores muy específicos. (2.5) Por último, planteamos la importante relación que existe en la filosofía deweyana entre los valores propios de la ciencia y la realización de la democracia. (2.6) A modo de conclusión, indicamos cómo para lograr una genuina y legítima vivencia de la democracia se hace ineludible la utilización exclusiva de medios democráticos. (2.7)
+      En nuestro tercer y último capítulo pretendemos, finalmente, definir el concepto de libertad y explicar cuáles son sus implicaciones prácticas. Para ello, mostraremos, en primera instancia, por qué un concepto como el de libertad revierte en unas consecuencias concretas para la sociedad y cómo este tipo de planteamiento se corresponde con la tradición del movimiento pragmatista del cual Dewey participa. (3.1) Luego, introducimos las definiciones que Dewey hace de libertad y sus distintos énfasis. (3.2) Esto último, nos permitirá abordar cada una de las perspectivas desde las cuales Dewey define la noción de libertad. En primer lugar, como concepto moral (3.2.1) luego en su relación con la democracia, (3.2.2) en tercer lugar, como concepto político y económico (3.2.3) y por último, como concepto pedagógico. (3.2.4) Finalmente, analizaremos, por un lado, cómo la relación existente entre libertad y educación implica una serie de consecuencias a nivel pedagógico, y, en segunda instancia, cuáles son esas consecuencias. (3.3)
+
+
+
+
+
+
+Capítulo 1
+
+
+
+
+LIBERTAD Y NATURALEZA HUMANA
+
+
+“Lo que los hombres han estimado bajo el nombre de libertad y por lo que han luchado, es variado y complejo, pero, en verdad, nunca ha sido un libre albedrío metafísico."1
+
+
+   Una de las categorías que ha inquietado fuertemente a los hombres y que atraviesa desde sus inicios hasta el presente la historia de la filosofía ha sido la de libertad. Considerada como objeto de búsqueda y de especulación ha sido en algunos periodos motivo de intensas luchas políticas y también de diversas y extensas disertaciones. El filósofo norteamericano John Dewey no estuvo exento de dichas búsquedas, antes bien, participó activamente de éstas al plantear un modo nuevo de comprender la libertad que integrara las nociones previas que de ella se había construido a través de los siglos.
+¿Cuáles son los ejes temáticos alrededor de los cuales se ha construido la noción de libertad? Y, ¿cuál es la novedad del aporte de Dewey en dicha construcción?  Son algunas de las preguntas que nos responderemos en nuestra investigación, particularmente, en la primera parte del presente capítulo. Luego, reconoceremos cuáles son los conceptos centrales que configuran la noción deweyana de naturaleza humana dado que esta última constituye la base sobre la cual se fundamenta la construcción del concepto de libertad. Conceptos como el de hábito, impulso, inteligencia y acción recíproca  resultarán  de  suma  importancia  en  nuestra  descripción  de  como    Dewey
+1 DEWEY, JOHN, Naturaleza humana y conducta, Trad. Rafael Castillo (México, Fondo de Cultura Económica, 1964, p. 275. Siempre que sean aceptables, citaré por las traducciones disponibles de las obras de Dewey. Cuando no hay traducción, cito y traduzco por la edición en inglés: The Complete Works of John Dewey, Carbondale, Southern Illinois University Press, 37 vols., 1968-1992: The Early Works,  1882
+– 1898 (EW); The Middle Works, 1899-1924 (MW) y The Later Works, 1925-1953 (LW). Las siglas siempre van seguidas de número de volumen y número de página.
+
+
+
+
+
+
+entiende al individuo. Estas definiciones, junto con el análisis previo de los  antecedentes filosóficos de la noción deweyana de libertad, serán nuestro primer objeto de estudio.
+
+
+
+ Antecedentes filosóficos de la comprensión de libertad de John Dewey
+
+   Al aproximarnos a la noción de libertad del filósofo norteamericano John Dewey, descrita en algunos de sus textos como Libertad y cultura, Naturaleza humana y conducta y Teoría de la vida moral, entre otros, encontramos que, en realidad, nunca  nos es dada una definición única y contundente de lo que es la libertad. Lo que sí se encuentra de principio a fin en dichos textos son una serie de reflexiones alrededor de la constante tensión entre lo que pueda ser la libertad y lo que ciertamente no lo es o la obstaculiza. ¿Qué acciones nos aproximan a la vivencia de la libertad y cuáles nos distancian de su autenticidad? ¿Qué tipos de Estado niegan la libertad de plano y cuáles la propician como su producto natural? ¿Qué elementos de la cultura se han de fortalecer para lograr dicha libertad en la sociedad? Son algunas de las muchas preguntas que Dewey plantea al momento de indagar qué es la libertad.
+   Dado que no existe una única respuesta contundente que sea dada por el autor a  estas preguntas, no nos es posible acceder directamente a la definición de dicha noción. Así las cosas, al trazarnos una ruta de seguimiento al problema de la libertad, la  búsqueda que nos servirá de guía examinará más por el modo como Dewey construye la idea de libertad y no tanto por qué sea esta en sí misma, aunque la pretensión en últimas sea que, la respuesta a la primera, nos conduzca a responder la segunda.
+   Un primer hecho que debe reconocerse al evidenciar el modo como Dewey construye el concepto de libertad es el rescate que el autor hace de la tradición filosófica en la que dicho concepto se ha desarrollado. Para seguir el análisis crítico-histórico que Dewey hace del concepto de libertad nos orientaremos por su ensayo Philosophies of
+
+
+
+
+
+
+Freedom.2  En este escrito Dewey identifica y analiza críticamente las transformaciones  y énfasis que ha tenido la noción de libertad a través de la historia de la filosofía. Para Dewey, el desarrollo histórico del concepto de libertad ha estado atravesado por algunas constantes registrables en la producción intelectual filosófico-política. Así por ejemplo, una de estas constantes ha sido la exaltación del acto de elección.3 Son muchas las reflexiones en las que se resalta la importancia y significado de la posibilidad de   elegir;
+todas estas reflexiones sin embargo, han encontrado un eje conductor en la elaboración del concepto de libertad, pues es alrededor de esta idea que es posible unificar los diversos sentidos y énfasis que ha tenido el término a través de la historia.
+   Desde los inicios de la filosofía se ha creído y cultivado el sentimiento de que poder elegir es ser libre y que un hombre privado de esta posibilidad es una marioneta que no puede contemplar sus acciones como propias. Es en otras palabras, un medio pasivo a través del cual operan entes externos al individuo. En este sentido bien podríamos recordar a Platón que en uno de los pasajes de La República nos indica cómo la capacidad de elegir implica también la responsabilidad que es, de acuerdo con Dewey, otra de las temáticas constantes a las que se vería estrechamente vinculada la construcción de la noción de libertad en la historia de la filosofía.
+Ésta es la palabra de la virgen Láquesis, hija de la Necesidad: Almas efímeras, he aquí que comienza para vosotras una nueva carrera caduca en condición mortal. No será el hado quien os elija, sino que vosotras elegiréis vuestro hado. Que el que salga por suerte el primero, escoja el primero su género de vida, al que ha de quedar inexorablemente unido. La virtud, empero, no admite dueño; cada uno participará más o menos de ella según la honra o el menosprecio en que la tenga. La responsabilidad es del que elige; no hay culpa alguna en la Divinidad.4
+
+   Así pues, dentro del conjunto de las primeras reflexiones filosóficas sobre la libertad Dewey identificó algunas temáticas constantemente tratadas y estrechamente vinculadas a dicho tema; cuestiones como la de la responsabilidad y la elección fueron estudiadas como parte importante a la hora de entender qué es la libertad. Las disertaciones que   se
+
+
+2 Cfr. LW, 3:92-114
+3 Cfr. LW, 3:92
+4 PLATÓN, La República, Gredos, Madrid, 1998, pp.491-492, (617 d – e).
+
+
+
+
+
+
+realizaban sobre el tema con el tiempo fueron transformando su eje reflexivo. En la Edad Media, por ejemplo, algunas consideraciones que se desarrollaron sobre la libertad sirvieron de base teórica para entender y justificar el castigo. En efecto, se pensó que a no ser que se pudiera considerar a los hombres como responsables de sus acciones, sería injusto castigarlos; si estos no fuesen capaces de conducir sus acciones5, ¿cómo podría considerarse justo hacerlos responsables de las mismas y castigarlos por éstas? Así,   fue
+evolucionando cierta filosofía que describía la naturaleza de la elección como una libertad desarrollada; la persona capaz de elegir podía ser considerado un ser libre, responsable de sus acciones y, por tanto, susceptible de ser castigado.
+   El desenlace de dichas reflexiones fueron las teorías sobre el libre albedrío y la noción de que existía un poder llamado voluntad que se configuraba como la base de la elección y la esencia de la libertad. Esta voluntad tenía el rasgo de ser indiferente, es decir, capaz de escoger un camino u otro sin ser movido por algún impulso o deseo en particular. Este punto de vista se fue estableciendo tan sólidamente que aún hoy comúnmente se identifican la elección y el libre albedrío como una y la misma cosa. En el marco de estas disertaciones podemos ubicar lo desarrollado por Santo Tomás de Aquino, quien afirmó que:
+El hombre posee libre albedrío; de lo contrario, serían inútiles los consejos, las exhortaciones, los preceptos, las prohibiciones, los premios y los castigos. Para explicar esto, adviértase que hay seres que obran sin juicio previo alguno; v. gr., una piedra que cae y cuantos seres carecen de conocimiento. Otros obran con un juicio previo, pero no libre; así los animales. La oveja que ve venir al lobo, juzga que debe huir de él; pero con un juicio natural y no libre, puesto que no juzga por comparación, sino por instinto natural.6
+
+   De acuerdo con Dewey, dichas creencias e interpretaciones de la libertad presentaban algunos errores al no reconocer las acciones como productos del hombre mismo, de su configuración biológica y social en la que intervienen sus hábitos, instintos, deseos    y propósitos. En efecto, fundamentar la elección a partir de elementos
+
+
+5 Cfr. LW, 3: 94
+6 TOMÁS DE AQUINO, Suma Teológica (1266 – 1274), trad. Francisco Barbado Viejo, Madrid, Biblioteca de Autores Cristianos, 1959, p. 359, (I, q. 83, a. 1).
+
+
+
+
+
+
+como la voluntad entendida como fuerza externa al individuo y causante última de sus acciones resultaba problemática. La consideración seria de la psicología humana y de aquellos factores que la componen como las emociones, los sentimientos, los instintos y los deseos sólo llegaría a darse durante la modernidad con aportes de filósofos como David Hume a quien Dewey consideró su predecesor en su comprensión de la naturaleza humana.
+   Hoy en día cuando estas teorías han sido ya examinadas y reconstruidas somos capaces de reconocer que la formación de la libertad de los individuos se desarrolla a partir del ejercicio de la capacidad de elegir y de la responsabilidad que la vida misma exige en las condiciones y problemáticas dadas por la sociedad. Un niño a medida que crece va encontrando responsabilidades que le son exigidas, esto, sin embargo, no es comprendido hoy como la introducción repentina del libre albedrío, sino que, constituye una de las dinámicas más espontáneas de lo que llamamos crecimiento; y es este último el que progresivamente permite la participación activa de los individuos en la sociedad.
+   Con el tiempo, la reflexión filosófica alrededor del tema de la libertad transformó su eje central, ya no sería la elección sino la acción -la acción pública y abierta- el tema en torno al cual giraría las disertaciones sobre la libertad.7  Este tipo de comprensiones de la
+libertad se encuentran bien representadas en la modernidad por el aporte de uno de los filósofos más importantes del liberalismo clásico, el filósofo inglés John Locke. Locke afirmó que la libertad es posibilidad de actuar de acuerdo con la elección. Es la habilidad real para llevar a cabo los deseos y propósitos, para llevar a cabo las elecciones que se han tomado.
+   El desenlace de la historia económica y política que dicha época suscitaba mostró que ciertas reglas e instituciones constituían los principales obstáculos para la libertad. Las instituciones que regían la sociedad como la Iglesia y los Estados con sus leyes y estructuras de gobierno fueron vistas como opresivas. Así las cosas, la verdadera libertad
+
+7 Cfr. LW, 3:97
+
+
+
+
+
+
+que valía la pena defender sólo era posible a partir de la abolición de aquellas leyes, estructuras de gobierno e instituciones consideradas restrictivas de la libertad. La  libertad se fue mezclando así con las motivaciones e intereses políticos de la época, formándose la filosofía que configuró al Liberalismo clásico. Una buena descripción de la visión de libertad que dicha filosofía promulgó la encontramos en el siguiente fragmento del Ensayo sobre el entendimiento humano de Locke:
+Supongamos ahora que un hombre profundamente dormido sea llevado a un cuarto donde está una persona que él desea ver con vehemencia y con quien desea conversar, y supongamos, además, que se cierre con llave ese cuarto de tal suerte que no le sea posible salir. Al despertar  ese hombre, se mostrará feliz al encontrarse en compañía tan deseada, y permanecerá voluntariamente con ella, es decir, preferirá quedarse en el cuarto en lugar de salir de él. Ahora bien, pregunto si no, acaso, es voluntaria la permanencia de ese hombre en ese cuarto. Creo que nadie dudará que es voluntaria, y, sin embargo, como está encerrado, es evidente que no está en libertad de no quedarse; carece de la libertad de salir. Es así, entonces, como la libertad no es una idea que pertenezca a la volición o a la preferencia de la mente, sino que pertenece a la persona que tiene la potencia de obrar o de abstenerse de obrar, según que elija o determine su mente. Nuestra idea de la libertad llega hasta donde llega esa potencia, y no más allá.8
+
+   A finales del siglo XVIII el eje temático central alrededor del cual se pensó el problema de la libertad cambiaría una vez más. Ya no sería el poder para realizar propósitos, comprendido en el marco de los ideales del liberalismo clásico, sino el poder para satisfacer las necesidades por medio del trabajo y del libre intercambio lo que se constituiría objeto de reflexión y estudio. En esta época se ubica la consolidación del principio base del liberalismo, el principio del dejar-hacer, “laissez faire”, y las posteriores teorías que analizaban y criticaban dicho principio y uno de sus productos, el capitalismo.
+   Posteriormente, los filósofos fijaron la atención de sus reflexiones en un tipo de libertad de corte más psicológico. Las consideraciones alrededor del problema de la libertad volcaban su interés sobre la capacidad de libre expresión de los individuos. La idea popular de la libertad personal, expresada en la posibilidad de dar curso libre a los impulsos y deseos (libres en el sentido de no restringidos por alguna ley, costumbre o
+
+8 LOCKE, JOHN, Ensayo sobre el entendimiento humano, trad. Edmundo O’Gorman, México, Fondo de Cultura Económica, 1956, pp. 219 – 220.
+
+
+
+
+
+
+desaprobación social) evidenciaba la falacia del ideal de la libertad planteada durante la consolidación del liberalismo clásico. El liberalismo desconoció que el amplio crecimiento económico y la libre expresión de algunos limitaba las posibilidades de desarrollo de otros.
+   La libertad psicológica, sin embargo, también incurría en otro tipo de error y era dar un fuerte énfasis al carácter natural de los deseos, instintos, sentimientos e impulsos ignorando la influencia que sobre éstos tiene el entorno social circundante.9  Así pues,  el
+medio social seguía siendo considerado sólo en los casos en que constituía un obstáculo para la expresión libre de los impulsos naturales. Posteriormente, John Dewey  construiría su comprensión crítica de la libertad; él rescató e identificó las virtudes y falencias de las formas previas como ésta había sido entendida. La acción recíproca y constante entre la naturaleza humana y la cultura y su papel en la configuración del hombre constituyen algunas de las ideas centrales y originales del autor que posibilitan  la acertada comprensión de su filosofía y su definición de la libertad.
+   En términos generales, las nociones de libertad que Dewey analizó y que hemos mencionado hasta ahora fallaban al no considerar cómo el medio social comprendía una parte importante en la construcción del individuo y la posibilidad de una vivencia genuina de la libertad. El hombre por mucho tiempo fue considerado exclusivamente como una creación pura y perfecta de Dios, con lo que el entorno circundante resultaba visto como causante de las corrupciones en el ser humano. Luego el Liberalismo comprendería al hombre como un ser dotado de una serie de capacidades innatas, y llamaría libertad al ejercicio libre de dichas capacidades, es decir, la libertad sería vista como algo posible a partir de la supresión de las restricciones e instituciones regentes de la sociedad.
+   Ahora bien, no se puede desconocer, por dichos errores, la importantísima labor de emancipación política y económica que logró la comprensión liberal del hombre en la
+
+9 Cfr. LW, 3:98
+
+
+
+
+
+
+historia. Sin embargo, no podemos hablar de una emancipación humana puesto que  dicho proceso correspondió más a la emancipación de los intereses propios de aquellas clases que el pensamiento Liberal representaba. La noción de que todos los hombres están igualmente configurados en su naturaleza para actuar libremente si no se hallan obstaculizados por cualquier tipo de reglas – indiferente de los niveles de educación y de manejo de capital – era absurda, y los hechos que se desenlazaron con el tiempo lo demostraron.
+   Dewey nos mostrará que los derechos y las necesidades de los hombres son productos de las interacciones, y no se encuentran en una constitución humana original y aislada. Así pues, para vivir una libertad real no será suficiente la eliminación de las obstrucciones impuestas por la sociedad a través de sus instituciones, sino que dependerá de condiciones y transformaciones sociales positivas, condiciones que en el marco de la filosofía deweyana se encontrarán ampliamente encarnadas en los rasgos propios del modo de vida democrático.
+   Ésta es la visión de libertad que elabora Dewey y que analizaremos en su construcción e implicaciones prácticas en el presente trabajo de grado. Para ello, entender la visión de naturaleza humana del autor constituye una primera puerta de acceso que nos permite una adecuada comprensión de su noción por libertad. Dewey nos dirá al respecto que, “el problema de la constitución de la naturaleza humana queda
+involucrado, ya que es parte de nuestra tradición que el amor a la libertad es inherente a ella. ¿Es un mito la psicología popular de la democracia?”10
+
+
+
+
+
+
+
+
+
+10 DEWEY, JOHN, Libertad y Cultura, trad. Rafael Castillo, México, ed. UTEHA,  1965, p. 3.
+
+
+
+
+
+
+ La naturaleza humana en Dewey
+
+   De acuerdo con J.E. Tiles11, la columna vertebral de la filosofía de John Dewey reposa sobre su visión distintiva de los seres humanos y sus potencialidades. Cualquier comentario crítico de la filosofía Deweyana debe ser examinada a partir de este pilar central de su pensamiento. Esta columna que soporta la estructura teórica del pensamiento Deweyano está compuesta por varios elementos como son los conceptos de hábito, acción recíproca, emoción, impulso, inteligencia, conducta, entre otros. Entre todos estos conceptos el de hábito se configura como el eje central en torno al cual se hace comprensible la visión deweyana de la conducta humana. Apoyando esta interpretación, Elizabeth Flower, comentarista de la obra deweyana nos dirá al analizar  el texto Naturaleza humana y conducta: “Naturaleza humana y conducta es la orquestación de un tema en tres movimientos, impulso, inteligencia y hábito, y el más
+grandioso de estos es el hábito.”12
+
+   El mismo Dewey nos dirá en la introducción de su libro Naturaleza humana y conducta que, sin pretender hacer de éste un tratado de psicología social, sí será la comprensión del hábito la clave de esa psicología, en tanto que la actuación del impulso y de la inteligencia nos darán la clave de la actividad mental individualizada. En este sentido Dewey nos indica que: “…El impulso y la inteligencia son secundarios respecto al hábito; de manera que, en concreto, puede considerarse la mente sólo como un  sistema de creencias, deseos y propósitos que se originan en la acción recíproca entre las
+aptitudes biológicas y el medio social.”13
+
+   La elaboración de esta noción de naturaleza humana, al igual que la comprensión misma de la libertad, no parte de la nada, no es un constructo teórico absolutamente original, sino que surge como una visión crítica de las distintas formas de entender al
+11 Cfr. TILES, J.E, John Dewey, Critical Assessments, Routledge, London, 1992, Vol. 1. p. 1.
+12 FLOWER, ELIZABETH, A Naturalistic Psychology, Individual and Social, en John Dewey Critical Assessments, Vol.1, Routledge, London, 1992, p. 36. La traducción es mía.
+13 DEWEY, JOHN, Naturaleza humana y conducta, Op. Cit. p. 11.
+
+
+
+
+
+
+hombre en su constitución y psicología desarrolladas en la historia. Dewey en su ensayo titulado Human Nature14 identifica y agrupa dichas comprensiones en cuatro modos de ver la naturaleza humana que se han sucedido o enfrentado a través de la historia y que  se han consolidado en las ciencias sociales tratando de responder cuestionamientos   que
+han generado inquietud para sus disciplinas. ¿Son las instituciones políticas y económicas contemporáneas productos necesarios de la naturaleza humana? ¿Qué tan modificable es la naturaleza humana a partir de esfuerzos premeditados? ¿Qué  tan grande es el rango de diferencias en la naturaleza humana de los individuos y de los grupos humanos?
+   Estas preguntas y sus respuestas están, sin duda, fuertemente motivadas por  intereses y sentimientos arraigados en los distintos grupos y clases sociales que han existido en la historia. Así pues, un hecho bastante frecuente de las visiones de naturaleza humana que se han desarrollado es que éstas han sido utilizadas en diversos sentidos siempre condicionados por los intereses del contexto general de cada época histórica del pensamiento. De acuerdo con Dewey, las visiones de naturaleza humana desarrolladas hasta su época en la historia pueden agruparse en 4 tipos, estos son:
+1. La naturaleza humana como expresión que hace referencia a una constitución innata y original, en la que se enfatiza lo instintivo, lo no adquirido.
+2. La naturaleza humana entendida exclusivamente en términos de capacidades o facultades psicológicas. En este sentido, lo psicológico aparece como antítesis de lo meramente físico o social.
+3. La naturaleza humana como algo que es en sí mismo vacío, sin forma. Su rasgo más importante es la capacidad para ser moldeada por la influencia del entorno.
+4. La naturaleza humana como algo que no puede ser definido en términos de constitución de los individuos ya sea natural o adquirida. De acuerdo  con este tipo de comprensiones, la naturaleza humana sólo puede conocerse a través de
+
+14  Cfr. MW, 6: 29.
+
+
+
+
+
+
+sus productos concretos objetivos como el lenguaje, la religión, la ley, el Estado, y las artes.
+   Al examinar estas diversas visiones de la naturaleza humana podemos evidenciar  que resulta en extremo difícil lograr establecer puntos de acuerdo entre ellas. Podríamos afirmar incluso que son excluyentes entre sí. Así por ejemplo, pensar que existe una naturaleza humana original inalterable es negar de plano lo que comúnmente llamamos crecimiento y ello implicaría asumir un carácter estático inexistente en la naturaleza humana ignorando toda la influencia de las instituciones que han regido su desarrollo en la historia.
+   Nos aproximaremos ahora a la comprensión de naturaleza humana desarrollada por Dewey. Para ello, parte de nuestra investigación atenderá a lo planteado por el autor en su obra Naturaleza humana y conducta. Comenzaremos pues por el elemento que Dewey consideró clave para la comprensión de la naturaleza humana, este es a saber, el hábito.
+
+
+
+ El papel del hábito en la naturaleza humana
+
+   Antes de exponer cómo está configurada la naturaleza humana en sus diversos componentes Dewey analiza una constante en la historia del pensamiento humano:
+La naturaleza del hombre ha sido vista con sospecha, con temor, con desagrado y, a veces, con entusiasmo por sus posibilidades, pero sólo cuando éstas se hacían contrastar con sus realidades. Se le ha hecho aparecer tan malignamente dispuesta que la labor de la moralidad consistía en recortarla y someterla; sería mejor si se la pudiera sustituir por alguna otra cosa.15
+
+   De acuerdo con Dewey, los moralistas vieron en la naturaleza humana algo que se les resistía, que no se dejaba controlar, ¿por qué estableció la moralidad preceptos tan ajenos a la naturaleza humana? Si las finalidades sobre las que insistía y las reglas que imponía eran después de todo productos de tal naturaleza humana ¿por qué, entonces,
+15 DEWEY, JOHN, Naturaleza humana y conducta, Op. Cit. p. 13.
+
+
+
+
+
+
+ésta les era tan contraria?16 Son algunas de las preguntas que introducen la reflexión deweyana que indaga y busca establecer una comprensión de la naturaleza humana. Es en esta investigación sobre cómo se ha entendido la naturaleza humana que Dewey sitúa al hábito como el elemento distintivo y clave para explicar el comportamiento humano.
+   Si bien es un lugar común en la psicología enfatizar el carácter repetitivo de los hábitos, tratando de señalar que esto es lo que los distingue de otros elementos propios del comportamiento humano, Dewey, sin embargo, matiza y rechaza dicha interpretación. En la noción deweyana de naturaleza humana los rasgos característicos  de los hábitos son distintos. Lo propio de los hábitos va mucho más allá de su carácter repetitivo, en este sentido nos dice el autor:
+La repetición no es, en ninguna forma, la esencia del hábito; la tendencia a repetir actos es inherente a muchos de ellos pero no a todos. La esencia del hábito es una  predisposición adquirida hacia formas o modos de reacción y no hacia actos en particular, a menos que en condiciones especiales, éstos sean la expresión de una forma de comportamiento.17
+
+   Un hábito es una sensibilidad particular a ciertas clases de estímulos, de predilecciones y aversiones permanentes. Podemos decir entonces que nuestras formas de conducta física, emocional y cognitiva se conciben también como capacidades organizadas o hábitos. No se trata de una simple repetición de actos específicos, sino que son disposiciones con una continuidad, es decir, los hábitos se manifiestan en la diversidad de los actos y sus consecuencias. Una disposición significa tendencia  a actuar, una energía en potencia que dadas ciertas condiciones se expresa y hace visible. Gracias a esta característica de los hábitos podemos hablar de una unidad de carácter y conducta en los individuos. En palabras de la profesora Elizabeth Flower, “los hábitos
+son herramientas que ponen la experiencia acumulada a nuestra disposición.”18
+
+   En el marco de la filosofía deweyana, los hábitos evidencian la conexión y coherencia de las acciones que se realizan y los motivos que las producen. Si partimos
+
+16 Cfr. Ibídem.
+17  Ibíd. p. 49
+18 FLOWER, ELIZABETH, A Naturalistic Psychology, Individual and Social, Op. Cit. p. 34.
+
+
+
+
+
+
+del presupuesto de que motivos y acciones se encuentran separados se generan graves consecuencias a nivel moral. Para describir esta situación nos indica Dewey:
+Una santidad de carácter que se manifiesta sólo en las fiestas de guardar, es ficticia; si una virtud como la honradez, la castidad o la benevolencia vive dentro de sí misma, independientemente de resultados definidos, acaba por consumirse y evaporarse por sí sola. La separación del motivo y la fuerza que lo impulsa en una acción, es causa tanto de las morbosidades y futilezas de los profesionalmente buenos, como del menosprecio más o menos subconsciente que por la moralidad tienen las personas de fuertes hábitos ejecutivos, que prefieren “hacer las cosas”.19
+
+   Tenemos entonces que la unidad de carácter en la personalidad de un individuo se manifiesta en los actos producidos por sus hábitos y sus consecuencias. No podemos pues separar un acto del motivo que lo produce y las consecuencias que trae al momento de juzgar moralmente un hábito pues éste encarna la agrupación de estos tres elementos. En apoyo de esta interpretación encontramos lo señalado por Don Mixon, comentarista de la obra de John Dewey, quien afirmó: “La responsabilidad por las propias acciones
+significa en últimas hacerse responsable por los propios hábitos.”20
+
+   Otro de los rasgos característicos de los hábitos es que operan como fuerzas o energías potenciales. Un hábito al que se le impide su realización manifiesta busca  lograr expresarse ya sea a modo de idea o de deseo que encarna toda la fuerza del hábito frustrado. Sobre esta transformación nos dirá Dewey: “no es lo que a veces llamamos  tal, una abstracción pálida y anémica, sino que está cargado de la urgente fuerza motriz”21
+   En la búsqueda por establecer las condiciones que permitan la expresión abierta de los hábitos se hace necesario no sólo la modificación de los mismos viejos hábitos que habiéndose constituido como respuesta a situaciones del pasado no logran una expresión libre en el presente, sino también la transformación del medio en el que éstos se desenvuelven. Los hábitos se configuran a partir de aquello que asimilan del medio
+
+19 DEWEY, JOHN, Naturaleza humana y conducta, Op. Cit. p. 52
+20 MIXON, DON, John Dewey: Critical Assessments, Routledge, London 1992, Vol 1. p. 74. La traducción es mía.
+21 DEWEY, JOHN, Naturaleza humana y conducta, Op. Cit. p. 52.
+
+
+
+
+
+
+circundante en el cual se construyen. Esto último constituye un elemento importante que enfatiza la urgencia de comprender la visión de naturaleza humana en Dewey para lograr una interpretación acertada del concepto de libertad. La razón es la siguiente: si los hábitos son producto y expresión del medio social en el que se construyen, cuando hablamos de los hábitos hacemos también referencia a una serie de condiciones  objetivas necesarias para la expresión libre de los mismos. Dewey lo expresaría claramente al decir que, “el problema moral consiste en modificar los factores que influyen ahora en los resultados futuros. Para cambiar el carácter o la voluntad de otra
+persona, tenemos que alterar las condiciones objetivas que entran en sus hábitos.”22     Así
+las cosas, debemos decir que para vivir una libertad efectiva son indispensables condiciones positivas reales en la sociedad que la posibiliten y propicien.
+   Dewey señaló en sus textos la imposibilidad para modificar un hábito directamente. Dicha modificación sólo sería posible indirectamente a través de la transformación de  las condiciones en las que estos se construyen. Para ello, deben identificarse y valorarse inteligentemente las búsquedas de los individuos expresadas en sus hábitos, sus deseos e ideales para así poder facilitar su realización. Así pues, en lo que respecta a la transformación de los hábitos debemos reconocer que no es una cuestión posible sólo a partir de un gran esfuerzo de la voluntad, sino que implica la colaboración de condiciones objetivas adecuadamente estudiadas y escogidas para poder utilizarlas a favor de la realización de los ideales y búsquedas de los individuos.
+   Esto último nos plantea ciertas preguntas que nos ubican en el horizonte del tema en cuestión, es decir, el de la libertad: ¿Qué hábitos queremos formar en los individuos para colaborar en la construcción de qué tipo de sociedad? ¿Qué tipo de sociedad necesitamos para colaborar en la construcción de qué hábitos? Y, siendo aún más específicos, ¿qué tipo de hábitos es necesario propiciar para la construcción de una sociedad cuyo  producto necesario sea la vivencia real de la libertad?    y ¿qué tipo de sociedad es la que
+
+22  Ibíd. p. 30.
+
+
+
+
+
+
+propende por la formación de hábitos que expresan y consolidan abiertamente la realización efectiva de la libertad? Esta sociedad será para Dewey la sociedad democrática que analizáremos en el segundo capítulo del presente trabajo tratando de identificar cuáles son los valores y rasgos característicos de esta forma de vida que la hacen idónea para la construcción de individuos y sociedades libres. Ahora nos adentraremos en el conocimiento de un segundo factor de la naturaleza humana, se trata de la inteligencia y su rol en relación con los hábitos.
+
+
+
+ El papel de la inteligencia y su relación con los hábitos
+
+   En relación con los hábitos, la inteligencia tiene una labor muy importante. La inteligencia es la que posibilita la corrección y el reajuste de los hábitos a partir de la observación de sus consecuencias. Así pues, la intervención de la inteligencia en la configuración de los hábitos establece el criterio para diferenciar lo que Dewey llama un hábito inteligente de uno rutinario.
+   De acuerdo con el filósofo de Burlington, la mecanización es una parte necesaria de los hábitos puesto que si para cada acción tuviera que buscarse conscientemente su forma de ejecución intencional ésta última se realizaría de forma torpe. Ahora bien, a pesar del necesario carácter mecánico de los hábitos es posible hacer una diferenciación entre los hábitos que están exclusivamente gobernados por la mecanización o rutina y  los hábitos inteligentes en los cuales opera más ampliamente el pensamiento, la razón y los sentimientos. Sin duda, es este último tipo de hábitos los que se ha de procurar cultivar. Cualquiera que sea el oficio de una persona su accionar debe ir orientado por hábitos inteligentes en los que el pensamiento actúa flexibilizándolos y adecuándolos a las distintas situaciones cambiantes en las que se desenvuelven. En este sentido afirma Dewey:
+El hábito es una capacidad, un arte formado a través de la experiencia pasada; pero el que una habilidad se limite a la repetición de actos anteriores adaptados a condiciones pasadas o que   esté
+
+
+
+
+
+
+disponible para adaptarse a nuevas circunstancias, depende exclusivamente de la clase de hábito que sea.23
+   Tradicionalmente la sociedad ha admirado el modo mecánico de operación de los hábitos: los hábitos repiten, crean rutinas y en esa medida conservan los modos de acción previamente establecidos por la cultura. No ocurre así, sin embargo, con los hábitos que están atravesados por el pensamiento, los hábitos inteligentes que tienen la capacidad de flexibilizarse y ajustarse a las exigencias de las condiciones del presente. Irónicamente, la sociedad por un lado alaba los hábitos rutinarios y a su vez considera al pensamiento como la fuente fundamental de la evolución y el progreso. Y no es de unos pocos el interés por hacer del pensamiento una herramienta limitada en su uso, reservada para espacios distantes de la sociedad real. Es así como el pensamiento con frecuencia se ve restringido a ciertas esferas especializadas de la civilización y sólo es aceptado por  sus aportes en los laboratorios y bibliotecas pero no en la cotidianidad de la vida pública. La preferencia por el cultivo de los hábitos mecánicos e irreflexivos tiene de base  razones e intereses de tipo político. Dewey expresa este hecho con claridad al señalar:
+Quienes ambicionan monopolizar el poder social encuentran conveniente la separación entre hábito y pensamiento, acción y alma, tan característica en la historia. Ya que ese dualismo les permite ser ellos los que piensen y hagan los planes, en tanto que los demás siguen siendo los dóciles, aunque torpes, instrumentos de ejecución. Mientras no cambia esta situación, la democracia está expuesta a ser pervertida en su realización.24
+
+   Cabe resaltar aquí cómo Dewey a medida que desarrolla y expone su comprensión de naturaleza humana va vislumbrando a su vez la importancia y el carácter político inevitable que ésta tiene, es decir, las implicaciones necesarias que dicha comprensión tiene en el desenvolvimiento de la vida pública de una sociedad. No es gratuito que sea en la exposición de su teoría sobre la naturaleza humana que el autor realice una crítica a los dualismos que han atravesado la historia como el de mente y cuerpo o el de espíritu y acción que en últimas no son más que un reflejo de las divisiones establecidas por la sociedad  entre hábitos  y pensamiento, medios  y fines, práctica  y teoría.  Educados   en
+
+
+23  Ibíd. p. 71
+24  Ibíd. p. 76
+
+
+
+
+
+
+estos dualismos, los individuos miembros de una sociedad que se hace llamar a sí misma “democrática” no tienen otro destino que la repetición e imitación constante de los modelos eternamente implantados como formas de conducta a seguir. El uso adecuado y cultivado de la inteligencia y la intervención continua del pensamiento en las decisiones y acciones cotidianas de las personas no pasa de ser un ideal promulgado por la civilización pero sin posibilidad alguna de verse realizado.
+   Tenemos entonces que la verdadera oposición no se da entre inteligencia, pensamiento o razón y los hábitos, sino entre los hábitos gobernados por la inteligencia y la razón y  los hábitos gobernados por la rutina, la imitación o repetición. Quizás el  lector pueda preguntarse, ¿cuál es el papel de la razón en la construcción de los hábitos? y a ello debemos responder que es justamente ésta la encargada de despertarnos de nuestras fidelidades ciegas desarrollando en los individuos una actitud crítica, investigativa y sensible frente a las incoherencias brutales y extravagantes de algunas de nuestras costumbres más afianzadas. La razón exige razonabilidad en las acciones. Es el motor de la modificación de los hábitos y, por tanto, de las costumbres que son la expresión social o la encarnación colectiva de los hábitos individuales.
+   De acuerdo con lo anterior, la razón se encuentra en el meollo de toda cuestión  moral puesto que ella nos cuestiona nuestra aceptación de ideas trascendentales y metafísicas que tradicionalmente han fundamentado las normas morales. La razón frente a las costumbres nos coloca en el horizonte de la pregunta ¿por qué seguir determinado principio moral si se desea realizar algo distinto? ¿Por qué guiar mi acción por una norma previamente establecida si la situación actual me exige o me induce a actuar de otra manera? Nótese que estos dilemas no propenden hacia la elección entre una autoridad moral que se guie por las costumbres y otra que no, sino que busca la formación y cultivo de hábitos y costumbres inteligentes, flexibles y adaptables.
+   Dewey considera que este tipo de dilemas da origen a las confrontaciones que siempre han existido entre los distintos grupos humanos. Las acciones de los   miembros
+
+
+
+
+
+
+de cada uno de estos grupos se encuentran moldeadas por aquellos principios morales que han orientado históricamente sus comunidades. Sus oposiciones por lo general se encuentran fuertemente alimentadas por los intereses políticos de cada grupo que siempre considerará moralmente transgresivo el comportamiento de los otros grupos. De ahí la importancia de que la inteligencia opere en medio de las disputas y no después de que éstas ya han tenido consecuencias y determinaciones. Pues es la inteligencia la que puede flexibilizar los principios morales tradicionales y conducir a los individuos a su adaptación y a la aceptación de sus diferencias producto de la diversidad de grupos sociales a los que pertenecen y en los que se han formado.
+   La inteligencia no puede ser una abstracción que se hace visible sólo para registrar  lo que ya ha ocurrido en las deliberaciones de tipo moral. Ésta tiene que intervenir antes estudiando las condiciones a las que los principios morales por asumir quieren atender, y durante los mismos discernimientos para hacer la mejor elección, es decir, la de los principios que más fácilmente se adapten a las distintas situaciones y condiciones en las que se desenvuelven. “La labor que la inteligencia cumple en cualquier problema al que se enfrente una persona o una comunidad es efectuar una conexión operativa entre
+hábitos, costumbres, instituciones y creencias anteriores y las nuevas condiciones.”25
+
+   De la mano de la inteligencia que, como hemos señalado, es uno de los motores en  la modificación de los hábitos y las costumbres, se encuentra también como factor clave el impulso. El impulso podríamos decir es el segundo motor que coadyuva en la transformación de los hábitos y las costumbres, a continuación analizaremos entonces cuál es el papel del impulso en relación con los hábitos.
+
+
+
+
+
+
+
+
+25 DEWEY, JOHN, Liberalismo y acción social, trad. J. Miguel Esteban, Alfons el Magnánim, Valencia, 1996, p. 89.
+
+
+
+
+
+
+ El rol de los impulsos en su relación con los hábitos
+
+   A diferencia de los hábitos cuya naturaleza es artificial, es decir, adquirida, los impulsos tienen un carácter innato. Ahora bien, en la comprensión de naturaleza humana que tiene Dewey, cuando hablamos de las conductas humanas lo adquirido es prioritario, es decir, es más importante lo que viene dado o que es formado en el contacto con la sociedad que aquello que hace parte de la naturaleza original de los seres humanos. Ahora, si bien los impulsos tienen una naturaleza original e innata, sus significados, sin embargo, no la tienen. El significado de lo innato que hace parte de la naturaleza  humana es construido en la interacción constante de la constitución de los individuos  con el medio circundante. En este sentido, afirma Dewey:
+El conjunto de instintos innatos es prácticamente el mismo en todas partes. Por mucho que exageremos las diferencias originales entre patagones y griegos, pieles rojas e indostanos, bosquimanos y chinos, dichas diferencias no guardan comparación con las que se encuentran en sus costumbres y cultura. Como tal diversidad no puede atribuirse a una identidad original, el desarrollo del impulso nativo debe considerarse en función de hábitos adquiridos; y no el crecimiento de las costumbres en función de los instintos.26
+
+   De acuerdo con lo anterior, si queremos comprender el significado de los impulsos e instintos lo que debemos hacer es analizar las condiciones del contexto en relación con las cuales se han configurado. En otras palabras, se necesita reconocer cómo lo innato se ha visto modificado por la interacción con la cultura. Esta consideración de los impulsos planteada por Dewey es otro de los puntos en los que toma distancia de la psicología ortodoxa que buscó enfatizar y comprender a los individuos exclusivamente a partir de su constitución innata abstrayéndolos de su interacción con la sociedad.
+   Por el contrario, Dewey ve en los impulsos fuerzas en continua interacción con el medio que los amolda y los configura a su vez como motores de reajuste que motivan y orientan las transformaciones en los individuos y en la sociedad. Es esta relación  bilateral entre naturaleza humana y sociedad la que hace que los impulsos y la cultura logren transformarse mutuamente. Este hecho lo podemos reconocer en el desarrollo
+
+26 DEWEY, JOHN, Naturaleza humana y conducta, Op. Cit. p. 92.
+
+
+
+
+
+
+mismo de los individuos que desde su nacimiento comienzan a interactuar con una sociedad a la cual logran integrarse adaptando sus impulsos de acuerdo a lo que ésta les exige. Sólo así consiguen desplegar las actitudes y los hábitos necesarios para desenvolverse en el medio y ser capaz a su vez de actuar e influir sobre esta misma sociedad con independencia. Dewey nos explica esta comprensión de los impulsos al expresar que:
+... como ya hemos observado, si se aísla a un individuo de esta manera, junto con el hecho de la primacía del instinto encontraremos también el hecho de la muerte. Los impulsos incipientes y dispersos de un recién nacido no se coordinan para hacerse fuerzas utilizables, sino por medio de dependencias y compañerismos sociales. Sus impulsos son meramente puntos de partida para la asimilación del saber y destreza de los seres más maduros de quienes depende; son como tentáculos que se distienden para absorber de las costumbres la nutrición que con el tiempo hará al niño capaz de actuar independientemente; son factores de la transferencia del poder social existente a la capacidad personal; son en fin, los medios para lograr un crecimiento reconstructivo. Si desechamos una imposible psicología individualista llegaremos al hecho de que las actividades nativas son órganos de reorganización y reajuste.27
+
+   Los impulsos son así parte importante del proceso de renovación de la sociedad humana. Estos intervienen en la evolución y modificación de los hábitos y las costumbres. Un hábito configurado para responder a unas condiciones sociales dadas en el pasado al enfrentarse a las nuevas condiciones del presente resulta inoperante. En este contexto cobra valor el rol de los impulsos, pues un impulso que no logra satisfacerse a través de los hábitos establecidos busca reconstruir dichos hábitos y las condiciones de  la sociedad en las que éstos fueron construidos y que le resultan adversas. Tanto los hábitos como los impulsos expresan deseos, si estos últimos no logran satisfacción buscarán efectuar las transformaciones necesarias de aquellas condiciones que no les permiten dicha satisfacción, buscarán modificar aquellas tradiciones, costumbres o hábitos que no les sean favorables. De acuerdo con Dewey, son los impulsos los que encarnan los deseos de los individuos, deseos que, en ocasiones, entran en oposición con la sociedad y sus intereses pero que determinan el principio de individualidad de la mente.
+
+
+27  Ibíd. p. 95.
+
+
+
+
+
+
+   Debemos decir también que entender los impulsos nos permite comprender parte de los procesos de transición de las sociedades. Las luchas por establecer condiciones específicas que favorecieran el bienestar de las sociedades se puede explicar en cierta medida a partir de las búsquedas por satisfacer aquellos impulsos que durante largo tiempo se vieron restringidos. En dichas luchas los individuos buscan reajustar las condiciones concretas de sus culturas para alcanzar así la satisfacción efectiva de sus impulsos, deseos y tendencias innatas. Y esto no de manera exclusivamente extraordinaria, en tiempos de crisis y transición, sino también en la cotidianidad. En efecto, las distintas culturas han buscado realizar sus propósitos, deseos y necesidades dando un manejo deliberado a los impulsos de sus miembros, en especial, de sus miembros más jóvenes cuyo carácter es más flexible y manipulable. El reflejo más conspicuo de dicha manipulación deliberada, sin que ésta tenga un carácter negativo, lo encontramos en la institucionalización de la educación.
+   Así las cosas, la educación se torna perjudicial para el bienestar de la sociedad cuando forma en hábitos inflexibles e inadaptables. Una sociedad así provoca con el tiempo en sus miembros el uso de medios violentos y coercitivos. Cuando se educa a los individuos no en hábitos inteligentes sino en hábitos rutinarios por lo general se hace en beneficio exclusivo de la sociedad adulta, o de la clase dirigente establecida a quien le resulta benéfico que las condiciones sociales no sean transformadas. Los miembros mayores de la comunidad siguiendo sus intereses forman a los miembros menores en el conformismo, la repetición y la dependencia. Por el contrario, junto con su capacidad de acomodación y de imitación la actitud propia de los miembros jóvenes de una sociedad es su deseo de creación, de riesgo, de lanzarse a descubrir nuevas posibilidades. Esta realidad es descrita por Dewey al señalar:
+
+
+
+
+

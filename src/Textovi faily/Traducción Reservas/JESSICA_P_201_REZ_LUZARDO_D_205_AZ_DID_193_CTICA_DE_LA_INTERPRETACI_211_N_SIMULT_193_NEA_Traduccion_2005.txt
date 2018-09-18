@@ -1,0 +1,792 @@
+﻿
+acceda.ulpgc.es/bitstream/10553/1993/1/257.pdf
+
+
+
+UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA
+
+DEPARTAMENTO DE FILOLOGÍA MODERNA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TESIS DOCTORAL
+
+
+DIDÁCTICA DE LA INTERPRETACIÓN SIMULTÁNEA
+
+
+
+
+
+
+
+
+
+JESSICA PÉREZ LUZARDO DÍAZ
+
+
+
+Las Palmas de Gran Canaria, 2005
+
+UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA
+
+
+DEPARTAMENTO DE FILOLOGÍA MODERNA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TESIS DOCTORAL
+
+
+
+DIDÁCTICA DE LA INTERPRETACIÓN
+
+SIMULTÁNEA
+
+
+
+
+
+Realizada por
+
+JESSICA PÉREZ-LUZARDO DÍAZ
+
+
+Dirigida por
+
+Dra. Dña. ZINAIDA LVOVSKAYA MEZHIBOVSKAYA
+
+
+
+
+Title: Simultaneous Interpreting Didactics
+
+Director: Jessica Pérez-Luzardo Díaz
+
+Abstract
+
+The main objective of this study lies in an experimental study of the application of a set of exercises in the training of simultaneous interpreters, and in the repercussion of this application in the development of the skills needed for successful simultaneous interpreting (SI). With this research, we aim to contribute to the field of SI didactics, which requires further work if it is to become consolidated.
+
+In SI, a number of different processes coincide, at least partially, in time. The first of the five chapters of this doctoral thesis examines the basic principles of SI and, in particular, the various problems faced by professional interpreters. Analyses of these problems have been carried out from a wide range of perspectives and disciplines in interpreting studies.
+
+In the second chapter, we believe it necessary to infer the skills and strategies possessed and applied by the professional interpreter, as our students have to develop or improve these skills and strategies in order at least to pass the practical examination in the booth, which represents a key element in the assessment of both compulsory and elective interpreting subjects within their degree course.
+Our working hypothesis focuses on the idea that the different skills needed within the SI process may be developed in isolation and subsequently combined using a set of specific exercises, presented in the third chapter. This approach enables us to lay solid foundations, then to introduce combined exercises in the booth and finally to start SI practice. Our research aims to determine the degree to which progress in the acquisition of these skills can be attributed to the system applied under specific circumstances and conditioning factors. In order to draw any such conclusions, an experimental study and subsequent evaluation of the results obtained was required.
+
+The fourth chapter presents the empirical study carried out in the first semester of the 2004-2005 academic year, based on preliminary studies carried out since 2002, in order to verify the utility of the set of exercises described in the previous chapter. Chapter five contains our conclusions.
+
+
+
+
+ÍNDICEAgradecimientos.......................................................................................................................i0. Introducción..........................................................................................................................iii1. Fundamentos cognitivo-comunicativos de la interpretación simultánea ......... ..11.1.Problemas presentes durante la fase de comprensión ..................... ..31.1.1.Sentido.............................................................................................................41.1.2.   Pausas, segmentación y décalage ................................................................. ...211.1.3.Memoria............................................................................................................301.1.4.   Discriminación entre información relevante y secundaria ................... ...411.1.4.1.Cohesión....................................................................................441.1.5.Comunicación no verbal ...............................................................................451.1.6.   Tipología textual, discurso leído vs. libre ................................................ ...481.1.7.Circunstancias de emisión.......................................................................... ...531.1.7.1.Ruido..........................................................................................531.1.7.2.Velocidad del TO.................................................................. ...541.1.7.3.Visibilidad..................................................................................561.1.8.Lateralidad cerebral........................................................................................591.2.Problemas presentes durante la fase de producción......................... ..621.2.1.Aceptabilidad ..................................................................................................631.2.1.1.Equivalencia comunicativa y normas comunicativas eninterpretación......................................................................... ...641.2.1.2.Coherencia textual ................................................................ ...691.2.1.3.Uso de la terminología correcta.......................................... ...711.2.1.4.Reformulación y reestructuración sintáctica..................... ...721.2.1.5.Elementos suprasegmentales – comunicación no verbal ...731.2.1.5.1.Entonación ...................................................... ...741.2.1.5.2.Fluidez de producción ................................... ...761.2.2.Síntesis.............................................................................................................781.2.2.1.Tema y rema .......................................................................... ...821.2.2.2.Grado de implicitud y explicitud ........................................ ...831.2.2.3.Omisiones y adiciones.......................................................... ...841.3.Problemas presentes durante todo el proceso .................................... ..861.3.1.   Atención dividida, coordinación y control.............................................. ...861.3.1.1.Automatización de procesos ............................................... ...911.3.1.2.Autocontrol y autocorrección............................................. ...931.3.2.Conocimientos ....................................................................................951.3.2.1.El papel del léxico y el conocimiento ........................ ..961.3.2.2.Conocimientos culturales ............................................ ..981.3.2.2.1.La cultura y el conocimiento................... ..1031.3.2.3.Conocimientos de mundo, enciclopédicosy de fondo.................................................................... ..1051.3.3.Condiciones de trabajo .................................................................... ..1091.4.A título de conclusión ..................................................................................1182.  Competencias y estrategias del intérprete simultáneo......................................... ..1192.1.Diferencias entre experto y aprendiz..................................................... ..1222.2.Requisitos previos.........................................................................................124
+
+
+
+ Estrategias empleadas durante el análisis y la comprensión
+del TO ..............................................................................................................1272.3.1.  Capacidad de análisis del sentido del discurso original ............... ..1272.3.1.1.Capacidad de distinguir entre informaciónrelevante y secundaria ................................................. ..1282.3.1.2.Análisis de la relación entre ideas............................... ..1292.3.2.  Capacidad para adaptar la distancia temporal con respectoal orador y para segmentar.............................................................. ..1292.3.3.  Estrategias de uso de la memoria ................................................... ..1322.3.4.  Capacidad para realizar anticipaciones .......................................... ..1342.4.Estrategias empleadas durante la producción del discurso meta. ..1392.4.1.Aceptabilidad..................................................................................... ..1392.4.1.1.Terminología y flexibilidad léxica............................... ..1392.4.1.2.Evitar las interferencias: reestructuración sintáctica ..1402.4.1.3.Cualidades de un buen orador .................................... ..1432.4.2.Síntesis..................................................................................................1452.4.3.Estrategias de aproximación ........................................................... ..1472.5.Estrategias empleadas durante todo el proceso................................. ..1472.5.1.Autocontrol ....................................................................................... ..1472.5.2.  La atención compartida: escuchar y hablar al mismo tiempo –coordinación...................................................................................... ..1482.5.3.Conocimientos .................................................................................. ..1502.5.4.Creatividad......................................................................................... ..1542.5.5.Personalidad ...................................................................................... ..1562.6.Hipótesis de trabajo ................................................................................... ..1572.7.A título de conclusión ................................................................................ ..1583.  Sistema de ejercicios ........................................................................................1613.1.Situación: algunas propuestas metodológicas.................................... ..1613.2.Ejercicios concebidos principalmente para la etapa pre-cabina... ..1713.2.1.  Reflejos lingüísticos y expresión..................................................... ..1713.2.2.  Análisis del texto original................................................................. ..1803.2.3.Memoria ...............................................................................................1813.2.4.Síntesis..................................................................................................1873.2.5.Anticipación....................................................................................... ..1903.2.6.  Desdoblamiento de la atención: traducción a la vista ................. ..1923.2.7.Documentación ............................................................................... ..1983.3.Ejercicios para la etapa de cabina.......................................................... ..1993.3.1.Memoria ...............................................................................................2003.3.2.Reexpresión reducida ....................................................................... ..2003.3.3.Anticipación....................................................................................... ..2013.3.4.  Desdoblamiento de la atención ...................................................... ..2023.3.4.1.Dos tareas simultáneas (Dual-Task-Training)............. ..2033.3.4.2.Procesamiento del discurso en condiciones adversas2053.3.4.3.Shadowing ........................................................................ ..2063.3.5.Comunicación no verbal.................................................................. ..2093.3.6.  Ejercicios de interpretación simultánea......................................... ..2103.4.Ejercicios concebidos para la etapa post-cabina............................... ..215
+
+
+
+3.4.1.Autocrítica......................................................................................... ..2163.5.Tareas adicionales de apoyo a la enseñanza....................................... ..2173.5.1.Información de precisión ................................................................ ..2173.5.2.  El uso de los diarios personales de clase....................................... ..2253.5.3.  Teoría de la interpretación y su lugar en la enseñanza ................ ..2293.6.Otras consideraciones didácticas........................................................... ..2303.7.A título de conclusión ................................................................................ ..2324.  Estudio experimental .......................................................................................2354.1.Sujetos ..............................................................................................................2354.2.Cuestionario motivacional........................................................................ ..2374.3.Material ............................................................................................................2394.4.Evaluaciones previas (EP) ....................................................................... ..2404.4.1.  Conocimientos de las culturas alemana y española ..................... ..2404.4.2.Conocimientos enciclopédicos ....................................................... ..2414.4.3.  Competencia lingüística en español y en alemán ......................... ..2424.4.3.1.Flexibilidad léxica ......................................................... ..2424.4.3.2.Reestructuración y simplificación sintáctica ............. ..2424.4.4.  Capacidad para realizar deducciones lógicas y anticipación ....... ..2434.4.5.Memoria ...............................................................................................2444.4.6.Síntesis..................................................................................................2454.4.7.  Percepción subjetiva de la dificultad de los ejercicios ................. ..2464.5.Evaluaciones finales (EF)......................................................................... ..2494.5.1.  Competencias lingüísticas en español y en alemán ...................... ..2494.5.1.1.Flexibilidad léxica ......................................................... ..2494.5.1.2.Reestructuración y simplificación sintáctica ............. ..2494.5.2.  Capacidad para realizar deducciones lógicas y anticipación ....... ..2504.5.3.Memoria ...............................................................................................2514.5.4.Síntesis..................................................................................................2514.6.Ejercicio de interpretación simultánea................................................. ..2524.6.1.Sujetos ..................................................................................................2524.6.2.Instalaciones ...................................................................................... ..2524.6.3.Discurso original............................................................................... ..2534.6.4.Metodología....................................................................................... ..255 Percepción subjetiva de la dificultad de los ejercicios de
+
+las evaluaciones finales y de la interpretación simultánea	..	256
+
+4.8.	Resultados obtenidos en las evaluaciones previas y finales	..	258
+
+ Resultados obtenidos en el ejercicio de interpretación
+
+simultánea	..	272
+
+4.10.	A título de conclusión	..	291
+
+5.	Conclusiones	..	295
+
+6.	Bibliografía	..	303
+
+
+
+
+ Anejos
+
+ Resultados de las evaluaciones previas y finales de los grupos
+
+GP, GC-1 y GC-2	..	323
+
+7.2.	Transcripciones del ejercicio de interpretación simultánea	..	497
+
+ Seguimiento de las Unidades Didácticas en los diarios personales
+
+de clase	..	599
+
+7.4.	Modelos de cuestionarios y otro material empleado	..	621
+
+AGRADECIMIENTOS
+
+Estos últimos cinco años de trabajo docente e investigador, cuyo resultado se recoge en los dos tomos de la presente tesis doctoral, no hubieran sido concebibles sin el apoyo y aliento de muchas personas. Por ello quisiera expresarles mi más profundo agradecimiento.
+
+En primer lugar a mi esposo e hijo, porque a pesar de todo el tiempo de dedicación que les he restado, siempre me han regalado la mejor de sus sonrisas.
+A mis padres, quienes durante todos estos años han sabido soportarme con paciencia y mucho cariño.
+A Zinaida, mi madre científica, por la dedicación y rigurosa crítica con la que siempre me orientó en el trabajo.
+Al Dr. D. Marcos Sarmiento y al Master de Interpretación de Conferencias de la Universidad de La Laguna por mostrar interés en mi investigación y facilitarme la recogida de datos del estudio.
+
+A todos mis alumnos de interpretación por haber acogido con tanta ilusión mi proyecto y haberme enseñado tanto.
+A todos los alumnos de los grupos de control que han participado en el estudio de forma desinteresada por cederme su tiempo.
+A los asesores e interjueces por sus comentarios y observaciones.
+
+Al Dr. D. Franz Pöchhacker y a la Dra. Dª Ángela Collados, quienes desde un primer momento han mostrado un gran interés por esta investigación. Gracias por tantas y tan valiosas aportaciones.
+
+Me gustaría dar las gracias igualmente al Departamento de Filología Moderna de la Universidad de Las Palmas de Gran Canaria por autorizar la presentación de esta tesis y colaborar en las cuestiones administrativas.
+
+Gracias a todos aquellos compañeros de la Facultad, quienes amablemente me han animado en múltiples ocasiones. Muy especialmente quisiera destacar a la Dra. Dª Ana María García Álvarez por las conversaciones que hemos tenido sobre enfoques teóricos que me han suscitado tantas ideas.
+
+A todos: Muchas gracias.
+
+
+
+
+
+
+
+
+
+
+
+i
+
+
+
+
+0. INTRODUCCIÓN
+
+El objetivo principal de la presente tesis doctoral titulada Didáctica de la Interpretación Simultánea se centra en el estudio experimental de la aplicación de un sistema de ejercicios en la formación de intérpretes simultáneos y en su repercusión en el desarrollo de las competencias necesarias para una interpretación simultánea exitosa con el fin de componer progresivamente una sistema didáctico de la interpretación simultánea que aún requiere numerosas investigaciones para su futura consolidación.
+
+Aunque existe cierto déficit de material didáctico de la interpretación, en los últimos años la didáctica de la interpretación ha suscitado el interés general de los docentes e investigadores de las diversas modalidades de interpretación, lo que en algunos casos se ha traducido en la publicación de material didáctico orientado a la formación o autoformación. En concreto, en lo que se refiere a la enseñanza de la interpretación simultánea, se trabaja en la elaboración de un material multimedia para las clases de interpretación (De Manuel Jerez, 2004) y en la Universidad de Salamanca se ha publicado recientemente un material en formato CD-ROM para el autoaprendizaje de la interpretación consecutiva y simultánea en tres combinaciones lingüísticas (alemán/español, francés/español e inglés/español) (Baigorri Jalón, 2004). Dado que en nuestro caso nos interesan en especial los ejercicios de introducción a la interpretación, debemos destacar el Manual de Interpretación Bilateral publicado en Granada (Collados Aís y Fernández Sánchez, 2001) y la ya muy avanzada elaboración de varios DVD multimedia interactivos para el autoaprendizaje en interpretación bilateral (alemán/español, francés/español e inglés/español) (Collados Aís, 2005) que incluyen un amplio abanico de preejercicios que podrían concebirse como previos a cualquier modalidad de interpretación.
+
+Los enfoques y fundamentos de los ejercicios de introducción a la interpretación simultánea varían de forma significativa según los centros en los que se enmarquen, ya que se adecuan a las características de los alumnos o intérpretes en formación y a los objetivos, más o menos ambiciosos de sus programas de enseñanza y planes de estudio. Sin embargo, hasta el momento no nos hemos esforzado por confirmar que nuestras estrategias didácticas funcionan realmente y nos basamos exclusivamente en nuestra percepción subjetiva para valorar su utilidad específica. Pero no sólo se trata de constatar el éxito de tal o cual sistema formativo de la interpretación simultánea, sino de su adecuación a las circunstancias en las que se inscribe y a su mayor eficacia frente a otros métodos alternativos.
+
+
+
+
+
+iii
+
+
+
+
+Uno de los motivos de la escasez de estudios empíricos sobre la eficacia de los ejercicios que empleamos en la formación de intérpretes probablemente sea la duración de este tipo de investigación. En nuestro caso, sólo el diseño de la metodología ha consumido dos cursos académicos completos de trabajo de campo (elaboración de ejercicios, recogida y procesamiento de datos). Otra dificultad añadida es la falta de directores de tesis especializados (Dubslaff, 2001). Déficit que, al igual que ocurre con el material didáctico se va superando con la incorporación de nuevos doctores a los departamentos y áreas de traducción e interpretación de las universidades españolas. Nosotros hemos tenido la gran suerte de coincidir en una misma Universidad, con la catedrática y profesora emérita Zinaida Lvóvskaya. Aunque sus líneas de investigación se han centrado principalmente en la Teoría y Didáctica de la Traducción y en la Estilística Contrastiva, su extensa experiencia investigadora tanto en su país de origen, Rusia, como en el de acogida, España, así como su amplia experiencia profesional como intérprete de conferencia y docente de interpretación simultánea nos ha guiado en el camino de la investigación. Gracias a su sentido común y de la lógica, así como al diálogo con especialistas de otras universidades, hemos evitado y corregido muchos problemas metodológicos.
+
+Partimos pues del supuesto de que la interpretación, antigua profesión, previa a la escritura y, por lo tanto, a la traducción escrita es una actividad compleja que incluye numerosos procesos. La interpretación simultánea dada su naturaleza presenta la particularidad de que distintas tareas coinciden al menos parcialmente en el tiempo. Por esta razón dedicamos el primero de los cinco capítulos del presente trabajo de tesis doctoral a los fundamentos psicolingüísticos y comunicativos de la interpretación simultánea y en especial a exponer los distintos problemas a los que se enfrentan los profesionales de la interpretación simultánea, abordados por las más diversas disciplinas desde los inicios del estudio de la interpretación. En un intento por facilitar su presentación, descomponemos el proceso de la interpretación simultánea en dos fases, una de recepción y análisis del discurso original y otra de producción del texto meta o interpretación. Cada una con sus correspondientes subfases. Somos perfectamente conscientes de que dicha descomposición no deja de ser problemática (Setton, 2001). No obstante, consideramos que hasta el momento no existe ninguna categorización mejor que nos permita una aproximación pormenorizada al proceso de la interpretación.
+
+En el segundo capítulo, creemos necesario inferir las competencias y estrategias que posee y aplica un intérprete profesional, ya que nuestros alumnos deben desarrollar o mejorar dichas
+
+
+iv
+
+
+
+
+competencias y estrategias para lograr en el futuro superar con éxito al menos el ejercicio de interpretación que les permite aprobar las asignaturas troncal y optativa de su ciclo formativo. En el mejor de los casos algunos de esos alumnos se dedicarán a la interpretación profesional, aunque la experiencia nos demuestra que deberán aún completar su formación cursando algún tipo de curso de postgrado o master.
+En nuestra hipótesis de trabajo nos planteamos principalmente que es posible desarrollar diferentes habilidades necesarias en el proceso de interpretación simultánea de manera aislada y combinada mediante un sistema de ejercicios previos específicos. De esta forma podría ser posible construir una cimentación más sólida sobre la cual introducir ejercicios combinados en cabina para finalmente comenzar con los ejercicios propios de interpretación simultánea. Se trata pues de un trabajo de investigación orientado a la didáctica de la interpretación simultánea que pretende determinar el grado de éxito atribuible al sistema aplicado bajo unas circunstancias y unos condicionantes concretos en términos de progreso en la adquisición de competencias. Todos los puntos de nuestra hipótesis de trabajo (v. § 2.6) requieren un estudio experimental, cuyos resultados han de ser evaluados. Pero antes, en el tercer capítulo, presentamos nuestro sistema de ejercicios diseñado a partir de las aportaciones realizadas con anterioridad por otros autores y las adaptaciones que nosotros creemos necesarias en función de nuestros alumnos y de los fundamentos teóricos desarrollados en los capítulos anteriores. Nuestra clasificación en a) ejercicios concebidos principalmente para la etapa pre-cabina, b) ejercicios concebidos principalmente para la etapa de cabina y c) ejercicios para la etapa post-cabina, no refleja fielmente la realidad del aula. El sistema de ejercicios debe entenderse como un sistema dinámico y espiral, con solapamientos entre los diferentes tipos de ejercicios, ya que la estructuración en distintos apartados se rige únicamente por la necesidad de plasmar las convenciones propias de este tipo de trabajo.
+
+En este contexto, desde el curso académico 2002/03 los alumnos de la asignatura optativa
+
+Prácticas de Interpretación Simultánea: Alemán han recibido una formación basada en un sistema de ejercicios desarrollado a partir de las circunstancias específicas del plan de estudios de la Facultad de Traducción e Interpretación de la ULPGC y de las competencias previas de los alumnos. Se trata de una optativa de segundo ciclo que se recomienda cursar en el cuarto curso, año en el que también se cursa la asignatura troncal Técnicas de Interpretación Simultánea B/A: Alemán.
+
+
+
+
+
+v
+
+
+
+
+En el capítulo cuarto, presentamos el estudio empírico que ha tenido lugar en el primer cuatrimestre del curso académico 2004-2005, fruto de sendos estudios preliminares realizados a partir del 2002, para comprobar la utilidad del sistema de ejercicios expuesto en el capítulo anterior. Para ello evaluamos las competencias de partida de todos los sujetos del estudio con las que poseen los mismos sujetos tras un periodo formativo comparable. Para completar el trabajo empírico, contrastamos los resultados obtenidos con el rendimiento de los sujetos en un ejercicio de interpretación simultánea. Dado que sólo los sujetos del grupo principal ha recibido una formación según el sistema descrito en el tercer capítulo, cabe esperar alguna diferencia en la progresión grupal. El primer grupo de control está formado por alumnos de la Facultad de Traducción e Interpretación de la Universidad de Las Palmas de Gran Canaria que sólo cursan la asignatura troncal Técnicas de Interpretación Simultánea: Alemán. El rendimiento de partida de los sujetos del segundo grupo de control, todos alumnos del Master de Interpretación de Conferencias de la Universidad de La Laguna, será presumiblemente superior al del resto de los sujetos del estudio y sus calificaciones nos ayudan a establecer los máximos en la escala de puntuación. Pero no sólo nos interesa la comparación de los grupos entre sí, sino especialmente la progresión individual y la medida en la que las competencias de partida de cada sujeto condicionan la evolución y adquisición de habilidades. Consideramos que todo ello podría ser de gran importancia para el diseño de los próximos planes de estudio de las titulaciones en Traducción e Interpretación en España, ya que se debe estudiar la pertinencia de que todos los alumnos accedan a cursos de interpretación (simultánea) con independencia de si poseen ciertos requisitos previos. Por otro lado, es muy probable que debamos revisar la dedicación en términos de créditos que asignamos a la formación de intérpretes.
+
+Antes de dar paso al trabajo de tesis doctoral propiamente dicho, me gustaría señalar que aparte del interés que nos ha suscitado el tema del presente trabajo desde nuestra experiencia como alumna de segundo y tercer ciclo, docente de la interpretación simultánea y profesional, que se considera aún en formación, otro motivo es la firme convicción de que se puede y se debe cambiar la didáctica de la IS, al tiempo que los objetivos de las asignaturas deben ser más realistas y ajustarse a las posibilidades temporales y de los propios alumnos, tanto más si tenemos en cuenta que en nuestra Facultad de Traducción e Interpretación (Universidad de Las Palmas de Gran Canaria) todos los matriculados en el primer curso académico, si terminan, lo harán con la licenciatura en traducción e interpretación, es decir, en ambas ramas.
+
+
+
+vi
+
+
+
+
+CAPÍTULO PRIMERO
+
+1. Fundamentos psicolingüísticos y comunicativos de la IS
+
+En los años setenta, en un estudio extenso de los problemas relacionados con la enseñanza de lengua extranjera, A. Leontiev (1973), eminente psicolingüista ruso, se lamentaba de la falta de conocimientos sobre la interpretación simultánea (IS) y hacía un llamamiento a la investigación de los mecanismos implicados en el proceso. Unos años más tarde, en 1975 y en 1976, Gerver se unía en su lamento al profesor ruso denunciando la carencia de estudios empíricos relacionados con la interpretación, en concreto se refería también a la IS. Desde hacía años se venían publicando artículos sobre aspectos prácticos y teóricos de la interpretación en revistas especializadas, tales como Babel, Meta, Fremdsprachen o Tetradi Perevodchika (Cuadernos del Traductor), pero eran pocos los psicólogos, lingüistas o docentes de IS dedicados al estudio de la materia. Además, la situación política no favorecía la difusión de las investigaciones de la Escuela Soviética, bastante avanzada en el problema, con Chernov y Shriáyev a la cabeza, lo que no hacía más que empeorar la situación.
+
+Lo cierto es que el proceso de la IS, dada su naturaleza y las condiciones complejas en las que se desarrolla, ofrece un campo de estudio interesante no sólo a lingüistas y psicólogos, sino también a representantes de otras disciplinas. Todo lo que ocurre desde que los sonidos de un discurso pronunciado llegan a los oídos del intérprete, el análisis semántico-pragmático, el procesamiento de la información y su almacenamiento, la producción del texto meta (TM), así como las operaciones de control y coordinación puede resultar esclarecedor para la explicación de los procesos cognitivos de comprensión y de procesamiento de la información. Más aún, si tenemos en cuenta que el intérprete simultáneo actúa como receptor y productor al menos el 60-70% del tiempo (Gerver, 1975: 123-124, Chernov, 1985: 169), resulta que las operaciones que acabamos de mencionar coinciden al menos parcialmente en el tiempo.
+
+Los primeros modelos de la IS como proceso, elaborados por unos pocos psicólogos y psicolingüistas, sentaron los fundamentos lingüísticos y psicolingüísticos y constituyeron el punto de partida de numerosos estudios posteriores1. Algunos apuntaron hacia aspectos comunicativos, como fue el caso de Chernov (1978) en cuyos trabajos nos detendremos más adelante, pero lo cierto es que la circunstancia de que los científicos interesados en el estudio
+
+1 En Gile (2003) podemos leer un breve, pero completo repaso de lo que ha sido la historia de la investigación de la IS, dividida en cuatro periodos que el autor denomina the ‘pre-scientific’ period, the experimental psychology period, the practitioners’ period and the renewal period. Además hace referencia a un estudio en el que se refleja el considerable aumento del número de publicaciones y de tesis doctorales en interpretación en los años noventa y en lo que llevamos de siglo.
+
+
+1
+
+
+
+
+de algún aspecto de la interpretación provinieran de las ramas de la Lingüística condicionó el que se prestara poca o ninguna atención a los fundamentos comunicativos de la IS.
+Una vez demostrado que los procesos de traducción e interpretación no son operaciones lingüísticas, comienza el auge de las aproximaciones cognitivas y comunicativas, que intentan abarcar todo el proceso de la actividad del sujeto de la comunicación intercultural desde su esencia cognitivo-comunicativa.
+
+Las aproximaciones psicolingüísticas son fundamentales para el estudio de la IS, ya que una de las cualidades de la mente humana que hacen posible todo acto comunicativo es la de analizar y sintetizar, procesos básicos de la interpretación. A modo de ejemplo cabe señalar que la redundancia objetiva o lingüística (v. § 1.1.1.) y la existencia de sinónimos, en el amplio sentido de este concepto, permite expresar una misma idea de diferente forma, una estrategia primordial en IS.
+
+Pero como ya hemos apuntado, no podemos limitarnos a hablar de los fundamentos psicolingüísticos, ya que estos representan únicamente una parte de la Teoría de la Comunicación. Además, debemos tratar fundamentos comunicativos que derivan de la necesidad del intérprete simultáneo de tener en cuenta la llamada redundancia tanto objetiva como subjetiva a partir de los factores relevantes de la situación comunicativa (v. § 1.1.1.).
+
+A continuación, exponemos de manera sucinta los diferentes problemas abordados desde los inicios del estudio de la interpretación y comentamos las aportaciones más relevantes de las distintas aproximaciones en la evolución del pensamiento sobre la IS. Para ello vamos a partir de la IS como proceso que dividimos únicamente en dos fases con subfases, una de recepción y análisis del discurso original o TO y otra de producción del texto meta (TM), la interpretación, y nos centramos en los problemas presentes en cada una de ellas.
+
+A pesar de la proliferación de estudios en traducción, especialmente en las áreas de la traducción literaria y de la interpretación, se han producido pocos cambios en la enseñanza de la IS. En España, como en otros muchos países, se atribuye poca importancia a los ejercicios previos a la IS, probablemente por el poco tiempo dedicado en los planes de estudio a las asignaturas de interpretación. Las excepciones las encontramos precisamente en aquellos centros en los que se imparte un mayor número de asignaturas de interpretación con mayor carga lectiva. Además, se suele llegar a la IS en el último año, tras haber cursado asignaturas de traducción y de interpretación consecutiva cuando, en realidad, no existe aún consenso de que ésta sea la mejor manera de aproximarse a la IS.
+
+
+
+2
+
+
+
+
+1.1. Problemas presentes durante la fase de comprensión
+
+En la primera fase del proceso de la IS, el intérprete debe comprender el sentido de un discurso, lo que implica la recepción y el análisis de un texto en una lengua de partida. Mantener cierta distancia temporal con respecto al orador permite al intérprete recibir, analizar y comprender antes de hablar. En esta fase es necesario segmentar el texto en unidades de sentido, distinguir entre información relevante y secundaria y anticipar su desarrollo a partir de deducciones lógicas. Gracias a los avances en las ciencias cognitivas, hemos sabido que la comprensión de un texto oral es un proceso en el que intervienen progresiva y paralelamente múltiples elementos. El recuerdo del sentido y el contexto que evocan las palabras nos ayudan a resolver los casos de ambigüedad, a restaurar o reconstruir formas elípticas o agramaticales, así como a realizar predicciones constructivas. Precisamente estas características del ser humano son las que mayores problemas plantean en el diseño de programas orientados a la interpretación automática (Kitano, 1993 apud. Setton, 2003: 34).
+
+El orador, por regla general, no piensa en el intérprete como receptor del discurso, por lo que el intérprete se encuentra en una posición desfavorable: le faltan los conocimientos que tanto el orador como los ‘verdaderos’ destinatarios del texto comparten, y su manera de escuchar el TO ha de ser necesariamente diferente a cuando escuchamos un mensaje que va dirigido a nosotros. En este sentido, conocer la situación comunicativa y sobre todo el tema del discurso convierte al intérprete en mejor oyente y en un orador más convincente. Algunos aspectos relacionados con el TO, como la velocidad de emisión, el ruido, las pausas (diferentes en el caso de un TO leído o no), la visibilidad y el tipo de discurso (leído vs. libre) influyen en la segmentación de la información y en la distancia del intérprete con respecto al orador, en la comprensión de la comunicación no verbal y en el análisis del sentido del discurso.
+
+No debemos olvidar que el intérprete simultáneo realiza en la primera fase varias tareas que coinciden, al menos parcialmente, en el tiempo: escucha un discurso, lo analiza y comprende. En este proceso, la memoria ocupa un papel fundamental tanto en la fase de comprensión, como en la de producción. A continuación, abordamos los problemas y factores que influyen en la fase de comprensión del discurso, a saber:
+
+ comprensión de la información (sentido),
+
+ pausas, segmentación y décalage,
+
+ memoria,
+
+
+
+
+
+3
+
+
+
+
+ distinción entre información relevante y secundaria,
+
+ comunicación no-verbal,
+
+ tipología textual,
+
+ circunstancias de emisión que influyen en la comprensión:
+
+ ruido,
+
+ velocidad de emisión del TO,
+
+ visibilidad y
+
+ lateralidad cerebral.
+
+ Sentido
+
+Diferentes estudios realizados hasta el momento sobre evaluación de la calidad (Bühler, 1986, Kurz, 1993, Collados, 1998, Kopzyński, 1994) nos confirman que la transmisión del contenido (sentido) del TO es la función principal de la interpretación.
+
+Antes de poder expresar el sentido del TO de forma clara y efectiva, el intérprete debe saber qué va a decir, para ello debe haber analizado el sentido del TO, lo que implica entender cada una de las ideas que configuran la línea de razonamiento del orador. Es para nosotros primordial aclarar que no es imprescindible que el intérprete comprenda o escuche cada una de las palabras o expresiones del discurso, al igual que tampoco es necesario que las reproduzca, lo que no significa, ni muchísimo menos, que el intérprete no deba tener amplios conocimientos de sus lenguas y culturas de trabajo, sino que debe ser consciente de que el sentido va más allá de las palabras (semántica). Esta constatación permitirá al intérprete no dejarse llevar por la angustia en aquellas circunstancias en las que no comprenda tal o cual expresión.
+
+En este sentido, nos apoyamos en el presente trabajo en la aproximación a la traducción e interpretación desde el binomio que forman los conceptos sentido y significado (Lvóvskaya, 1997). A continuación procedemos a aplicar estos conceptos a la interpretación confirmando que se puede modificar y reducir el significado del TM con respecto al TO sin perjudicar su sentido.
+
+Desde comienzos del siglo veinte, Malinowski infiere dos conceptos fundamentales del lenguaje de la teoría etnográfica: la noción de ‘contexto de situación’ y la visión de la lengua como un modo de acción. El autor se da cuenta de que el análisis gramatical tradicional tan sólo permite capturar parcialmente el significado de los enunciados (Malinowski, 1938: 292-
+
+
+
+4
+
+
+
+
+293). Sin embargo, la cierta ambigüedad y sinonimia en el uso de los conceptos significado y sentido los desvirtúa y les resta peso en la Teoría de la Traducción.
+Valga el ejemplo de San Jerónimo, en la Carta LVII a Pammaquio (Lafarga, 1996: 51) sobre el género de la traducción, en la que escribe airado por una acusación de mal traductor:
+
+Y es que, en lo que a mí respecta, no sólo reconozco, sino que declaro abiertamente, sin ambages, que cuando traduzco a los griegos - dejando de lado las santas escrituras, en las que el mismo orden de palabras es misterioso - no busco expresar una palabra con otra palabra, sino recoger la idea del original.
+
+Vermeer se pregunta en un artículo sobre traducción por qué nos sentimos desilusionados cuando leemos las traducciones de San Jerónimo: ¿qué ocurre? ¿Era San Jerónimo un impostor (...) o simplemente no entendemos lo que él entiende bajo verbum e verbo y sensum de sensu? (Vermeer, 1994: 6-7).
+
+Los avances de la pragmática, la semántica y la teoría de la información señalan la importancia de los factores extralingüísticos en el desarrollo e interpretación del sentido. Desde principios del siglo veinte, Malinowski observa en sus estudios antropológicos que los oyentes también necesitan información sobre la situación comunicativa en la que se pronuncian ciertas palabras, con el fin de poder ubicarlas en su auténtico entorno cultural. Para poder ilustrar estos casos, concibe el concepto ‘contexto de situación’, que indica por un lado que la noción de contexto ha de ampliarse y, por otro, que la situación en la que se enuncian las palabras no puede considerarse irrelevante para la expresión lingüística (ibídem: 301-306). Los semiólogos parten del supuesto de que hay dimensiones del habla que solo pueden captarse si estudiamos lo que la gente hace realmente con el lenguaje, relacionando las palabras, los silencios y los gestos con el contexto en el que se producen los signos (Duranti, 2000: 30). Es decir, que lo que contribuye al sentido de un texto no se reduce a su aspecto fonológico, sintáctico y semántico, sino es en mayor medida el contexto en el que se inserta. En este sentido, el semiólogo ruso Bajtín (1982: 296 y ss.) se refiere a los dos polos en los textos que incluye tanto el propio texto como el contexto a modo de marco creador. En opinión del autor,
+
+(…) hay que entender el texto en tanto que enunciado, lo que supone observarlo en el ámbito de la comunicación, en el contexto concreto de las relaciones sociales (…) (Sánchez-Mesa,
+
+1997: 125).
+
+Así vemos que desde muy temprano ya se reconoce el importante papel de la ‘situación comunicativa’ (según terminología del presente trabajo) en la formación del sentido en todo acto comunicativo. Ahora bien, diferentes autores han descrito este concepto empleando
+
+
+5
+
+
+
+
+términos propios y atribuyéndole distinto contenido, por lo que conviene recoger brevemente otras aproximaciones conceptuales a la ‘situación comunicativa’. Moser (1978: 357) aplica en la década de los setenta los avances de la semántica generativista que se basa en la generación activa del sentido, donde los conocimientos de todo tipo (lingüísticos, sintácticos, contextuales, conceptuales, etc.) contribuyen a determinar la naturaleza de la representación semántica e interactúan en procesos bottom-up (a partir del input lingüístico) y top-down (a partir de los conocimientos). Lederer (1990) distingue entre contexto verbal, contexto situacional, contexto cognitivo y conocimientos de mundo (ibídem: 56-59). Chernov emplea el término ‘contexto comunicativo’ o situación (1985: 172), que incluye los siguientes ocho factores:
+
+ las características del orador (¿quién habla?);
+
+ el tema del mensaje (¿de qué habla?);
+
+ la relación existente entre el acto de habla y el evento al que pertenece (¿en relación a qué interviene el orador?);
+
+ los receptores (¿a quién se dirige el orador?);
+
+ el lugar o foro (¿dónde se pronuncia el discurso?);
+
+ el tiempo (¿cuándo?);
+
+ la finalidad de la comunicación (¿qué se pretende conseguir?);
+
+ la motivación del orador (¿porqué está hablando?).
+
+No es casualidad que este enfoque soviético recuerde mucho a las aproximaciones funcionalistas (Nord, 1988: 41; v. tb. Gile, 1995: 41-42) que parten como reacción contraria a la Escuela de Leipzig, ya que ambos tienen una raíz común y surgen en respuesta a la teoría tradicional de la traducción, entendida como mero proceso lingüístico consistente en transferir un texto escrito en una lengua A a una lengua B. Las primeras aproximaciones funcionalistas se desarrollan desde el estudio de la traducción, sin tratar, salvo raras excepciones, las particularidades de la interpretación (v. Pöchhacker, 1994a).
+
+Siguiendo con los diferentes usos de situación comunicativa, el científico ruso Shweitzer emplea la noción de ‘sentido funcional’ entendido como la estructura jerárquica del sentido de acuerdo a su sentido dominante (referencial, pragmático o intralingüístico) determinado por la función del texto y la situación comunicativa (Alexieva, 1988: 486).
+
+Para Pöchhacker (1992: 215) tanto traductor como intérprete emplean un marco para anticipar e interpretar el mensaje, que denomina ‘hipertexto’ y que está compuesto por el conjunto de intenciones del autor, los receptores, el tema, la estructura, etc.:
+
+
+6
+
+
+
+
+(...) the whole conference can be viewed as a comprehensive sort of text – a ‘hypertext’ (ibídem).
+
+
+Pöchhacker (1994a: 51) distingue siete tipos de IS, que se corresponden con los siete hipertextos más frecuentes, aunque precisa que no se trata de una clasificación rígida con compartimentos estancos:
+
+ sesiones plenarias de organizaciones internacionales:
+
+ organizaciones intergubernamentales,
+
+ organizaciones no gubernamentales o privadas;
+
+ conferencias especializadas (científicas);
+
+ seminarios o sesiones formativas (el conferenciante habla otro idioma);
+
+ sesiones de trabajo (consejos y negociaciones);
+
+ foros de debate internacionales sobre temas concretos, por lo general de carácter político;
+
+ conferencias de prensa o presentaciones;
+
+ discursos o conferencias de oradores invitados.
+
+Se distinguen por su estructura interna, homogeneidad del grupo en lo que se refiere a los conocimientos previos compartidos, conocimientos de mundo y de fondo, densidad de la información, material audiovisual y flujo de información (en un solo sentido o con reacción).
+La situación, entendida como el espacio que incluye a los productores textuales (oradores e intérpretes) y a los oyentes de las diferentes lenguas implicadas, así como sus percepciones, disposiciones e intenciones, arraigadas en sus competencias y conocimientos generales, especializados, individuales y contextuales, de los que son reflejo, en unas coordenadas de tiempo y espacio determinadas, constituye para el autor el nivel más importante de análisis (Pöchhacker, 1992: 216).
+
+En nuestro trabajo partimos de la siguiente distinción entre significado y sentido (Lvóvskaya, 1997: 25-41), que, como veremos, tiene muchos puntos de encuentro con las aproximaciones anteriores:
+El significado es una categoría lingüística (número finito de signos) de carácter objetivo (resultado del acuerdo entre los miembros de una sociedad) y enciclopédico2. El sentido, sin embargo, es una categoría absolutamente subjetiva que dependerá del individuo, visto como
+
+
+2 V. la salvedad que recogen Cuenca y Hilferty (1999: 74) a propósito de los efectos de prototipicidad y los modelos cognitivos idealizados.
+
+Figura 1.1.1.a (Pöchhacker, 1992: 216)
+
+
+7
+
+
+
+
+representante de una cultura, de sus intenciones. Así, un alemán y un español en una misma situación comunicativa sentirán probablemente de manera diferente (v. § 1.3.2.). El sentido tiene su estructura jerárquica (v. tb. fig. 1.1.1a):
+
+Al contenido semántico, el componente lingüístico, le corresponde el nivel más bajo. Es observable: se ve en los textos escritos y se escucha en los orales. Este componente por sí sólo no es un indicador inequívoco del sentido, porque un mismo significado puede hacer alusión a distintos sentidos3:
+
+La información lingüística tiene que resultar suficiente para la interpretación no en el sentido de proporcionar ella misma toda la información necesaria, sino en el de facilitar vías de acceso al mundo conceptual al que pertenece la imagen conceptual que quiere transmitir el productor. Así, deberá dar información conceptual, permitiendo identificar los mundos parciales, las relaciones entre ellos y el mundo principal, así como las existentes entre los elementos significativos que no sean fácilmente recuperables por el intérprete a partir de su conocimiento general, a la vista de la información proporcionada (Bernárdez, 2002: 21).
+
+La intención o intenciones del autor (programa conceptual del autor) están por encima del contenido semántico, porque cada orador elige la forma que considera más apropiada a partir de sus intenciones (v. tb. Gile, 1991: 190-191) y de la situación comunicativa.
+
+El nivel más alto lo ocupa la situación comunicativa en la que se está desarrollando el texto. Ésta motiva y determina la actividad del autor. En ella habrá que tener en cuenta al autor y su idiosincrasia (idiolecto, tecnolecto, prosodia, ideología...), las circunstancias relevantes de cada acto de comunicación, el destinatario y su idiosincrasia y, por supuesto, el tema, que si bien no está incluido en la siguiente figura, se nombra como uno de los aspectos cognitivos.
+
+A partir de lo visto no resulta difícil entender que en una situación comunicativa dada, la ambigüedad solo es posible cuando el oyente carece de la información extralingüística inherente a todo enunciado lingüístico. El hecho de que la palabra escrita de lugar a una mayor ambigüedad no se debe en sí a la forma escrita, sino al hecho de que puede leerlo cualquier individuo con la competencia lingüística necesaria, pero con carencias cognitivas, mientras que en el habla, los interlocutores se conocen y adaptan comunicativamente unos a otros.
+
+
+
+
+
+
+
+
+
+3 Seleskovitch ilustra con numerosos ejemplos la diferencia entre significado y sentido (1978: 333-334; 338) Para ella los ‘sentidos’ fuera de contexto son ‘sentidos lingüísticos’, en nuestra terminología ‘significados’.
+
+
+8
+
+
+
+
+ESTRUCTURA DEL SENTIDO DEL TEXTO
+
+
+
+SITUACIÓN	AUTOR
+
+
+Circunstancias
+
+relevantes	DESTINATARIO
+
+
+
+
+INTENCIÓN PRINCIPAL
+
+PROGRAMAIE¹IE²IE³IEⁿCONCEPTUAL
+
+
+CONTENIDOE¹E²E³EⁿSEMÁNTICO
+
+Figura 1.1.1a (Lvóvskaya, 1997: 36)
+
+Una de las ventajas de la IS (al menos de la IS prototípica) frente a la traducción es precisamente que la situación comunicativa es compartida, en una u otra medida, por los oradores, intérpretes y receptores de unos y otros.
+
+De lo dicho no se desprende que el nivel lingüístico, la forma, no sea importante. Seleskovitch, el máximo exponente de la que posteriormente se ha dado en llamar la Teoría del Sentido, defiende que la formulación no contiene el sentido (1976: 101), sino que sólo lo representa. El sentido está desverbalizado, se forma a partir de la interacción entre el linguistic meaning que expresan los sonidos del discurso y un componente cognitivo adicional, es de naturaleza consciente y no verbal (v. fig. 1.1.1b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figura 1.1.1b (Pöchhacker, 2004: 97)
+
+
+
+
+
+
+9
+
+
+
+
+Nosotros opinamos que la forma tiene su lugar en la estructura del sentido, si bien su importancia está subordinada a la situación comunicativa y al nivel pragmático o funcional.
+Una vez diferenciados significado y sentido, vamos a observarlos mediante ejemplos prácticos sacados de un discurso del entonces ministro de Economía alemán, Theo Waigel, pronunciado el 2 de septiembre de 1998 ante el Parlamento con motivo de los Presupuestos de 1999 (v. Anejo 7.4: 623-625).
+
+Acabamos de perfilar la situación comunicativa. Imaginemos a un intérprete al que colocasen en una cabina de interpretación simultánea y que tuviera que interpretar un discurso como éste, sin saber dónde está, a quién va a interpretar, el porqué, para qué, etc. Sería prácticamente imposible que fuera capaz de interpretar el sentido del discurso y, en el mejor de los casos, traduciría enunciados o segmentos sueltos inconexos.
+
+Sin embargo, si ese mismo intérprete sabe de antemano que va a interpretar el 2 de septiembre de 1998 (¿cuándo?) un discurso político (¿qué?) del ministro de Economía alemán, Theo Waigel (¿quién? Autor) en el parlamento alemán (¿dónde?) con motivo de los presupuestos de 1999 (¿por qué?) para el Parlamento y ante los representantes de la prensa española que están siguiendo este proceso (¿para quién? Destinatario) que cuenta con un orden del día, un glosario o el discurso (¿qué herramientas?) y que para realizar la interpretación dispone de una cabina y un compañero (¿en qué condiciones?) podrá suspirar tranquilo. Ya cuenta con algunos factores relevantes de la situación comunicativa que son suficientes como para anticipar qué tipo de discurso va a interpretar. A todo eso hay que añadir el factor ‘tema’ que implica la necesidad de documentarse (v. § 3.2.8) antes de interpretar. Es la característica puramente profesional. Los demás partícipes del acto comunicativo no se documentan, mientras que el intérprete lo debe hacer siempre.
+
+El intérprete escucha:
+
+E	(…) die Zahlen sprechen eine klare Sprache: Deutschland steht mitten im Aufschwung!
+
+y, gracias a la información sobre la situación comunicativa, sabrá que las cifras a las que se refiere el orador son indicadores económicos y por la misma razón sabrá traducir la metáfora y no traducirá: “hablan un idioma claro”, sino “hablan por sí mismas” o cualquier otra variante con un sentido comunicativamente equivalente. De no ser así, el intérprete estaría perdido desde la primera frase del discurso.
+
+
+
+
+
+10
+
+
+
+
+Todo el primer párrafo tiene tono de discurso político, que el intérprete no podría interpretar si no supiera quién es el orador, ante quiénes está hablando y en qué circunstancias.
+
+ In der Wirtschafts- und Finanzpolitik müssen wir jetzt klaren Kurs halten und die Politik für mehr Beschäftigung am Standort Deutschland entschlossen fortsetzen.
+
+Son palabras. ¿Cuál es el sentido? Para captarlo, el intérprete tiene que estar al corriente de la actualidad alemana, tiene que saber que los políticos están en periodo electoral y no sólo eso, sino que también debería saber qué probabilidades tiene la coalición de gobierno de salir reelegida. Implícitamente el orador quiere decir: “nuestra política ha funcionado hasta ahora, debemos mantenernos en el Gobierno y así continuar en nuestra línea”.
+Se observa, desde el principio del texto, una comparación constante implícita que se hace más explícita en algunos puntos del discurso. La intención del orador consiste en dejar claro que el grupo de gobierno constituye mejor opción que la oposición, que no sería capaz de llevar al pueblo alemán por el buen camino:
+
+ Das bedeutet weniger Staat und Bürokratie, sondern mehr Markt und Eigenverantwortung,
+ eine schlanke, kostengünstige und bürgerfreundliche Verwaltung, von der weitere Teile privatisiert werden, (…).
+
+Son los partidos socialistas los que tradicionalmente tienden a hacer públicas empresas, compañías, instituciones y servicios. Al proponer otra política diferente, la privatización, como única estrategia deseable y beneficiosa, la Unión Democristiana de Alemania (CDU) está haciendo esa comparación implícita con la oposición.
+
+i	(...) Teile [der SPD] wollen die Bevölkerung vor dem Wahltermin noch im unklaren lassen.
+
+Es en este punto, al final del tercer párrafo, donde por primera vez se hace referencia explícita a las elecciones… ¡pobre intérprete si no hubiera contado con esta información desde el principio!
+El sentido del texto nos lleva en este punto del discurso cogidos de la mano, y el intérprete es capaz de anticipar la información del postexto. Cuando el orador formula la pregunta:
+
+E	Was brauchen wir nicht?
+
+el intérprete sabe de antemano que se trata de una pregunta retórica y que, aunque haga una pausa en este punto (para subir la tensión, por ejemplo), la respuesta vendrá y además se imagina que “lo que no necesitan” probablemente esté relacionado con la oposición.
+
+
+
+
+
+11
+
+
+
+
+En este párrafo, la intención del ministro es la de descalificar mediante un ejemplo al partido socialista (al tiempo que adopta una postura paternalista).
+En el quinto párrafo, el orador dice:
+
+ Wir brauchen keine alten Hüte in der Politik. Wenn ich mir überlege, was Karl Schiller schon vor mehr als 20 Jahren entdeckt und auch zum Teil durchgesetzt hat, stelle ich fest, dass die gegenwärtige Wirtschaftsphilosophie der SPD eigentlich weit hinter dies zurücksinkt
+
+y lo que quiere decir, el sentido, es: la filosofía económica de los socialistas no sólo está pasada de moda, sino que sería perjudicial en la actualidad.
+Veamos otro ejemplo en el que queda clara la diferencia entre significado y sentido:
+
+ Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā  Ā          Ȁ ⤀Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ            Ā ᜀ        Ich sage Ihnen eins: Wahlen sind bisher immer beim Wahlgang und nicht bei Umfragen entschieden worden.
+
+El sentido (implícito): “Aunque nosotros (la coalición de gobierno) vayamos perdiendo en las encuestas, las elecciones se ganan en las urnas y ya verán, cuando salgan los resultados, cómo nosotros seremos los ganadores”.
+Hemos analizado brevemente la diferencia que existe entre ‘significado’ y ‘sentido’ y la importancia de éste último tanto para la traducción, como para la interpretación. Es tan importante que, sin su comprensión, la interpretación sería imposible, ya que al fin y al cabo lo que trasladamos son sentidos de una cultura a otra.
+
+Como veremos en el apartado del presente trabajo dedicado a la síntesis (1.2.2.), las repeticiones y las relaciones entre los componentes semánticos del discurso crean una redundancia objetiva considerable en el texto. Pero la redundancia de un discurso en un acto comunicativo dado no se limita a la redundancia objetiva o lingüística. Podemos hablar de otro tipo de redundancia que se deriva de los conocimientos previos de todo tipo del destinatario, en nuestro caso, del intérprete y también de los oyentes. La comprensión del sentido del discurso es el resultado de una elección lógica inconsciente, a partir de todos estos conocimientos que tiene como resultado la redundancia lógica subjetiva (Chernov, 1985: 172-173), a la que también podríamos llamar redundancia comunicativa y comienza cuando el intérprete-receptor es capaz de sacar ‘conclusiones lógicas’ a partir de la parte de discurso que ha escuchado, confrontando los componentes semánticos escuchados con:
+
+ otros componentes semánticos (conclusión lingüística);
+
+ elementos de su memoria enciclopédica (conclusión cognitiva);
+
+ factores de la situación comunicativa (conclusión deíctica-situacional);
+
+
+
+
+12
+
+
+
+
+  características del orador y del receptor (conclusión pragmática) (v. fig. 1.1.1c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figura 1.1.1c (Setton, 2001: 17)
+
+Una de las fuentes de conclusión lingüística es la norma de coherencia textual semántica (epígrafe 1.2.1.2.), cuando la coherencia textual se consigue mediante la repetición de componentes semánticos. Partiendo de esta norma, tanto receptor como intérprete, que esperan un discurso coherente, buscan de forma intuitiva las repeticiones. Ésta es una razón que justifica el hecho de que la idea de Gobierno se repita tanto:
+
+(...) Natürlich stehen wir mitten im Aufschwung, und das ist gut so. Die Trendwende am Arbeitsmarkt ist erreicht. Das ist das Ergebnis der Wirtschafts-und Finanzpolitik der Koalition von CDU/CSU und FDP. Unternehmer, Arbeitnehmer und die Bundesregierung haben gehandelt. Zentrale Reformen und Anpassungen an ein verändertes weltwirtschaftliches Umfeld sind weit vorangekommen und entfalten jetzt ihre Wirkung.
+
+In der Wirtschafts- und Finanzpolitik müssen wir jetzt klaren Kurs halten und die Politik für mehr Beschäftigung am Standort Deutschland entschlossen fortsetzen. Das beudeutet weniger Staat und Bürokratie, sondern mehr Markt und Eigenverantwortung, (...).
+
+wir — Wirtschafts- und Finanzpolitik der Koalition von CDU/CSU und FDP — Bundesregierung
+
+— Zentrale Reformen und Anpassungen (unserer Politik) — Wirtschafts- und Finanzpolitik — wir — mehr Markt und Eigenverantwortung (líneas 6-14).
+
+Cuando son los conocimientos de fondo los que dan lugar a la conclusión lógica, se trata de una conclusión cognitiva (inferencia). Más aún, si no se trata de unos conocimientos especializados (científico-técnicos, por ejemplo), esta conclusión está estrechamente ligada a los conocimientos enciclopédicos (v. § 1.3.2.3), porque todo aspecto semántico de la lengua es reflejo de la experiencia social de los comunicantes.
+
+Cuando faltan conocimientos de fondo, se pueden sacar falsas conclusiones (cognitivas) y en el caso del intérprete, esto puede tener como consecuencia la tergiversación del sentido,
+
+
+13
+
+
+
+
+situación que también se puede dar dentro de una misma conferencia o congreso cuando uno de los oradores hace referencia a algo que ha dicho un orador anterior. Si el intérprete no estaba cuando intervino el orador anterior, desconocerá el tema al que se refirió el orador y en el discurso actual le faltarán conocimientos que le impiden sacar una conclusión lógica.
+
+A diferencia de la conclusión lingüística, la cognitiva no depende de una lengua concreta. El contenido de un concepto incluye todo lo que se haya oído, leído o visto sobre el concepto, es decir, no sólo contiene información semántica, que es independiente de la lengua, sino también información sensorial, fonética y sintáctica específica de la lengua (Moser, 1978: 357-358). Además es la marca distintiva de la conclusión tesaura (terminología de Chernov, 1987: 99 y ss.). Por ejemplo, los principios o conclusiones cognitivas del tipo motivo-consecuencia, indicio-hecho, interdependencia de las partes de un todo, se dan en español, alemán, inglés o en ruso.
+
+Las conclusiones deícticas-situacionales parten de las variantes de tiempo y espacio en el que transcurre el proceso del discurso. El punto cero del eje de coordenadas de persona será YO, de espacio AQUÍ y de tiempo AHORA, aunque es posible que tiempo y espacio coincidan.
+Un ejemplo ya utilizado por otros autores con anterioridad, pero que ilustra a la perfección la importancia de la situación:
+
+U	¡La luz, por favor!
+
+Si la luz está apagada significa: ¡Enciendan la luz, por favor!, pero si estuviera encendida significaría todo lo contrario. Gracias a la situación podemos sacar una conclusión lógica, motivo por el que los intérpretes deberían estar familiarizados con la sala en la que tiene lugar el discurso y por el que muchos señalan la importancia de que los intérpretes tengan una buena ‘visibilidad’ (epígrafe 1.1.7.3.).
+
+Por último, nos quedan por ver las conclusiones pragmáticas, que son aquellas que surgen de la confrontación del discurso escuchado con los factores de la situación comunicativa, especialmente del orador y su papel social e idiosincrasia. Influye también el conocimiento del auditorio, de los receptores y de su papel social en relación con el orador que el intérprete tenga.
+
+
+Cuando hay grupos muy pequeños de hablantes, todos ellos con un acceso semejante a una misma realidad, no tenemos que ser precisos en nuestra comunicación, como puede verse en los registros más coloquiales. Nuestro interlocutor es perfectamente capaz de añadir por su cuenta toda la información que no expresamos directamente. Tampoco necesitamos mucha
+
+
+
+
+14
+
+
+
+
+subordinación, el orden de las palabras depende sobre todo de lo que consideramos más o menos importante (...) (Bernárdez, 1999: 221-222).
+
+La mayoría de los trabajos sobre pragmática lingüística sobreentienden aquellas situaciones comunicativas en las que hay dos interlocutores presentes en contacto directo. Sin embargo, se refieren a la situación comunicativa de un discurso público, es decir, la situación comunicativa de la interpretación simultánea.
+
+Si bien las primeras investigaciones experimentales se centraron en variables mesurables del proceso (v. por ejemplo el siguiente epígrafe), les siguieron algunos modelos cognitivos como los de Gerver (1976) y Moser (1978) y estudios más recientes que parten del supuesto de que la capacidad de procesamiento de la información por el individuo debe ser un aspecto central del estudio de la IS, por lo que consideramos importante detenernos en el papel del procesamiento de la información en la comprensión del sentido.
+
+Una de las hipótesis que se han manejado ha sido que la comprensión y repetición verbal de un texto puede depender de las tareas cognitivas de su procesamiento. A partir de ahí se han empleado varios tests para determinar el grado de procesamiento según el porcentaje de respuestas acertadas. Gerver (1974) y Lambert (1988), por ejemplo, aplican la hipótesis de los ‘niveles de procesamiento’ de Craik y Lockhart (1972) a la IS4. Según estos autores, un texto interpretado debería ser procesado con mayor profundidad que un texto que es únicamente escuchado. Gerver (1975: 123) comenta los resultados de un pequeño estudio comparativo en el que se formulan diez preguntas de contenido a los intérpretes tras un ejercicio de IS y se comparan las respuestas con las obtenidas tras aplicar ejercicios de escucha y shadowing5. Los oyentes ocuparon el primer lugar en respuestas acertadas y los intérpretes sólo superaron a los sujetos que habían realizado el ejercicio de shadowing.
+
+En definitiva, los resultados obtenidos no parecen confirmar el punto de partida. Los autores creen que esta variación con respecto a lo esperado se debe a que la atención en IS está dividida entre diferentes actividades (v. § 1.3.1 del presente trabajo), mientras que el oyente sólo tiene que concentrarse en el procesamiento de la información que recibe.
+
+Massaro (1978) describe la tarea del intérprete simultáneo precisamente desde el punto de vista del procesamiento de la información:
+
+
+ V. § 1.1.4 del presente trabajo.
+ El shadowing, consiste básicamente en repetir el texto escuchado con un retardo de unos segundos. En Psicología se ha optado por traducir este término al español por ‘seguimiento’ (empleado por Jiménez y Pinazo, 2002) o ‘sombreado’. En el presente trabajo hemos decidido conservar el término inglés, porque es el que con mayor frecuencia se emplea en IS.
+
+
+15
+
+
+
+
+(...) the interpreter must decode the surface structure of the original message, map it into some abstract representation, take this same abstract representation and map it into a new surface structure, and finally articulate the translated message (ibídem: 299).
+
+Seleskovitch (1976) postula que esa ‘representación abstracta’ de la que habla Massaro no es de carácter verbal. Se apoya en la observación de los lapsus que ocurren tras largas e intensas jornadas de trabajo en las que no interpretamos hacia la lengua que debemos (B → B o A → A), porque no nos damos cuenta de qué lengua estamos empleando.
+
+Gile es uno de los científicos más prolíferos en interpretación. Aparte de sus artículos sobre la evolución y la metodología de la investigación (Gile, 1990a, 1990b, 1994, 2001, 2003), su mayor contribución al campo de la interpretación es, desde nuestro punto de vista, su modelo conceptual que se aproxima a la IS desde la necesidad de controlar las ‘capacidades’: Effort Models (Gile, 1992, 1993, 1995; v. tb. § 1.3.1 del presente trabajo). Parte de la observación de que muchos errores, incluso de intérpretes profesionales, se cometen sin que a simple vista se observe ninguna dificultad y sostiene que, en la mayoría de los casos, se debe a problemas durante la fase de procesamiento derivados del hecho de que la interpretación requiera unos recursos cognitivos, que son limitados. Sobre esta base postula tres esfuerzos presentes en interpretación simultánea (1995: 161-169, 1997). El primero corresponde a la fase de recepción y análisis (L) e incluye toda operación mental que tiene lugar entre la percepción del discurso a través de los mecanismos auditivos, la identificación de las palabras, y el momento en el que el intérprete asigna, o decide no asignar, un sentido (o varios sentidos posibles) al segmento que ha escuchado. A éste hay que sumarle los esfuerzos de producción y de memoria de corta duración más un esfuerzo añadido, el de coordinación. En la mayoría de los casos, los tres esfuerzos básicos están procesando diferentes segmentos del texto y para que la interpretación simultánea transcurra sin problemas, la capacidad real disponible para cada uno de los esfuerzos debe ser igual o superior a la necesaria. Esto explica que cuando un intérprete comete un error o una omisión no sea necesariamente por falta de conocimientos, sino que se deba a una saturación cognitiva. El autor sostiene, al igual que otros, que la comprensión de los discursos orales requiere un mínimo de conocimientos de la lengua y extralingüísticos (variable según la situación comunicativa, pero con frecuencia este mínimo supone muy buenos
+
+
+
+
+
+
+
+
+
+
+16
+
+
+
+
+conocimientos), para poder tomar decisiones correctas. En la siguiente figura vemos la representación esquemática del modelo6.
+
+Volviendo a los experimentos de Gerver y Lambert (ibídem), nosotros consideramos que otro aspecto que se debe tener en cuenta es el tipo de oyente que empleamos en nuestro estudio. Sin duda, un intérprete simultáneo que realice ambas tareas (una de IS y otra de escucha) obtendrá mejores resultados en la segunda prueba por no tener su atención dividida, pero ¿y si lo comparamos con un congresista oyente escogido al azar? Sería interesante comparar el número de respuestas correctas del intérprete simultáneo en relación con el de los congresistas oyentes. Tal vez nos sirva para confirmar la idea, que algunos intuimos, de que el
+
+
+
+6 Los Effort Models de Gile han recibido críticas (Setton, 2001: 10) por la dificultad que encontramos para extrapolar el modelo a un corpus. Esto se debe en parte a que los factores que pueden saturar el sistema quizás no quedan bien definidos y a que no se determina un sistema de medición de las capacidades.
+
+
+
+
+17
+
+
+
+
+intérprete escucha de una manera diferente que probablemente implique mayor grado de procesamiento.
+Thiéry (1990: 42-43) afirma que para captar la información que debe transmitir, el intérprete tiene que fiarse mucho más de los elementos verbales que los destinatarios del discurso, porque carece del conocimiento que orador y destinatarios comparten. Al no poder captar todo lo implícito, debe concentrarse en lo que sí se dice.
+
+A pesar de que Thiéry utiliza conceptos cognitivos como ‘situación comunicativa’, resalta la importancia de que el intérprete se concentre en cada ‘sílaba’ del discurso, haciendo hincapié en los elementos verbales, enfoque con el que no coincidimos, porque, como ya hemos visto, los elementos verbales corresponden únicamente al nivel más bajo de la estructura del sentido.
+
+En realidad, nuestra postura se asemeja más a la de Weber (1989: 163-164), quien distingue entre ‘oir’ y ‘escuchar’. Mientras ‘oir’ corresponde al sentido del oído de todo ser humano, sin implicar la comprensión del sentido del discurso, ‘escuchar’ en IS debe ser una fase consciente que requiere atención y concentración por parte del intérprete simultáneo. No es suficiente, como hemos visto, escuchar de manera superficial, sino que la escucha debe ser selectiva, con el objeto de eliminar en la siguiente fase todo aquello que sea prescindible en la producción del TM. El autor añade una tercera fase, la de ‘análisis’ que coincide con la fase de ‘escucha’. El intérprete comprende ‘todos’ los detalles del discurso y elige de manera consciente los elementos (suponemos que se refiere a unidades de sentido) que transmite en el TM y la forma (lingüística) de estos. Weber sostiene que ambas fases (escucha y análisis7) pueden perfeccionarse mediante su entrenamiento, pero que la segunda responde a una actitud innata de pensamiento analítico que ha sido entrenado de forma continuada.
+
+Nosotros discrepamos ya que, si bien es cierto que se requiere una capacidad de análisis, ésta no tiene por qué ser exclusiva de algunos individuos. Para tener éxito en la IS, al igual que en otras actividades complejas, es necesario disponer de cierta inteligencia y en nuestra práctica docente nos encontramos con diferentes casos: alumnos que han adquirido la capacidad de análisis en un proceso de formación anterior y alumnos que han llegado a la edad adulta sin ella. Cuando se trata de estos últimos, difícilmente vamos a conseguir en el transcurso de unos meses que los alumnos desarrollen las habilidades correspondientes al análisis y comprensión, al mismo tiempo que aprenden las técnicas específicas de la IS. Pero lo mismo ocurre con estos alumnos en clases de traducción o de cualquier otra materia que requiera capacidad de
+
+7 Para los intérpretes profesionales la escucha no es una mera percepción pasiva, sino consciente y coincide con el análisis.
+
+
+18
+
+
+
+
+discernimiento. Ahora bien, también habrá un número no determinado a priori de alumnos que poseen la capacidad de análisis, pero en estado bruto. En estos casos estimulamos mediante ejercicios concretos a los alumnos a medida que avanzan en el ejercicio de otras capacidades y estrategias necesarias en el proceso, como veremos en el capítulo tercero del presente trabajo.
+
+Además, criticamos el hecho ‘poco realista’ y ‘nada modesto’ de que los intérpretes tengamos que comprender todos los detalles de un discurso. El intérprete debe tener conocimientos suficientes en todos los campos en los que trabaja y su nivel de conocimiento debe ser el adecuado para la comprensión (cf. Seleskovitch, 1976: 103, v. tb. § 1.3.2), lo que se traduce en una ardua preparación anterior a la conferencia (lecturas, consultas en enciclopedias, entrevistas con expertos, etc.; v. § 3.2.7 del presente trabajo). El grado de conocimientos del intérprete de conferencias, especialista en interpretación y no en la materia del discurso, no se puede igualar al de los oradores o al de los oyentes, especialistas, salvo en raras excepciones. Se trata, en palabras de Cartellieri (1983: 211), de “reduced understanding, limited to very practical purposes, an output-controlled model of a particular field”. 8
+
+Otros autores opinan que son pocos los intérpretes que tienen la oportunidad de especializarse en una sola materia y llegan a adquirir conocimientos especializados suficientes como para entender al orador. Por lo general, los intérpretes tienen cierta idea del tema. Una realidad bien distinta a pretender que sea posible que un intérprete sin formación previa en física, matemáticas o química pueda adquirir los conocimientos suficientes en un par de días como para comprender el sentido completo del mensaje del orador sobre un tema específico (Dillinger, 1994: 161). A otros (Darò, 1994: 265), la hipótesis de que el intérprete simultáneo en la mayoría de los casos no comprende el sentido real del mensaje y aún así consigue interpretar la estructura superficial del discurso, puede resultarles más factible. A pesar de que faltan estudios que lo verifiquen, nuestra experiencia y la observación del trabajo de otros intérpretes evidencian que sin comprender el sentido no es posible interpretar con éxito un discurso.
+
+Estamos de acuerdo en que un intérprete que acude a un congreso de medicina sobre amputaciones, por ejemplo, ni es un experto ni será capaz de realizar una amputación. Pero sí debe ser capaz de hablar sobre el tema, sin aportar evidentemente información nueva al experto, pero sí debe emplear su mismo lenguaje, conocer los conceptos y relacionarlos entre sí. Siempre puede haber implicaturas9 (partes del sentido) del discurso que el intérprete no
+
+ Cursiva del original.
+ Grice (1989: 24) introduce dos conceptos implicatura, del inglés implicature (implying), y también implicatum (what is implied).
+
+
+19
+
+
+
+
+capte, porque no comparte los mismos conocimientos que orador y destinatarios, pero si estas implicaturas son relevantes, la misma redundancia del acto comunicativo hará que el intérprete las comprenda (en el apartado 1.3.2 abundaremos en este tema).
+Ahora bien, la comprensión no depende exclusivamente de las características del discurso y de los conocimientos de oyentes e intérpretes, sino también, en gran medida, de la capacidad del orador para adaptarse a los conocimientos de sus oyentes (Seleskovitch, 1982: 245).
+
+De acuerdo con esta aproximación, el orador (que no tiene previsto leer el discurso) se ajusta a los oyentes de una situación comunicativa dada y pronuncia un discurso planificado (desde un punto de vista cognitivo). Sabe de qué va a hablar antes de abrir la boca, pero no tiene previstas las unidades de sentido que va a producir, sino que, conforme advierte la reacción de sus oyentes, incide en aquella información que parece no haber sido comprendida y omite otros aspectos que por conocidos podrían resultar aburridos. El orador espera encontrar un público que comparte su lengua y además los conocimientos de mundo y de fondo que representan las palabras que emplea.
+
+En nuestra opinión el buen orador debe tener en cuenta a sus oyentes de otras comunidades lingüísticas y culturales, ya que el intérprete simultáneo rara vez tiene tiempo de añadir la información relevante que el orador omite.
+Dado el número de participantes en el acto comunicativo, se puede suponer que el grado de implicitud y explicitud varía en cada una de las etapas, es decir, un orador pronuncia un discurso (explícito A) con una implicitud determinada B, que llega a un receptor (mediador cultural) que, a partir de A, hace sus propias deducciones C y, finalmente, produce un discurso D que los destinatarios finales reciben realizando sus propias deducciones E (Chernov, 1987: 17-19).10 En este sentido dice Bernárdez, si bien en relación a un acto comunicativo monolingüe:
+
+
+(...) la cantidad, tipo y calidad de la información proporcionada [explícita] por el productor va a depender (...) de lo que éste espera que esté en posesión del intérprete, pues una información insuficiente tendrá el efecto de impedir la comprensión adecuada del texto (...) y un exceso de información puede tener el mismo efecto, pues el intérprete puede verse confundido por la presencia de información explícita que ya conoce y, de acuerdo con los principios universales como el de la relevancia, tenderá a buscar una explicación (...) y terminar en una interpretación no apropiada (2002: 21).
+
+
+10 Chesterman (1997: 108-109) dedica un apartado a comentar las estrategias de traducción que consisten en explicitar información del TO en el TM o hacer más implícito el TM que el TO. En realidad, los intérpretes parece que emplean con frecuencia la primera de las estrategias, aún cuando lo aconsejable, como veremos en el apartado del presente trabajo dedicado a la síntesis (1.2.2), es optar siempre que se pueda por la segunda.
+
+
+20
+
+
+
+
+En definitiva, no debemos presuponer que el intérprete será capaz de ponerse en la piel del orador. Su interpretación será diferente por el simple hecho de ser una persona distinta con su propio bagaje cultural y personalidad. Ya ocurre que dos críticos literarios divergen en sus interpretaciones de la misma obra y es frecuente que dos individuos saquen conclusiones diferentes de la aseveración de una tercera persona. A ello hay que sumar el hecho de que ambos pertenecen a sus propios grupos paraculturales y diaculturales (v. § 1.3.2). Con todo, el intérprete simultáneo debe recabar toda la información necesaria (antes y, en menor medida pero con mayor relevancia, durante la conferencia) para comprender en la medida de lo posible las intenciones del autor y analizar todas las circunstancias relevantes de la situación comunicativa para así transmitir en la medida de lo posible el sentido del TO.
+
+

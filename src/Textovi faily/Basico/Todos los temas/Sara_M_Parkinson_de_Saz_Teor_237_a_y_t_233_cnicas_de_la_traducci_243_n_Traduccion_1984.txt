@@ -1,0 +1,623 @@
+﻿http://cvc.cervantes.es/Ensenanza/biblioteca_ele/aepe/pdf/boletin_31_16_84/boletin_31_16_84_11.pdf
+
+
+
+
+Teoría y técnicas de la traducción
+
+Sara M. Parkinson de Saz
+
+
+
+
+La t r a d u c c i ó n e n el  p a s a d o
+
+    Según ciertos escritores italianos de los comienzos del Renacimiento, las traduc-ciones son c o m o las mujeres: feas si son fieles, e infieles si son hermosas '. Sin en-trar de m o m e n t o en la polémica ya bastante superada de las traducciones literales frente a las libres, ni mucho m e n o s en la de la fidelidad de las mujeres, queremos señalar únicamente que la traducción es un quehacer muy antiguo y, por tanto, al-gunos de los conceptos que vamos a tratar no son nuevos. Lo que quizá es nuevo es el enfoque de ciertos problemas de siempre.
+
+    A pesar de la antigüedad de la traducción la figura del traductor n o se ha valo-rado siempre suficientemente. Parece ser que en Europa goza actualmente de mayor prestigio que en los Estados Unidos, donde evoca la imagen, según un autor, de una persona de mediana edad, mal vestido, que habla inglés con un acento muy pronunciado y probablemente es inmigrante 2 . Incluso en Europa no se reconoce a veces la contribución cultural del traductor y es muy frecuente que n o figure siquie-ra su nombre en el libro traducido (quizá por prudencia en algunos casos, dada la pésima calidad de ciertas traducciones existentes en el mercado). N o obstante la tra-ducción ha sido fundamental en la historia de la cultura, facilitando la difusión de obras que, de otra manera, hubieran tenido un público mucho más restringido.
+
+    La antigua civilización babilónica utilizaba traductores y, en tiempos más moder-nos, recordamos el papel de la traducción en el Renacimiento. Pensemos también en el caso de la Biblia que en la actualidad está traducida (por completo o en parte) a 1.109 leguas. La inmensa mayoría de estas traducciones bíblicas se ha realizado en los últimos doscientos años ya que al principio del siglo xix existían traducciones solamente en setenta y una lenguas s .
+
+    A veces la traducción n o se limita a transmitir un mensaje sino que puede llegar incluso a influir decisivamente en el desarrollo de la lengua, c o m o es el caso de la traducción de Lutero de la Biblia (1522) en el alemán o la de la «King Jame's Bible» (1611) en el inglés.
+
+    Si consideramos obras más recientes podemos preguntarnos si el pensamiento de Saussure, por ejemplo, hubiera tenido la repercusión que ha tenido si no se hu-biera traducido a otras lenguas. El francés, se argumentará, es una lengua tan cono-cida que, de todas maneras, hubiera llegado el Cours a un gran público, pero ¿qué
+
+
+
+hubiera pasado con la obra de Hjelmslev que se publicó en danés en 1943? Pasaron diez años hasta que se tradujo al inglés c o m o Prolegómeno, to a Theory of Language (1953).
+
+    Veamos también el caso de los lingüistas del Círculo Lingüístico de Praga. Dado el carácter internacional del grupo que incluía al holandés A. W. de Groot, al aus-tríaco Karl Bühler, al inglés Daniel Jones, al yugoslavo Aleksander Belic, a los fran-ceses Lucien Tesniére y André Martinet y a los rusos Karcevski, Jakobson y Trubetz-koy, tuvieron que elegir una lengua común, en este caso el francés, para la difusión de sus trabajos. U n o de los rusos Jakobson, conseguiría posteriormente mayor difu-sión de sus obras a través del inglés.
+
+    En algunos casos la tardanza en traducir una obra puede retrasar considerable-mente la difusión de las ideas c o m o en el caso de Pensamiento y lenguaje de Vygotsky que se publicó postumamente en ruso en 1934, fue retirada por las autoridades ru-sas en 1936, volvió a aparecer en 1956 y no fue traducida al inglés hasta 1961. A pesar de este lapso de casi treinta años entre la publicación de la obra y su traduc-ción al inglés ha habido cierta suerte ya que los temas que trata Vygostky siguen es-tando candentes y hay varios filósofos y lingüistas de habla inglesa que se ocupan en la actualidad de cuestiones que él suscitó en los años treinta.
+
+
+La t r a d u c c i ó n e n e l  p r e s e n t e
+
+    Hoy día muchas obras salen al mercado simultáneamente con su traducción a gran variedad de lenguas. N o se trata solamente de obras literarias sino también técnicas. La fama de gran número de escritores descansa en parte en la traducción de sus obras, sobre todo si escriben en una lengua minoritaria. También la traduc-ción puede ayudar a los autores que escriben en idiomas no minoritarios. Según al-gunas malas lenguas, Gabriela Mistral debió en parte el Premio Nobel a que logró muy rápidamente la traducción de todas sus obras al sueco.
+
+    En cuanto a las traducciones tecnias, sólo la CEE emplea actualmente unos 1.600 traductores y otros organismos internacionales igualmente cuentan con nume-rosos traductores. Ya en 1967 se traducían unas 80.000 revistas científicas al año y el número va en constante a u m e n t o 4 .
+
+    A nivel nacional, cualquier firma de cierta envergadura, sea de ingeniería, pa-tentes, comercio y no digamos las empresas multinacionales, tienen su plantilla fija de traductores. De hecho, el empleo de traductor es una de las mejores salidas que tienen actualmente los licenciados en lenguas modernas .
+
+
+La t r a d u c c i ó n y la  e n s e ñ a n z a
+
+    El empleo de la traducción en la enseñanza de las lenguas ha gozado de mayor o m e n o r popularidad en diferentes épocas. En Inglaterra durante el Renacimiento se estudiaban los llamados «vulgars» en las escuelas. Eran oraciones en inglés que trataban diversos aspectos de la vida cotidiana y los alumnos traducían al latín, cui-dando especialmente el estilo. La traducción c o m o herramienta en la enseñanza de las lenguas modernas no se hizo popular hasta el siglo xrx, aunque se encuentran casos antes de esa fecha 5 .
+
+
+
+
+
+    En el siglo XVIII, por ejemplo, un profesor de francés de la Real Escuela Militar de Avila, Pedro Nicolás Chantreau, publicó una gramática de francés para españoles en la que llama la atención sobre los peligros de la traducción:
+
+   «El principiante que en sí tiene ya conceptuado en castellano lo que quiere ex-presar en francés, sigue en la repentina traducción que hace, lo genial de su lengua; y cuando éste no conviene con el francés, prorrumpe en disparates, aunque tenga muy estudiadas las reglas de la Gramática: v.g. Uno quiso decir que el Excelentísi-mo Señor Conde de Aranda hacía mucho papel en París; como en ninguna parte habían encontrado el equivalente de esta frase, construyó literalmente, y dixo: Mr. le Comte de Aranda fait beaucoup de papier a París lo que significa en francés que su Exce-lencia fabrica una gran porción de papel en París.» 6
+
+    Este peligro que ve Chantreau de imponer las estructuras de la lengua materna en la segunda lengua al realizar la traducción se reconoce hoy y de hecho existe una tendencia hacia la supresión de las traducciones inversas precisamente para evi-tarlo. Los organismos oficiales, recordemos, exigen a sus traductores la traducción a su lengua materna y no la traducción inversa.
+
+    A pesar de sus dudas, Chantreau pensaba que la traducción tiene su lugar en la enseñanza y aconseja estudiar un texto en el original con «algunas buenas traduc-ciones» al lado para contrastarlas y sacar conclusiones sobre las reglas de la segun-da lengua 7 . Quizá el hecho de que Chantreau se reconoce muy endeudado con los gramáticos de la Escuela de Port Royal e insiste repetidamente en su Gramática en el proceso cognoscitivo para el aprendizaje de las lenguas es lo que le lleva a consi-derar la traducción c o m o buen método auxiliar de llegar a entender las estructuras de la nueva lengua.
+
+
+    En los últimos años el papel de la traducción en la enseñanza de las lenguas se viene revalorizando desde que los métodos estructuralistas han sido sustituidos pau-latinamente por otros basados en los conocimientos que nos ha proporcionado la gramática transformacional generativa.
+
+    En el siglo xrx el método conocido c o m o «Grammar Translation Method» se apoyaba en la traducción c o m o sistema para el aprendizaje de las lenguas moder-nas. Por tanto, se proporcionaba, incluso a los alumnos no avanzados, diversos tex-tos de los clásicos para su traducción. Bien entrado el siglo xx se ha seguido in-cluyendo la traducción en muchos manuales. En el m é t o d o inglés, English Lessons af-ter S. Algés Method de Sophie Hamburguer 8 , por ejemplo, encontramos en la 13 edi-ción de 1919 una selección de textos para traducir c o m o «The boy stood o n the burning deck» o poemas de Longfellow, Wordsworth y Charles Kingsley, mientras
+
+que  The New  British Method.  Método  de Inglés de Girau,  en su edición de  1925 sugiere la
+
+traducción al español de una serie de frases que incluyen:
+
+   «Alas! I have lost all my fortune. Hark! how it thunder! Behold! what a beautiful landscape! Pooh! do not believe it. Fie! what a gloomy scene. Farewell, my dear oíd country! Hurrah! our master has just arrived.» 9
+
+
+
+    El Método de Cortina Francés en 20 lecciones, de R. Diez de Cortina (1928), utiliza un sistema original: ofrece un texto en francés seguido de una traducción literal al cas-tellano y, más adelante, una traducción más libre. Para «Bonsoir chérie!», por ejem-plo, ofrece: «¡Buena (primera parte de la) noche, queridísima!» y para «Madame par-le très bien français, n'est-ce pas?» nos regala con: «Mi señora habla muy bien fran-cés; ¿no es eso no?» 1 0 .
+
+
+La t r a d u c c i ó n e n las u n i v e r s i d a d e s británica y  e s p a ñ o l a
+
+    La traducción directa e inversa goza de una larga tradición en los departamen-tos de Lenguas Modernas de las universidades británicas. A pesar de eso, las clases suelen ser exclusivamente prácticas sin intentar abordar las numerosas teorías de la traducción que se han ido desarrollando en los últimos años. Con frecuencia el pro-fesor encargado de dichas clases es el lector español, en el caso de la lengua que nos interesa, o alguno de los jóvenes profesores recién incorporados al departamen-to. El catedrático o los profesores de más experiencia suelen dedicarse a tareas do-centes «de más importancia». Esta actitud está cambiando pero, c o m o nos hace no-tar un autor, todavía no existe ninguna cátedra de teoría de la traducción en Gran Bretaña 1 1 . La traducción va orientada casi siempre hacia la rama literaria, conside-rada «superior» o «más difícil» que la científica o técnica.
+
+
+    En cuanto a la enseñanza media, se incluyen traducciones c o m o pruebas en los exámenes de bachillerato tanto a nivel de «O levéis» c o m o de «A levéis».
+
+    En España n o se enseña la traducción oficialmente a nivel de enseñanza media, pero muchos libros de texto incluyen trozos para su traducción. En 1982 se planteó Ja cuestión de si entraban el francés y el inglés en las pruebas de selectividad para el acceso a la Universidad. Hubo reuniones entre los representantes de la enseñanza media y los coordinadores de la Universidad y en una de ellas, a la que asistimos, se suscitó mucha polémica cuando se dio a entender que el e x a m e n iba a consistir en una traducción del inglés al español. Corrió el rumor de que se había elegido este tipo de prueba debido a la escasez de profesores de inglés para corregir los exáme - nes, y se iba a proporcionar, según se decía, la versión correcta (la «solución») en es-pañol a profesores con escasos o nulos conocimientos de inglés, c o m o si solamente hubiese una versión correcta de una traducción. Este rumor, que no se pudo confir-mar, causó mucho malestar entre el profesorado, c o m o es lógico, y, sea verdad o no, el hecho es que todavía no ha entrado el inglés en las pruebas de selectividad, y el tipo de examen, para cuando ello ocurra, está todavía sin decidir.
+
+
+    En la Universidad española la traducción suele tener su lugar en los departamen-tos de filología inglesa pero, con alguna excepción, no se le concede demasiada im-portancia. De hecho, muchos licenciados en filología inglesa se ven obligados a ma-tricularse en cursos especiales de traducción cuando empiezan a preparar oposiciones a cátedras o agregadurías de inglés de instituto porque entonces sí que la traduc-ción se exige en las pruebas de acceso.
+
+    Los alumnos de las universidades politécnicas tienen incluido en su programa un curso oficial de traducción del inglés al castellano. Tienen necesidad de leer re-vistas científicas en inglés y, por tanto, deben dominar un amplio léxico técnico y las estructuras básicas del inglés.
+
+Pensamos que habría que decidir si la Universidad es el lugar apropiado para la
+
+
+e n s e ñ a n za de la traducción o si este cometido debería depender exclusivamente de las escuelas de traductores. Somos de la opinión de que sí se debe enseñar en la Universidad. Un estudio profundo de los distintos estilos y tipos de traducción: lite-raria, científica, legal, comercial, etc., ampliaría considerablemente los conocimien-tos lingüísticos de los alumnos, pero además estas clases prácticas deberían ir acom-pañadas de clases teóricas en las que se estudiasen no solamente las técnicas básicas de la traducción, que no siempre se enseñan de forma sistemática, sino también al-gunas de las teorías desarrolladas por lingüistas c o m o Nida, Mounin, Cary y Jum-pelt o Vinay y Darbelnet, entre otros.
+
+    La teoría de la traducción encaja en la lingüística aplicada aunque algunos la si-túan en la lingüística comparada. N o obstante, el alumno que estudia la teoría de la traducción encuentra que tiene ramificaciones con muchas disciplinas c o m o la psi-cología, la semántica, la sociolingüística, la etnoligüística e incluso la filosofía, ya que un estudio serio de la traducción inevitablemente conduce a consideraciones fi-losóficas acerca de la relación entre la mente y el lenguaje o entre el lenguaje y la realidad, entre otros temas.
+
+    De todas maneras, compartimos la opinión de Newmark de que, aunque no hu-biese otra razón para enseñar la traducción en la universidad, el gran número de traducciones mal hechas en el mercado sería razón suficiente para adiestrar a los alumnos de lenguas modernas en este arte, oficio y ciencia que es la traducción l 2 .
+
+T e o r í a s d e la  t r a d u c c i ó n
+
+    Tanto los lingüistas c o m o los filósofos han contribuido al desarrollo de diversas teorías de la traducción que han proliferado especialmente en los últimos años.
+
+    El filósofo americano C. S. Peirce, con sus teorías del significado, que subrayan el aspecto comunicativo de los signos, ha contribuido de forma directa al desarrollo de ciertas teorías de la traducción. Charles Morris (Writings on the General Theory of Signs. (Approaches t o Semiotics), The Hague, París: Mouton, 1971) es otra figura clave. Morris ha tenido especial influencia en la llamada «Escuela de Leipzig», formada por un grupo de investigadores que se han dedicado a elaborar las bases teóricas de la tra-ducción. El lingüista y traductor de la Biblia, E. A. Nida, ha dedicado varias obras a la traducción y consideraremos su teoría del análisis de los componentes más ade-lante.
+
+
+    Nida se plantea en una ocasión la pregunta: ¿es posible la traducción? Reconoce que siempre hay una pérdida de información cuando se traduce de una lengua a otra pero esto, sostiene, es cierto, no solamente de la traducción sino en todos los tipos de comunicación. Sugiere que la mejor traducción es siempre la que capacita al receptor para responder al mensaje, tanto en forma como en contenido, como respondería el lector original. Para eso es muy importante que el traductor sepa a qué tipo de lector iba dirigido el texto original y cuáles fueron sus reacciones. Si el papel del lector cobra cada vez más importancia en la crítica literaria actual, tam-bién debe tener importancia para el traductor. Las teorías sociolingüísticas de la tra ducción ponen especial énfasis en este aspecto y subrayan que el traductor debe te-ner conocimientos del autor, del fondo histórico del texto y de las condiciones en que éste fue escrito.
+
+
+
+    Otra teoría, la de la traducción semántica, intenta básicamente traducir con la mayor fidelidad posible las estructuras semánticas y estructurales del original. Es
+
+
+
+una forma bastante literal de traducir pero no llega a ser lo que se suele entender por «traducción literal», es decir, una traducción palabra por palabra. Quiere, sobre todo, conservar el significado exacto del texto original y produce traducciones muy detalladas. Incluso se le puede acusar de «traducir de más» {overtranslating) por ser más detallista que el original.
+
+    La traducción comunicativa, por otro lado, se interesa más por el lector que por la fidelidad al texto original y se esfuerza por evitar a aquél las dificultades y ele-mentos «extraños». Busca un estilo idiomático, llano y claro, procurando llevar a cabo la transmisión de elementos culturales que pueden existir en el original y sus-tituyéndolos por términos que son propios de la cultura de su lector. Una traduc-ción comunicativa, al contrario que la semántica, tiende a «traducir de menos» o undertranslate, produciendo una versión sencilla, en términos genéricos, de los trozos complejos.
+
+    Existe otro tipo de traducción llamada «traducción cognoscitiva». Es un método de pretraducción y consiste en analizar el texto original y, en la lengua original, di-vidir los componentes de forma que quede lo más claro posible el significado. Por ejemplo, el adjetivo compuesto «honey-sweet» se expresaría c o m o «sweet as honey» o «edge shapes», «shapes of the edges ». Se utiliza esta técnica sobre todo para aquellas oraciones muy complejas o ambiguas con el fin de llegar al sentido de la frase antes de intentar traducirla. N o se suele hacer una traducción cognoscitiva completa sino solamente de aquellas partes del texto que ofrecen especial dificul-tad.
+
+
+    Otras teorías son las filológicas y las lingüísticas. Las filológicas se ocupan espe-cialmente de aspectos de estilo, analizando predominantemente textos literarios. Es el tipo de traducción que se viene realizando tradicionalmente en las universidades. Las teorías lingüísticas, por otra parte, están basadas en una comparación de las es-tructuras lingüísticas del texto a traducir y las de la lengua a la que se traduce. La comparación de los géneros literarios o estilos, tan importante para la teoría filoló-gica, es de menor interés. La aplicación de la lingüística a cada vez más campos c o m o la enseñanza de las lenguas, la antropología, la semiótica, etc., explica en par-te su auge así c o m o el interés por elaborar un sistema de traducción por ordenador que, hasta ahora, ha tenido un éxito muy limitado.
+
+
+    Son varios los filósofos que han influido directa o indirectamente en el desarro-llo de las teorías de la traducción. Wittgenstein, por ejemplo, en su análisis de la re-lación entre el lenguaje y pensamiento, que para él están íntimamente ligados, con-sidera varias cuestiones que son de interés para la teoría de la traducción. Para él, la comprensión es algo diferente que la expresión de esa comprensión. La com-prensión no se exhibe, es algo interior y espiritual. La expresión del entendimiento, incluso en la lengua materna, es siempre incompleta, según este filósofo, porque hay algo «inexpressable». Por ejemplo, no se puede enseñar a nadie un dolor de muelas ni se puede probar que se tiene ese dolor porque hay algo inexpresable que no puede transmitir el lenguaje. Las palabras, además, están insertas en un sistema que solamente es pertinente en determinada sociedad. Wittgenstein ofrece el ejem-plo de la coronación de un rey que normalmente se entendería c o m o una escena de gran dignidad e importancia, pero podría significar lo opuesto, afirma, en una sociedad en la que el oro es el metal más barato, su brillo se considera de mal gus-to, la tela del manto del rey es muy barata de fabricar y se considera la corona c o m o una parodia de un sombrero que es un elemento de vestir muy respetado. Volveremos a la importancia de la cultura en la traducción más adelante
+
+
+
+
+
+    Para el filósofo americano W. V. Quine (Word and Object, Cambridge, Mass.: MIT Press, 1960) existe una «indeterminación de la traducción» (indeterminacy of transla-tion). Es decir, se puede traducir de una lengua a otra de varias maneras y todas las versiones pueden ser igual de compatibles con la verdad 1 4 . A pesar de esta falta de una sola traducción, dice Quine, hay que seguir traduciendo. El concepto de la inde-terminación quiere decir que existen muchos caminos y podemos desarrollar cual-quiera de ellos.
+
+
+La hipótesis Sapir - Whorf o la relatividad	lingüística
+
+    Whorf, alumno de Sapir, desarrolló una hipótesis que había esbozado éste en su artículo «Language and environmenb) (1912), en el que sugirió que la lengua que ha-blábamos determina nuestro concepto de la realidad. Esta idea realmente no era nueva ya que la había propuesto Humboldt al principio del siglo xix con su con-cepto de Weltansicht y previamente había desarrollado Herder una teoría parecida en el siglo xviii en la que relacionaba la lengua de una nación con el «espíritu» de esa nación.
+
+
+    Whorf, que realizó investigación sobre la lengua indígena Hopi, llegó a afirmar que la lengua determina de manera decisiva nuestra visión del m u n d o o Weltans-chauung. Aunque no se suele aceptar hoy día la teoría de Whorf tal c o m o la formu-ló, es decir, que nuestros pensamientos están determinados en cierta manera por la lengua que hablamos, sí que se acepta generalmente que la lengua puede influir en nuestra manera de clasificar la realidad y esto es importante para el traductor.
+
+    Incluso en el caso de dos lenguas europeas c o m o el inglés y el castellano, se po-dría argumentar hasta cierto punto que ambos pueblos tienen distinta visión del mundo . El castellano, con su distinción entre «ser» y «estar» parece demostrar otro enfoque ontológico de la vida. Frases como:
+
+a) El cristal fue roto.
+
+b) El cristal estaba roto.
+
+demuestran la importancia de esta distinción que el inglés no reconoce de esta ma-nera. N o quiere decir, sin embargo, que el inglés no pueda expresar esa distinción. Ambas frases pueden traducirse por: The glass was bioken pero aunque la estructura superficial es la misma, el inglés reconoce la existencia de dos estructuras profundas según que lo que quiera expresar sea: The glass was broken (by a football) o The glass was broken (when I saw it this morning).
+
+    Se citan a veces las palabras «esquina» y «rincón» c o m o ejemplos de una dife-rencia de visión: para el inglés, ambos vocablos pueden traducirse por comer. Esto no indica, c o m o en el caso de «ser» y «estar», que el inglés no vea ni comprenda la diferencia entre los dos conceptos. Difícilmente puede argumentarse que el español, por poseer en su lengua los dos términos, tenga un concepto más nítido del espacio que el inglés.
+
+    Algunos gramáticos han visto en el empleo de «se» ciertos indicios de una dife-rencia psicológica entre los españoles y los angloparlantes. En frases como: «Se m e
+
+       1 4 «1 am persuaded that alternative manuals or translation can exist, incompatible with each other, and both of them conforming fully to the dispositions to behaviour on the part of the speakers of the two languages. The two manuals would agree on observation sentences but conflict in some of the stan ding sentences. Each manual, being a manual of translation, purports to specify the equivalence relation between sentences and their translations, and neither manual is right to the exclusion of the other.» W.
+
+V. QUINE, «Mind and Verbal Dispositions)), en Mind and Language, edited by Samuel Guttenplan, Oxford: Clarendon Press, 1975, p. 90.
+
+
+
+
+cayó el jarrón» parece existir una capacidad para «escurrir el bulto» que no tiene el inglés que, con el uso obligatorio del pronombre personal / («I dropped the jug») no tiene más remedio que aceptar plenamente su parte de culpa. Bolinger llama a este tipo de construcción «the reflexive for unplanned occurrences.» 1 5 Efectivamente, parece existir cierto alivio psicológico a l poder decir: Se m e q u e m ó la comida. Se m e olvidó el libro. Se m e rompió la taza, en vez de: / burnt the meal. I forgot the book. I broke the cup. N o es que no se pueda expresar de esa manera en castellano (Que-m é la comida. Olvidé el libro. Rompí la taza) sino que en la conversación la cons-trucción con «se» es más frecuente, quizá precisamente porque resulta más cómodo psicológicamente, para el hablante.
+
+
+    Dos zonas lingüísticas que se han investigado en varias lenguas en un afán por demostrar la diferente clasificación de la experiencia son las de los colores y de las relaciones familiares. Aunque no existen grandes diferencias entre el inglés y el cas-tellano en este respecto sí que hay algunas.
+
+    Los términos para los colores coinciden básicamente (blanco/white, negro-/black, rojo/red, azul/blue, etc.) pero a veces hay términos dudosos. «Pardo», por ejemplo, puede traducirse por brown y grey. Estos son dos colores bien diferenciados en inglés tanto en cuanto al tono, a la luminosidad (es decir, si reflejan más o me-nos luz) y a su saturación (su grado de blanco). Brown tiene distinto tono que grey, baja luminosidad y baja saturación mientras que grey tiene una luminosidad bastan-te elevada y una alta saturación. «Pardo oscuro», sin embargo, se define como Van-dyke brown. Generalmente se elige el galicismo «marrón» c o m o traducción de brown, reservándose «pardo» para grey o dark grey.
+
+
+    Los colores para referirse a los tonos del pelo tampoco coinciden del todo. En castellano se distingue por regla general: rubio, moreno, castaño y pelirrojo. «Ru-bio», si se refiere al pelo, puede traducirse por Monde, fair-haired, golden pero tam-bién incluye a personas con pelo castaño. En inglés se diferencia más ya que no se podría clasificar a alguien con pelo castaño como Monde aunque acaso como fair-haired que no es necesariamente sinónimo de Monde.
+
+    «Moreno», por otra parte, que se traduce por brown or dark-haired, o por brunette, puede utilizarse indistintamente en castellano para referirse a alguien con pelo ne-gro o con la tez oscura. Brunette, sin embargo, puede utilizarse para hablar de al-guien con la tez morena (aunque no si se debe a razones de raza, c o m o puede ser con «moreno») pero no se utiliza para describir a alguien con el pelo negro.
+
+    En cuanto a los términos para los familiares, no deben existir grandes diferen-cias ya que la estructura social es esencialmente la misma, no obstante, no existen en inglés términos específicos para «consuegro» o «concuñado» y hay otras diferen-cias menores de terminología 1 6 .
+
+El p a p e l d e la  cultura
+
+    Al traducir hay que tener presente las diferencias culturales que pueden existir. Hayakawa 1 7 cuenta c ó m o en las Naciones Unidas se rodó una película en la que un buho simbolizaba la sabiduría. En ciertos países asiáticos la película no tuvo éxito y
+
+
+
+
+
+h u bo que rehacerla porque se descubrió que en aquellos países el buho era la ima-gen tradicional de la estupidez y provacaba risa.
+
+    Pueden existir expresiones o vocablos que dejan entrever las diferencias cultura-les. En una de las lenguas del Sudán, por ejemplo, la expresión para «perdón» es: «Escupir en el suelo delante de una persona» que resulta ser una descripción exacta de la forma en que se indica el perdón en esa cultura 1 8 .
+
+    La cantidad de léxico que existe en una lengua referente a cualquier aspecto cultural está en proporción con la importancia cultural que tiene. Si pensamos en la Argentina, hay gran cantidad de palabras que describen distintos pelajes de caballo y que no se utilizan en el castellano peninsular. Este vocabulario se debe a la gran importancia que ha tenido el caballo en la sociedad rural argentina y en la econo-mía del país 1 9 .
+
+    Aunque parezca tópico, el apego de los británicos al té ha proporcionado a la lengua inglesa varios vocablos que no tienen una traducción exacta al castellano. Si buscamos los equivalentes a léxico tan cotidiano como: to brew, to stand, to mash, to stez y hasta kettle, nos encontramos con serias dificultades. Para to brew, el acto de preparar la infusión, el diccionario nos ofrece: «hacer cerveza, ponche, etc.» (Gran Diccionario Cuyas, Barcelona, 1960). La expresión regional para to brew, to mash, apare-ce c o m o «amasar», «magullar» y hasta «hacer una conquista amorosa». Para to stew, o sea, dejar reposar el té demasiado tiempo con lo cual se vuelve amargo, solamen-te encontramos «estofar» y para kettle nos ofrecen: «caldera», «paila», «marmita», «calderico», «caldereta» y tea-kettle o «tetera», ninguno de los cuales es el vocablo exacto.
+
+
+    N o es extraño ya que el objeto en cuestión suele brillar por su ausencia en las cocinas españolas aunque actualmente lo están promocionando unos grandes alma-cenes con kettles importados a precios astronómicos. A lo mejor, si a través de «la elegancia social del regalo» consiguen vender bastantes, acabarán inventando un nombre . En la Argentina, sin embargo, el kettle es casi tan familiar c o m o en Gran Bretaña, debido a su uso cotidiano en la preparación del mate y, por tanto, existe un vocablo para designarlo: pava.
+
+    Las expresiones metafóricas establecidas varían de una cultura a otra. En inglés, por ejemplo, la palabra eye se utiliza de forma metafórica de manera distinta a «ojo» en castellano. Podemos hablar de to keep an eye on (vigilar), an eye-opener (una noticia increíble o inesperada), to have green eyes (ser celoso), an eyetooth (un colmillo), to make eyes at (coquetear), to be all eyes (prestar gran atención) o decir de alguien que his eyes are bigger than his belly (un glotón que se sirve más comida de lo que puede comer).
+
+    El traductor tiene que poder reconocer si se trata de una metáfora hecha u ori-ginal. En el caso de que sea original, debe traducirla fielmente para transmitir el «sabor» del estilo original. Por ejemplo, Entrambasaguas habla en su poema en pro-sa, «Amor de peces en fuga», de que los ojos de los peces son «gemas vivas». Es una metáfora original que debe conservarse en el inglés: Their eyes are living gems. En una traducción al castellano de la obra de Saúl Bellow, El legado de Humboldt, sin embargo, la traductora traduce la expresión corriente americana, that's for the birds por «es para los polluelos» 2 0 pensando, según parece, que se trataba de una frase original de Bellow.
+
+
+1 8  . A. NIDA, Language Structure and Translation, 
+1 9    Véase la «Introducción» Don Segundo Sombra, de Ricardo GÜIRALDES,  edición de Sara M. Parkinson
+de Saz, Madrid: Cátedra, 1978.
+
+       2 0 Saúl BELLOW, El legado de Humboldt, Barcelona: Plaza y Janes, 1976, 
+
+
+    Las expresiones pueden ser endocéntricas o exocéntricas. La endocéntrica ex-presa un significado literal mientras que la exocéntrica tiene una dimensión metafó-rica. Puede ser difícil a veces decidir si se trata de un tipo u otro ya que hay expre-siones que pueden pertenecer ambas clasificaciones. La expresión inglesa, por ejem-plo:
+
+He's in the doghouse
+
+sería una expresión endocéntrica si el pronombre he se refiere al perro pero si he se refiere a un hombre, se convierte en expresión exocéntrica y significa que tiene problemas con su mujer 2 1 .
+
+    Igualmente los alumnos que nos tradujeron sad as hell c o m o «tan triste c o m o el infierno» lo tradujeron c o m o expresión endocéntrica sin percatarse de que corres-pondía a la expresión «tan triste c o m o un velatorio».
+
+    Algunas expresiones o vocablos relacionados con actos culturales suscitan una respuesta emotiva en el nativo que no siente el lector de la traducción. La palabra «corrida», por ejemplo, puede causar una emoción muy diferente a bullfight para un inglés o americano. Recordamos un programa de la Televisión nortamericana hace unos años dedicado a El Cordobés. Antes de empezar, el presentador avisó a los te-lespectadores de que iban a transmitir escenas de corridas «de verdad» y que éstas podrían herir la sensibilidad de algunos televidentes, dada su crueldad. Sin embar-go, no apareció nadie al principio del programa anterior con semejante delicadeza para avisar del contenido del telefilme que incluía una violación y dos asesinatos sangrientos en los diez primeros minutos. Estas respuestas emotivas a determinado léxico pues, son las que difícilmente se pueden transmitir en una traducción.
+
+
+    Las diferencias culturales no siempre se ven a primera vista y si no se conoce la cultura se puede transmitir la impresión opuesta a la que quiso dar el autor. Así ocurre con el vocablo «suburbio» que a menudo se traduce por suburbs. Los subur-bios para un español, por ejemplo, sugieren sobre todo, zonas pobladas predomi-nantemente por la clase baja, frecuentemente con deficiencias de infraestructura, baja calidad de las viviendas, falta de servicios, incluso chabolismo, etc. y en los últi-mos años, sobre todo, con un mayor índice de delincuencia que otras.
+
+    Suburbs, sin embargo, para un angloparlante sugiere más bien las zonas residen-ciales alejadas del centro de la ciudad n o porque las viviendas sean más baratas (que no lo son, quizá al contrario) sino porque gozan de mayor tranquilidad. Aun-que viven familias de la clase obrera también en los suburbs, la composición tiende a ser predominantemente de la clase media y medio-alta.
+
+    Estudiando un texto de Betty Friedan, The Feminine Mystique, encontramos que habla en los primeros capítulos del «problema sin nombre» que padecían muchas mujeres norteamericanas hace unos años cuando empezaron a darse cuenta de las limitaciones de su vida.
+
+    Nos dice la autora que: «Each suburban wife struggled with it alone.» El traduc-tor, consciente seguramente de que existía un problema con traducir suburban por «de los suburbios» optó por omitir el vocablo por completo y lo tradujo como: «To-das las esposas luchaban contra ella.» 2 2 Esto, nos parece, es eludir la cuestión y fal-sificar la intención de la autora. Si seguimos leyendo, vemos que Friedan nos habla de algunas de las preocupacionnes de estas mujeres: «Experts told them (...) ho w to
+
+2 1Citado por E. A. NIDA, Language Structures..., ed. cit. p. 8.2 2Betty Friedan, La mística de la feminidad, Barcelona: Sagitario, 1965, traducción de Carlos R. de Dam-pierre. Citado en S. M. Parkinson de Saz, Traducción directa e inversa. Guía didáctica y soluciones. Madrid: Em-
+
+peño, 14, 1983, p. 43.
+
+
+
+buy a dishwasher, bake bread, cook gourmet snails, and build a swimming pool with their o w n hand.» V e m o s que estamos pues ante mujeres de la clase media o hasta acomodada. ¿Cuántas mujeres obreras, preguntaríamos, tienen el tiempo ni los medios para preocuparse de guisar caracoles al estilo francés, ni de construirse una piscina? Si se traduce la frase entonces c o m o «todas las esposas» da la impre-sión errónea al lector español de que todas las mujeres norteamericanas disfrutan de este nivel de vida. Habría que añadir, por tanto, alguna especificación como: «Todas las mujeres de la clase acomodada...»
+
+    Esta tendencia a traducir de m e n o s es muy frecuente y ciertos traductores optan por omitir cualquier frase problemática. A veces, efectivamente, conviene dejar algo sin traducir si no añade nada fundamental al texto, pero son pocas veces las que ocurre. En la misma traducción de Betty Friedan encontramos la continuación de la frase anterior: «Each suburban wife struggled with it alone. As she made the beds, shopped for groceries, matched slipcover material, ate peanut butter sandwiches with her children, chauffeured Cub Scout and Brownies...»
+
+El traductor vierte esto al castellano  como:
+
+    «Todas las esposas luchaban contra ella. Cuando hacían las camas, iban a la compra, comían emparedados con sus hijos o los llevaban en coche al cine los días de asueto.»
+
+    Resulta que han desaparecido la manteca de cacahuete de los emparedados, la tela para las fundas y la compra de ultramarinos y hasta le ha parecido mejor, y so-bre todo más cómodo, mandar a los niños al cine que a las reuniones juveniles.
+
+    Es cierto que la manteca de cacahuete no forma (todavía) parte del régimen ali-menticio de los españoles, pero por pocas películas americanas que haya visto el es-pañol medio sabe que la consumen en grandes cantidades. En cuanto a los Scouts, es una palabra que se utiliza en castellano, ya que la organización tiene sus ramas en España. N o se emplea la palabra Brownies, pero sí se habla de los Scouts peque-ños c o m o «Lobeznos» o «Lobatos», vocablos que se podrían haber utilizado y que corresponden a los Cubs del mundo sajón. Esta flagrante infratraducción no tiene, a nuestro juicio, justificación alguna y pensamos que obedece, sobre todo, a la rapidez con que se ha realizado la traducción y que contiene muchas más inexactitudes de las que citamos a q u í 2 S .
+
+
+
+
+Otros defectos corrientes d e las t r a d u c c i o n e s  literarias
+
+    La falta de rigor científico es algo desgraciadamente habitual en muchas traduc-ciones al castellano que pretenden llegar al gran público. Quizá la falta de prestigio del traductor en general, generalmente, su baja remuneración, tienen mucho que ver con esto. Los errores pueden ser simplemente descuidos del traductor, pero hay descuidos que cambian por completo el sentido.
+
+    Una de las obras que más ha sufrido por las malas traducciones en este siglo es The Catcher in the Rye, de J. D. Salinger. Los problemas que plantea la obra, escrita en un estilo muy idiomático, no se limitan al español. En Alemania, por ejemplo, la
+
+       2 3 Entre las otras inexactitudes que contiene esta sección en particular figura la traducción de la frase: «Experts told them how to catch a man and keep him, how to breastfeed children and handle their toilet training, how to cope with sibling rivalry and adolescent rebellion)) como: «Los especialistas en temas fe-
+
+meninos le explicaron la forma de atrapar a un hombre y conservarlo, cómo amamantar y vestir a un niño, cómo luchar contra las rebeldías adolescentes». Otros fallos incluye la traducción de physicist por «médico», y Freudian sophistication como «el sofisma de Freud».
+
+
+
+obra n o tuvo aceptación, en principio, debido precisamente a la defectuosa traduc-ción que se ofreció.
+
+    Para empezar, el título ha causado grandes problemas en todas las lenguas. Con-viene decidir el título de una obra después de traducirla por completo, sobre todo en casos c o m o éste, porque, incluso en inglés, no queda claro a qué se refiere hasta muy avanzada la novela, cuando el protagonista, Holden, preso de una crisis nervio-sa en Nueva York, recuerda el estribillo de una canción escocesa y lo hace extensi-ble a su situación mental.
+
+    En varias lenguas se ha cambiado completamente el título inglés, ofreciendo versiones c o m o Pubertad en portugués, o L'ingenu seductor, en catalán. En castellano, por desgracia, se ha quedado con una traducción literal: El guardián en el centeno, que dice bien poco al lector 2 4 .
+
+    Hay una escena muy graciosa en esta novela en la que el protagonista tiene un encuentro con una prostituta. Aunque en principio la había llamado él, cuando se encuentra frente a la realidad no es capaz de seguir adelante y busca la forma de quitársela de encima. Inventa una intervención quirúrgica reciente en una parte de la columna vertebral que él llama my clavichord, demostrando su falta de conoci-mientos de anatomía. Toda la gracia reside en el mal empleo de este vocablo. Pues bien; en la versión catalana se traduce clavichord por «clavícula», lo cual ni es exacto, ni tiene gracia, ni concuerda con lo que dice el chico a continuación, es decir, que está situado muy abajo en la columna vertebral 2 5 .
+
+    A veces, el traductor, bajo la influencia del inglés, elige algún vocablo que resul-ta ser uno de los llamados «falsos amigos». Esto no debería ocurrir nunca a un tra-ductor profesional, ya que estos casos n o constituyen, ni mucho menos, el mayor problema de la traducción. Encontramos en una versión castellana de The Adventures of Tom Sawyer la traducción de:
+
+    «Every "haunted" house in St. Petersburg and the neighbouring villages was dis-sected, plank by plank»
+
+como:
+
+    «Todas las casas encantadas de San Petersburgo y en la vecindad fueron diseca-das, tabla por tabla.» 2 6 .
+
+    «Disecar» solamente tiene el sentido de dissect cuando se refiere al sentido clíni-co. Aquí haría falta algún vocablo, c o m o «revisar», «escrutar» o «peinar».
+
+    Esta tendencia a utilizar vocablos castellanos con el sentido del inglés es espe-cialmente corriente en la prensa y entre las muchas voces que se han levantado contra este abuso está la de Lázaro Carreter 2 7 .
+
+
+P r o b l e m a s d e l léxico: los d i c c i o n a r i o s y s u  l i m i t a c i ó n
+
+    Los diccionarios, especialmente los monolingues, son una herramienta indispen-sable para el traductor, • pero n o solucionan, ni mucho menos, todos los problemas
+
+2 4    Para una discusión de los problemas de traducción de esta obra véase S. M. PARKINSON de SAZ, tThe
+Catcher in the Rye. ¿Un picaro en Nueva York?» Actas del Primer Congreso Internacional so
+drid, 1979, p. 1065-1071.
+2 5  J. D. SALINGER, L'ingenu seductor. Barcelona: Club Editor, 1965, traducción de Xavier Benguerei. Cita-
+do en nuestra obra Traducción directa e inversa..., ed. cit., p. 46.
+2 6 M. TWAIN, Las aventuras de Tom Sawyer, Barcelona: Salvat, 1970, traducción de Ramón Strack. 2 7 En 1980 la Agencia Efe publicó un «Manual de estilo», bajo la dirección de Lázaro para mejorar el
+
+castellano de sus redacciones. Uno de los temas que trata el autor es precisamente la degradación del cas tellano debido a la influencia del inglés.
+
+
+
+
+del léxico. El buen traductor utiliza el diccionario bilingüe sobre todo para confir-mar un vocablo que ya sabe y si lo utiliza para buscar una palabra desconocida, des-pués maneja el mayor número posible de diccionarios monolingües para cerciorarse de su uso correcto.
+
+    U n o de los problemas es saber la frecuencia con que se utiliza una palabra. Si se busca «lustro», por ejemplo, el diccionario dará lustrum c o m o primera acepción, pero esta palabra no se utiliza en inglés con la misma frecuencia que «lustro» en castellano, por lo que es mejor la traducción five years.
+
+    El propio traductor puede incrementar la frecuencia de un vocablo o expresión simplemente porque le gusta y lo utiliza excesivamente. Crea así una frecuencia ar-tificial. Análogamente, quizá traduzca absolutamente todo el texto, dando también una frecuencia anormal a determinados vocablos o partes de la oración que habría que dejar sin traducir. Es lo que puede ocurrir con la traducción de los pronombres del inglés al castellano. Esta lengua los utiliza mucho menos que el inglés porque, debido a la mayor diferenciación de los verbos, no hacen falta. Si se traducen todos, el estilo puede parecer fastuoso. La cita siguiente es de una redacción (no traduc-ción) de un alumno español que seguramente pensaba, debido a sus estudios de in-glés, que al repetir los pronombres conseguía un estilo más «correcto»: «Yo en la escuela estudiaba francés con buenas notas, pero aparte de esto yo en una acade-mia ya llevo estudiando inglés cinco años».
+
+
+    Es importante saber cuál es la acepción principal de una palabra en una lengua, porque puede no coincidir en la otra. En la mencionada traducción de El legado de Humboldt, por ejemplo, encontramos una referencia a: «my o w n father (...) a small gallant person»... Se ha traducido como: «mi padre, personaje cortés» 2 S . En inglés el vocablo gallant tiene la primera acepción c o m o brave, chivalrous {Concise Oxford Dictio-nary) cuando se refiere a personas. En este contexto la traducción apropiada parece ser «valiente». En el diccionario bilingüe Cuyas, sin embargo, se ofrece para gallant: «galante, cortés». Más abajo se repite el inglés gallant, c o m o si se tratase de otra pa-labra, con las acepciones: «valeroso», «animoso», «valiente», «intrépido, «bizarro».
+
+    Otro aspecto que hay que tener en cuenta es la evolución de la lengua y, por lo tanto, que el significado de un vocablo puede cambiar incluso de una generación a la siguiente. En una traducción al inglés de un texto de Julián Marías apareció la frase: «Unamuno provocaba una impresión de extrañeza.» Al alumno que la tradujo como: «Unamuno gave the impression of being queer», le hicimos notar que el vo-cablo queer en los últimos años ha ido adquiriendo el matiz de «homosexual», por lo que, de la misma manera, nadie que esté alegre puede decir ya en inglés «I'm gay» sin provocar sonrisas en el auditorio; sería aconsejable elegir otro vocablo para la descripción de Unamuno .
+
+
+    La elección del léxico también estará condicionada por el estilo, ya que lo que quizá encaje con uno determinado no encaja con otro. Quien tradujo, por ejemplo, en La regenta de Clarín la frase «cual turbas de pilludos» c o m o «like gangs of nasty kids» evidentemente no tuvo esto en cuenta.
+
+    La sinonimia completa apenas existe, por lo que cualquier traducción será una aproximación al significado. Una de las cosas que dificulta la labor del traductor es e¡ hecho de que las palabras cubren distinta gama de conceptos en diferentes len-guas. Hay una tendencia en la enseñanza de las lenguas a ofrecer una sola traduc-ción de una palabra, descuidando las demás que pueden ser igual de importantes.
+    La palabra «despacio», por ejemplo, no significa solamente «con movimiento lento» sino «con suavidad». Por tanto, el inglés que solamente ha aprendido el voca-
+
+28	El legado de Humboldt, ed. cit.
+
+
+
+
+blo slowly como la traducción de «despacio» se queda perplejo ante el aviso en mu-chos taxis de cerrar la puerta despacio.
+
+    Igualmente si ha aprendido que la traduccic-i de «apagar» es to put out, no sabe qué hacer con «un sonido apagado» (a dulllsoft sound) o con «las toses apagaron el murmullo del latín litúrgico» («Their coughs d r o w n e d / d e a d e n e d the murmur of the liturgic Latin», Ramón del Valle-Inclán, Sonata de invierno)29.
+
+    Katz y Fodor en su obra La estructura de una teoría semántica han utilizado el es-quema arbóreo para intentar clarificar las clasificaciones del léxico. T o m a n como ejemplo la palabra bachelor y construyen el esquema siguiente:
+
+
+
+
+
+
+
+
+
+
+[que nunca se ha [caballero joven [que posee el primer casado] que sirve bajo el o más bajo grado
+
+estandarte de académico] otro caballero]
+
+
+
+
+
+
+
+
+(macho)
+
+I
+
+[foca joven sin pare-ja en la época de la reproducción]
+
+
+(J. J. Katz y J. A. Fodor, La estructura de una teoría semántica, Madrid: Siglo XXI, 1976, p. 45.)
+
+    Los elementos que no están entre paréntesis son marcadores gramaticales (nom-bre, verbos, etc.) y los que sí están son marcadores semánticos (humano, animal, macho, hembra, etc.). Los que están entre corchetes son los diferenciadores. Los marcadores semánticos y los diferenciadores ayudan a descomponer el significado de un vocablo en sus conceptos anatómicos. De esta manera se evidencian las rela-ciones semánticas entre las diferentes acepciones que aparecen en el diccionario.
+
+    Si tomamos el mismo ejemplo, bachelor y buscamos su significado en castellano, el diccionario nos ofrecerá: soltero, mancebo, doncel, célibe y bachiller. Estos voca-blos, no obstante, no son todos sinónimos de la acepción principal de bachelor que es «joven sin casarse». Ninguno de ellos corresponde a «foca joven»; «bachiller» ya no se usa c o m o término para licenciado, «doncel» corresponde a «caballero joven que sirve bajo el estandarte de otro caballero» pero n o se utilizaría para las demás acepciones, etc. Se podrían elaborar esquemas arbóreos para los vocablos castella-nos de la forma siguiente:
+
+soltero
+
+nombre
+
+
+(macho)
+
+[que no se ha casado]
+
+2 9    Para más ejemplos véase S.  M.  PARKINSON  de SAZ,  A University English. English Grammar, ed.
+580-581.
+
+
+
+
+    «Soltero» implica otro elemento que no h e m o s ilustrado aquí y es «juventud» ya que existe un vocablo para un soltero viejo («solterón»). «Célibe», en cambio, no contiene este elemento mientras sí que tiene la posibilidad de referirse también a la mujer.
+
+mancebo
+
+nombre
+
+I
+
+(humano)
+
+I
+(macho)
+
+joven- ' que no se ha "—•—dependiente casado
+
+    La juventud, pues, es la característica principal de «mancebo» ocupando el se-gundo lugar «que no se ha casado». Una tercera acepción («dependiente») no corres-ponde a los otros dos vocablos ni al inglés (bachelor).
+
+doncel
+
+nombre
+
+(humano)
+
+paje del rey	hombre virgen
+
+    Aquí la primera acepción es la segunda de bachelor. La virginidad es la segunda cualidad que se destaca mientras que tanto bachelor c o m o «soltero» no implican ne-cesariamente falta de conocimiento carnal. «Célibe», con su relación con «celibato», sí que lo implica. La juventud es otra cualidad implícita en «doncel».
+
+    Nida encuentra el sistema de Katz y Fodor insuficiente y ha desarrollado lo que llama el «análisis de componentes» . Lo elaboró en principio para palabras bíblicas que no tenían un equivalente exacto en otras lenguas. Era una forma de llegar al verdadero significado de un vocablo.
+
+    En un eje horizontal coloca una serie de contextos en los que puede aparecer esa palabra. Pueden ser palabras descriptivas c o m o «pesado», «mucho», «abundan-te», etc., o pueden ser simplemente números que se refieren a unas oraciones nu-meradas en las que se ilustran los distintos significados.
+
+    En el eje vertical coloca las cualidades más sobresalientes relacionadas con esos vocablos en los contextos mencionados . La elección de los componentes se basa en su importancia cultural y el número de contextos en los que aparecen. Inevitable-mente existe cierto grado de subjetividad. Una vez formados los ejes, se procede a colocar una cruz si esa cualidad está presente en determinado contexto. Se deja en blanco si no aparece y si aparece algunas veces y otras no, se pone una cruz y ade-más un guión 3 0 .
+
+    Utilizando este sistema podríamos hacer un análisis de los componentes del vo-cablo «gordo» tal c o m o aparece en los contextos siguientes:
+
+1. Esa chica es gorda.
+
+2. Tiene un cargo muy gordo.
+
+Véase E. A. NIDA, Language Structure..., ed. cit. p. 25.
+
+
+
+3. Le ha caído el gordo.
+
+4. Esta agua es gorda.
+
+5. Esta leche es muy  gorda.
+
+6. Uso sal gorda en la cocina.
+
+7. Hizo la vista gorda.
+
+8. Me llevé un susto gordo.
+
+9. Armaron la gorda.
+
+10. Sudó la gota  gorda.
+
+
+    Un estudio de los componentes de las principales acepciones de «gordo» nos en-seña de forma gráfica la distribución del significado en los diferentes contextos. Si traducimos las mismas diez frases al inglés vemos que la traducción más corriente de «gordo», fat, no nos sirve en muchos casos:
+
+
+1. That's a fat girl.
+
+2. He has a very important post.
+
+3. He's w o n the first prize in the lottery.
+
+4. This water is very hard.
+
+5. This milk is very rich in fat.
+
+6. I use coarse salt for cooking.
+
+7. He turned a blind eye.
+
+8. I had a bad scare.
+
+9. They had a tremendous  row.
+
+10. He was in an awful  stew.
+
+    Es un intento, pues, de deslindar los diferentes matices de un vocablo, decidien-do en qué aspectos residen las coincidencias y en cuáles las diferencias.
+
+T é c n i c a s d e  t r a d u c c i ó n
+
+    La traducción requiere un gran número de técnicas que manejan los traducto-res profesionales constantemente, a veces sin analizarlas. H e m o s comentado ya al-gunas de ellas. A continuación ofrecemos una clasificación, que no pretende ser completa, con algunos ejemplos concretos tomados del inglés y castellano.
+
+
+
+
+1. La  transcripción
+
+    Consiste en conservar alguna palabra o expresión en el original sin traducir. Suelen ser palabras relacionadas con la cultura o las instituciones pero no siempre. En ocasiones estas palabras acaban incorporándose a la segunda lengua. Otras ve-ces constituyen una moda que luego pasa. Algunas palabras del castellano que se incluyen en el Concis Oxford Dictionary son: «siesta», «machismo», «torero», «mañana». La lista de anglicismos que han pasado al castellano en los últimos años, a pesar de las quejas de los «defensores de la lengua», es inmensa. A veces se intenta «españo-lizar» estos términos, pero con frecuencia quedan en la forma original como: inter-city, lock-out, ticket y sandwich. De esta última se han atrevido a derivar sandwichería.
+
+    A veces se transcribe la palabra y a continuación se incluye una traducción del término con lo cual se forma una «traducción apareada» (translation couplet). N o se haría una traducción apareada con «siesta», por ejemplo, que es un término bien conocido, ni con «machismo», pero «tertulia», si se dejase en el original, necesitaría una aclaración ya que la tertulia no forma parte de la cultura inglesa.
+
+
+2. La traducción  literal
+
+    Ya h e m o s dicho que hay muy pocos vocablos en una lengua que tengan una sola traducción en otra. Es el caso de objetos concretos como: la ventana/íAí win-dow, el gato///ie cat, etc., aunque también puede haber vocablos que expresan cosas intangibles: el amor//<wf, la muerteIdeath, etcétera.
+
+
+3. Los préstamos   traducidos
+
+    Muchas veces los términos que designan insitituciones nacionales que n o tienen un equivalente exacto en la otra cultura se traducen literalmente. Es la técnica que se utiliza para traducir los nombres de los distintos ministerios que pueden no coin-cidir en dos culturas. El Ministerio del Interior español, por ejemplo, se conocería c o m o the Ministry of the Interior pero al hablar del Ministerio del Interior británico se llamaría the Home Office.
+
+
+4. La sinonimia  léxica
+
+    Se trata de una traducción en la segunda lengua que no es exactamente igual pero se aproxima mucho . Hay que tener mucho cuidado no obstante, de n o alejar-se demasiado del original. C o m o hemos visto, los diccionarios bilingües a m e n u d o dan c o m o supuestos sinónimos a palabras que no lo son. Se puede utilizar el análi-sis de componentes antes de decidir el grado de sinonimia.
+
+
+5. La  transposición
+
+    Frecuentemente en una traducción hay que cambiar las partes de la oración o el orden de las palabras. Por ejemplo:
+
+a) Se trasluce la fina arena (J. Entrambasaguas, Peces en fuga). The fine sand may be perceived.
+
+b) Lleva(n) la falda por encima de la rodilla (A. Zúñiga, Manhattan Cocktail). They wear their skirts above their knees.
+c) Quien cogía una peseta... (B. P. Galdós, Fortunata y Jacinta). Some caught hold of a peseta...
+
+
+
+6. La  modulación
+
+    Un concepto o metáfora se puede traducir frecuentemente por otra muy dife-rente en la otra lengua. C o m o h e m o s visto, refleja a veces la diferente manera de clasificar la realidad. Algunos ejemplos son:
+
+a) Where the hell's that?/<iDónde demonios está eso?
+
+b) Sunned by the smile/Iluminado por la sonrisa.
+
+c) W h e n you croak/Cuando la diñas.
+
+d) Preachers with the tongues of angels/Predicadores con pico de oro.
+
+e) Piped music/Hilo  musical.
+
+
+7. La  contracción
+
+    Es posible que se omitan palabras al traducir de una lengua a otra. Al traducir del castellano al inglés a m e n u d o se suprime el artículo definido, pero se pueden suprimir otras cosas:
+
+a) Después de una noche en lucha con el pecado y el insomnio. After a night of struggling with sin and sleeplessness (supresión del artículo).
+
+b) El verdadero matrimonio.../ True marriage... (supresión del artículo).
+
+c) Juntóse Rafaela con su a m a / Rafaela joined her mistress (supresión de la preposición).
+
+
+
+8. La  expansión
+
+    Es lo opuesto a la contracción, o sea que consiste en añadir más vocablos. Al traducir del castellano al inglés, por ejemplo, hay que añadir generalmente el ar-tículo indefinido y al traducir el inglés al castellano, el definido. Los artículos no son los únicos elementos que se añaden:
+
+a) Zelda fue flapper auténtica / Zelda was a genuine  flapper.
+
+b) Nada purifica el alma c o m o / nothing so purifies the soul.
+
+c) Muchos de los mármoles / Many of the marble slabs.
+
+
+
+9. La  reestructuración
+
+    Puede ser conveniente cambiar el tipo de oración o incluso, el número de ora-ciones. En una lengua puede haber una oración compleja, por ejemplo, que se tra-duce a la otra como una oración coordinada. Puede ser necesario dividir una ora-ción especialmente larga y compleja en dos o más oraciones en la traducción. Tam-bién puede ser aconsejable lo opuesto, es decir, unir dos oraciones cortas en la tra-ducción para formar una.
+
+a) U n ideal; pero — hay que repetirlo — un ideal de superhombre. Y por ello estrictamente monogámico .
+
+An ideal, but it must be said again, a superman's ideal, and, due to that, strictly monogamous .
+
+
+
+
+b) C o m o descanso y solaz, más movimiento . A los negocios sigue el deporte. For relaxation and rest he moves again, passing from business to sport. (Sal-vador de Madariaga, Englishmen, Frenchmen, Spaniards, 1928. Maddariaga es-cribió primero el texto en inglés, traduciéndolo posteriormente al castellano. Ambas versiones pues, son de él.)
+
+
+10. La  modificación
+
+    La modificación consiste en cambiar el texto original al traducir para aclarar al-guna referencia que no sería comprensible para el lector. Esto se debería hacer con mucho cuidado. Se puede mantener el original y poner una breve nota a pie de pá-gina.
+
+    En una reseña de una obra teatral, por ejemplo, hay una exclamación: «You can't fight the Freedom Riders with all this crap.» 3 1 N o es suficiente traducir Free-dom Riders por «Jinetes de la libertad». El lector español medio necesitará alguna aclaración acerca de este movimiento tan importante que luchó por conseguir los derechos de los negros én los años sesenta en los Estados Unidos.
+
+
+Conclusiones
+
+    N o hemos agotado con estas palabras, ni muchísimo menos, todo lo que se pue-de decir acerca de las teorías y las técnicas de la traducción. Al contrario, n o h e m o s hecho más que empezar a rascar la superficie. Lo que h e m o s pretendido es llamar la atención precisamente sobre la complejidad de esta tarea. H e m o s dicho que la traducción es un arte, una ciencia y un oficio. El arte del traductor quizá se aprecia más (pero no exclusivamente) en las traducciones literarias y especialmente en las de poesía donde, para lograr una buena versión, el traductor tiene que tener tam-bién el don de la poesía. H e m o s hablado varias veces de la necesidad de que la tra-ducción se realice con rigor científico, rigor muchas veces ausente en las traduccio nes existentes en la actualidad. N o en balde hablan los alemanes de úbersetzungswis-senschaft y una de las obras de Nida se titula precisamente Towards a Science of Trans-lating.
+
+
+    La tercera faceta, sin embargo, es decir, la traducción c o m o oficio, es igual de importante porque da a entender, c o m o es verdad, que la traducción se puede en-señar y aprender. El aprendizaje del traductor es largo y puede ser arduo porque, desgraciadamente, no es del todo cierto la afirmación de Humpty Dumpty, en Alicia a través del espejo, de que las palabras significan lo que queremos que signifiquen.
+    Reiteramos nuestro deseo de que el estudio serio de la traducción y la elabora-ción de nuevas teorías sobre esta disciplina lleguen a ocupar el lugar destacado que merecen en los Departamentos de Lenguas Modernas de las Universidades, es de-cir, que la traducción ascienda al rango de disciplina universitaria que en nuestra opinión le corresponde.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
