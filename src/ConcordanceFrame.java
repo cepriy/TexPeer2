@@ -280,12 +280,12 @@ radioButtonCase.addMouseListener(new MouseListener() {
         // String ExpressionToFind = JOptionPane.showInputDialog(null, Expression.panel, "Введіть вираз для пошуку");
         long startTime = System.currentTimeMillis();// DLIA IZMERENIA VREMENI DEISTVIA PROGRAMMY
 
-        Expression.getFilesArray();
-        Expression.getAllWords();
+
 
 
             butSearch.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
+
                 Expression.combTemas2.setSelectedIndex(Expression.combTemas.getSelectedIndex());
                 radioButtonCase2.setSelected(radioButtonCase.isSelected());
                 if (Expression.textArea.getText()==null)

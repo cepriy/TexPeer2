@@ -118,8 +118,7 @@ public static String strTooManyCoincidences = "Забагато збігів. О
         Expression.textArea.append("Середнє квадратичне відхилення: " + GetStandardDeviation() + "\n");
 
 
-        for (Object res : result
-             )
+        for (Object res : result)
         {
             textArea.append(res.toString()+ "\n");
         }
@@ -127,6 +126,12 @@ public static String strTooManyCoincidences = "Забагато збігів. О
 
         fr.setVisible(true);
         filesWithExpression = 0;
+        result.clear();
+        textFileList.clear();
+     //  for (TextFile file: textFileList)
+//       {
+//       file.setFoundInFile(0);
+//       }
     }
 
     public static String getPathRelativeToSubject()
@@ -191,6 +196,15 @@ public static String strTooManyCoincidences = "Забагато збігів. О
 
     }
 
+    public static boolean isSeparator(char character)
+    {
+//character = ' ';
+        System.out.println(character+ " Matches "+ Character.toString(character).matches("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яїЇґҐєЄ'’]"));
+    //    System.out.println(character);
+        if (character==' ') return true;
+        return( Character.toString(character).matches("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яїЇґҐєЄ'’]"));
+
+    }
 
     public static String getResultString(TextFile file, int index, String query){
         StringBuilder result = new StringBuilder();
@@ -215,29 +229,47 @@ else
 
         for (TextFile textFile : textFileList) {
 
+
+            textFile.setFoundInFile(0);
+            int resultsInFileCount=0;
+
             Matcher mtcher;
             if (caseMatters) // Obrabatyvaiem radioknipku registra
              mtcher = Pattern.compile(query).matcher(textFile.getContent());
             else
              mtcher = Pattern.compile(query).matcher(textFile.getContent().toLowerCase());
 
-            if (mtcher.find())
-            {
-                result.add(getResultString(textFile, mtcher.start(), query));
-                filesWithExpression++; // schitaem kolichestvo failov, v kotorykh est vyrazhenie
-                while (mtcher.find())
-                result.add(getResultString(textFile, mtcher.start(), query));
-                 //TO DO   Nuzhno poschitat kolichestvo naidennogo v kazhdom faile, sokranit v kakom-to massive, chtob potom
-               // ispolzovat pri podschiote dostovernosti
+            if (mtcher.find()) {
+
+
+                {
+                    System.out.println("START " +textFile.getContent().charAt(mtcher.start()-1));
+                    System.out.println("END "+ (textFile.getContent().charAt(mtcher.end())));
+                    if (mtcher.start()>0 && isSeparator( (textFile.getContent().charAt(mtcher.start()-1)))&& isSeparator( (textFile.getContent().charAt( mtcher.end())))) {
+                        resultsInFileCount++;
+                        result.add(getResultString(textFile, mtcher.start(), query));
+                        filesWithExpression++; // schitaem kolichestvo failov, v kotorykh est vyrazhenie
+                    }
+                    while (mtcher.start()>0 && mtcher.find() ) {
+                        if (isSeparator((textFile.getContent().charAt(mtcher.start() - 1))) && isSeparator((textFile.getContent().charAt(mtcher.end())))){
+                            resultsInFileCount++;
+                        result.add(getResultString(textFile, mtcher.start(), query));
+                    }
+                    }
+
+                    //TO DO   Nuzhno poschitat kolichestvo naidennogo v kazhdom faile, sokranit v kakom-to massive, chtob potom
+                    // ispolzovat pri podschiote dostovernosti
+                }
 
             }
+            textFile.setFoundInFile(resultsInFileCount);
 
         }
               return result;
     }
 
     public static void fillListOfTextFiles() throws FileNotFoundException {
-      //  textFileList.clear();
+
         for (String s : FilesArray) {
             Scanner scanner = new Scanner(new File(address + "//" + s), "UTF-16");
             StringBuilder content = new StringBuilder();
@@ -248,6 +280,7 @@ else
             }
 
                 textFileList.add(new TextFile(s, content.toString()));
+            System.out.println(textFileList.size());
         }
     }
 
@@ -364,14 +397,17 @@ float StandardDeviation=GetStandardDeviation();
         Expression.textArea.setText("");
         Expression.textArea.append(strMeanFreqPer10000 + Medium + "\n");
         Expression.textArea.append(strStandardDeviation + StandardDeviation + "\n");
-
         Expression.textArea.append(strTripleStandardDeviation + StandardDeviation*3 + "\n");
 
-        for (int i=0; i<MassivAbsChastot.length; i++) {
-            if (MassivAbsChastot[i][0]<(StandardDeviation*3))
-            Expression.textArea.append(i+" "+MassivAbsChastot[i][0]+ strReliably + "\n");
+
+
+
+        for (TextFile file : textFileList)
+        {
+            if (file.getFoundInFile()<(StandardDeviation*3))
+                Expression.textArea.append(file.getFoundInFile()+" "+ strReliably + "\n");
             else
-                Expression.textArea.append(i+" "+MassivAbsChastot[i][0]+ strNonReliable + "\n");
+                Expression.textArea.append(file.getFoundInFile()+" "+ strNonReliable + "\n");
         }
 
 

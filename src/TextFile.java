@@ -2,6 +2,15 @@ public class TextFile {
     private String name;
     private String path;
     private String content;
+    private int foundInFile;
+
+    public int getFoundInFile() {
+        return foundInFile;
+    }
+
+    public void setFoundInFile(int foundInFile) {
+        this.foundInFile = foundInFile;
+    }
 
     public TextFile(String name, String content) {
         this.name = name;
