@@ -210,12 +210,14 @@ public class ConcordanceFrame {
             public void actionPerformed(ActionEvent e) {
                 try {
                     Expression.combTemas.setSelectedIndex(Expression.combTemas2.getSelectedIndex());
-
-                    Expression.getAllWords();
+                    Expression.getFilesArray();
+                   // Expression.getAllWords();
                     ConcordList.setText("");
                     Expression.getSortedWordsAndCount(ConcordList);
                 } catch (IOException ignored) {
 
+                } catch (URISyntaxException e1) {
+                    e1.printStackTrace();
                 }
             }
         });
@@ -297,7 +299,7 @@ radioButtonCase.addMouseListener(new MouseListener() {
 
                 try {
                     Expression.getFilesArray();
-                    Expression.getAllWords();
+                   // Expression.getAllWords();
                 }  catch (URISyntaxException e1) {
                     e1.printStackTrace();
                 }

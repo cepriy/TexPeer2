@@ -15,7 +15,11 @@
  *
  */
 
+import com.sun.corba.se.impl.orbutil.graph.Graph;
+import sun.text.normalizer.CharTrie;
+
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 import java.net.URISyntaxException;
@@ -61,14 +65,14 @@ class Expression {
     public static String strRetrieveConcordance = "Згенерувати конкорданс";
   public static String  strEnterAnExpression="Ви не ввели жодного виразу";
   public static String strTextAbout="Код: Фокін С.Б. і Іванов М.С." + "\n"+
-          "\"Вибірка текстів: Іванов М.С., Фокін С.Б., Бакаржиєва І., Бендерець О., \" +\n" +
-          "                \"Бучака І., Ільїна О., Ісаєва М., Краснодзей В., Кладченко А., Лопатіна А., Мамукова К., Мудрик А., Демченко Л., Скиба В., \" +\n" +
-          "                \"Ткачук О., Ярина Л., Гороховська Л., Гузенко Т., Дмитраш Я., Дембіцька К., Калініченко О., Левандовська К.-К., Медюк З., Остряніна В., Пустовійт А., \" +\n" +
-          "                \"Савенкова Н., Чумаченко Д., Якименко Ю., Сім'ячко Д., Бурдук А., Глоба П., Загородько К., Кисіль М., Куць В., Ламська А.,  Никитіна К., Оборська А.\" +\n" +
-          "                \"Ряднова А., Семенюшкіна А., Стрельнікова Д., Третяк М., Юнєєва В.\"+ \"\\n\"+ \"\\n\"+ \"\\n\"+\n" +
-          "                \"Корпус складається з 50 текстів українською, і 50 - іспанською мовами кінця ХХ і початку ХХІ століття, що класифіковані \" +\n" +
-          "                \"за 10 різними темами. Кожен текст містить 10 000 слововживань\"+ \"\\n\" +\n" +
-          "                \"Перевірка достовірності полягає у порівнянні результату вибірки у кожному тексті з очікуваним результатом. Якщо вибірка достатня \" +\n" +
+          "\"Вибірка текстів: Іванов М.С., Фокін С.Б., Бакаржиєва І., Бендерець О.,"+
+          "                \"Бучака І., Ільїна О., Ісаєва М., Краснодзей В., Кладченко А., Лопатіна А., Мамукова К., Мудрик А., Демченко Л., Скиба В., " +
+          "                \"Ткачук О., Ярина Л., Гороховська Л., Гузенко Т., Дмитраш Я., Дембіцька К., Калініченко О., Левандовська К.-К., Медюк З., Остряніна В., Пустовійт А., " +
+          "                \"Савенкова Н., Чумаченко Д., Якименко Ю., Сім'ячко Д., Бурдук А., Глоба П., Загородько К., Кисіль М., Куць В., Ламська А.,  Никитіна К., Оборська А. " +
+          "                \"Ряднова А., Семенюшкіна А., Стрельнікова Д., Третяк М., Юнєєва В. " +
+          "                \"Корпус складається з 50 текстів українською, і 50 - іспанською мовами кінця ХХ і початку ХХІ століття, що класифіковані \n" +
+          "                \"за 10 різними темами. Кожен текст містить 10 000 слововживань\n" +
+          "                \"Перевірка достовірності полягає у порівнянні результату вибірки у кожному тексті з очікуваним результатом. Якщо вибірка достатня \n" +
           "                \"і результат достовірний, згідно з теорією ймовірності, кожен результат вибірки не перевищує потрійне квадратичне відхилення\" \n\n\n\n"+
           "Посилення на тексти, використані в програмі, містяться на сторінці завантажень. Усі тексти взято з відкритих джерел";
 
@@ -127,12 +131,27 @@ public static String strTooManyCoincidences = "Забагато збігів. О
         fr.setVisible(true);
         filesWithExpression = 0;
         result.clear();
-        textFileList.clear();
+
      //  for (TextFile file: textFileList)
 //       {
 //       file.setFoundInFile(0);
 //       }
     }
+
+//    public static void drawChart(TextFile[] textFiles)
+//    {
+//        DefaultCategoryDataset dataset = new DefaultCategoryDataset(); //Create dataset
+//        for(int i = 0; i < dub.length; i++){
+//            dataset.setValue(dub[i], "Marks", student[i]); //Setting the values
+//        }
+//
+//        JFreeChart chart = ChartFactory.createBarChart3D("Goal comparison",
+//                "Marks", "Students", dataset, PlotOrientation.VERTICAL,
+//                false, true, false); //Chart creation
+//    }
+
+
+
 
     public static String getPathRelativeToSubject()
     {
@@ -199,10 +218,10 @@ public static String strTooManyCoincidences = "Забагато збігів. О
     public static boolean isSeparator(char character)
     {
 //character = ' ';
-        System.out.println(character+ " Matches "+ Character.toString(character).matches("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яїЇґҐєЄ'’]"));
+        System.out.println(character+ " Matches "+ Character.toString(character).matches("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яіІїЇґҐєЄ'’]"));
     //    System.out.println(character);
         if (character==' ') return true;
-        return( Character.toString(character).matches("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яїЇґҐєЄ'’]"));
+        return( Character.toString(character).matches("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яіІїЇґҐєЄ'’]"));
 
     }
 
@@ -210,11 +229,17 @@ public static String strTooManyCoincidences = "Забагато збігів. О
         StringBuilder result = new StringBuilder();
         String fragment="";
 
-if(index>=CONTEXT_DEPTH)
-       fragment = file.getContent().substring(index - CONTEXT_DEPTH, index + CONTEXT_DEPTH + query.length());
-else
-    fragment = file.getContent().substring(index , index + CONTEXT_DEPTH + query.length());
-       fragment= fragment.replace(query, query.toUpperCase()); // Pokazyvaem bolshimi bukvami slolo ili frazu zaprosa
+        System.out.println("INDEX : " + (index - CONTEXT_DEPTH) + " " + (index + CONTEXT_DEPTH + query.length()));
+        if (index > file.getContent().length() - CONTEXT_DEPTH - query.length()){
+            fragment = file.getContent().substring(index - CONTEXT_DEPTH, index + query.length());
+        } else if(index >= CONTEXT_DEPTH) {
+            fragment = file.getContent().substring(index - CONTEXT_DEPTH, index + CONTEXT_DEPTH + query.length());
+        } else if (file.getContent().length()<(query.length()+CONTEXT_DEPTH*2)) {
+            fragment = file.getContent();
+        } else {
+            fragment = file.getContent().substring(index, index + CONTEXT_DEPTH + query.length());
+        }
+        fragment= fragment.replace(query, query.toUpperCase()); // Pokazyvaem bolshimi bukvami slolo ili frazu zaprosa
 
         result.append(file.getName()).append(" : ").append(fragment);
 
@@ -243,15 +268,20 @@ else
 
 
                 {
-                    System.out.println("START " +textFile.getContent().charAt(mtcher.start()-1));
-                    System.out.println("END "+ (textFile.getContent().charAt(mtcher.end())));
+                   // System.out.println("START " +textFile.getContent().charAt(mtcher.start()-1));
+                 //   System.out.println("END "+ (textFile.getContent().charAt(mtcher.end())));
                     if (mtcher.start()>0 && isSeparator( (textFile.getContent().charAt(mtcher.start()-1)))&& isSeparator( (textFile.getContent().charAt( mtcher.end())))) {
                         resultsInFileCount++;
                         result.add(getResultString(textFile, mtcher.start(), query));
                         filesWithExpression++; // schitaem kolichestvo failov, v kotorykh est vyrazhenie
                     }
                     while (mtcher.start()>0 && mtcher.find() ) {
-                        if (isSeparator((textFile.getContent().charAt(mtcher.start() - 1))) && isSeparator((textFile.getContent().charAt(mtcher.end())))){
+                        System.out.println("Matcher end : " + mtcher.end() + " " + textFile.getContent().length());
+//                        if (mtcher.end() < textFile.getContent().length() - 1 && isSeparator(textFile.getContent().charAt(mtcher.start() - 1))){
+//                            resultsInFileCount++;
+//                            result.add(getResultString(textFile, mtcher.start(), query));
+//                        }
+                        if (mtcher.end() >= textFile.getContent().length() - 1 || (isSeparator(textFile.getContent().charAt(mtcher.start() - 1)) && isSeparator(textFile.getContent().charAt(mtcher.end())))){
                             resultsInFileCount++;
                         result.add(getResultString(textFile, mtcher.start(), query));
                     }
@@ -269,6 +299,7 @@ else
     }
 
     public static void fillListOfTextFiles() throws FileNotFoundException {
+        textFileList.clear();
 
         for (String s : FilesArray) {
             Scanner scanner = new Scanner(new File(address + "//" + s), "UTF-16");
@@ -287,15 +318,13 @@ else
     public static String[] getAllWords()  {
         StringBuilder allContents= new StringBuilder();
         for (TextFile txtFile : textFileList) {
-
             if (caseMatters)
-            allContents.append(txtFile.getContent());
+                allContents.append(txtFile.getContent());
             else
                 allContents.append(txtFile.getContent().toLowerCase());
-
-
+            allContents.append(" ");
         }
-       return allContents.toString().trim().split("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яїЇґҐєЄ'’]");
+       return allContents.toString().trim().split("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яіІїЇґҐєЄ'’]");
     }
 
 
@@ -318,6 +347,7 @@ else
             index++;
         }
         txtAr.append(strTotalWordForms);
+        txtAr.append(" " + wordsAndCount.size() + "\n");
         for (Map.Entry<String, Integer> wordCount : wordsAndCount.entrySet()) {
 
             txtAr.append(wordCount.getKey() + " " + wordCount.getValue() + "\n");
@@ -345,11 +375,12 @@ else
 
                     String word = selectedLine.split(" ")[0];
                     tabby.setSelectedIndex(0);
+                    System.out.println("WordLength "+textFileList.size());
 
                        getListOfResultsByQuery(word, caseMatters);
 
+                       PrintInWindow(getListOfResultsByQuery(word, caseMatters) );
 
-                    Expression.PrintInWindow(getListOfResultsByQuery(word, caseMatters) );
 
 
                 } catch (BadLocationException e1) {

@@ -3,14 +3,17 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../Basico">
-      <sourceFolder url="file://$MODULE_DIR$/../../../Basico" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../Basico" />
     </content>
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
     </content>
-    <content url="file://$MODULE_DIR$/../../../resourses" />
+    <content url="file://$MODULE_DIR$/../../../resourses">
+      <excludeFolder url="file://$MODULE_DIR$/../../../resourses" />
+    </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jfreechart-1.5.0" level="project" />
   </component>
 </module>
