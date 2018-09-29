@@ -157,7 +157,8 @@ public class ConcordanceFrame {
 
         mainpanel2.add(textAbout); // eto dlia perenosa texta
 
-     //   textAbout.append("Код: Фокін С.Б. і Іванов М.С." + "\n");
+
+        textAbout.append(Expression.strProgrDescription+"\n\n");
         textAbout.append(Expression.strTextAbout);
 
         // mainpanelConc.setLayout(new GridBagLayout());
@@ -216,8 +217,6 @@ public class ConcordanceFrame {
                     Expression.getSortedWordsAndCount(ConcordList);
                 } catch (IOException ignored) {
 
-                } catch (URISyntaxException e1) {
-                    e1.printStackTrace();
                 }
             }
         });
@@ -290,30 +289,23 @@ radioButtonCase.addMouseListener(new MouseListener() {
 
                 Expression.combTemas2.setSelectedIndex(Expression.combTemas.getSelectedIndex());
                 radioButtonCase2.setSelected(radioButtonCase.isSelected());
-                if (Expression.textArea.getText()==null)
+                if (Expression.textArea.getText() == null)
 {
     JOptionPane.showMessageDialog(null, Expression.strEnterAnExpression);
 
     return;
 }
-
-                try {
                     Expression.getFilesArray();
                    // Expression.getAllWords();
-                }  catch (URISyntaxException e1) {
-                    e1.printStackTrace();
-                }
-
-
-                String ExpressionToFind = Expression.textFieldSearch.getText();
+                String expressionToFind = Expression.textFieldSearch.getText();
                 long startTime = System.currentTimeMillis();// DLIA IZMERENIA VREMENI DEISTVIA PROGRAMMY
                 Expression.textArea.setText("");
                 if (radioButtonCase.isSelected()) Expression.caseMatters = true;
 
-                ExpressionToFind=Expression.formatQuery(ExpressionToFind, Expression.caseMatters);
+                expressionToFind=Expression.formatQuery(expressionToFind, Expression.caseMatters);
 
 
-                Expression.PrintInWindow(Expression.getListOfResultsByQuery(ExpressionToFind, Expression.caseMatters));
+                Expression.printInWindow(Expression.getListOfResultsByQuery(expressionToFind, Expression.caseMatters));
 
 
                 long timeSpent = System.currentTimeMillis() - startTime;
