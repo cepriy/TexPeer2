@@ -78,9 +78,11 @@ public static final String strTooManyCoincidences = "Забагато збігі
     public static final String strStandardDeviation =  "Середнє квадратичне відхилення: ";
     public static final String strTripleStandardDeviation= "Потрійне середнє квадратичне відхилення: ";
     public static final String strReliably = "Достовірно";
-    public static final String strNonReliable = "Недостовірно";
+    public static final String strNonReliable = "НЕДОСТОВІРНО!!!";
     public static final String strTotalWordForms="Усього приблизно словоформ:";
-
+    public static final String strFound = "знайдено";
+    public static final String inFile = "У файлі";
+    public static final String  strIsHyphenSeparator = "Вважати дефіс роздільником";
     public static boolean caseMatters = false;
 
     public static JFrame fr = new JFrame("TexPeer 1.0");
@@ -95,8 +97,11 @@ public static final String strTooManyCoincidences = "Забагато збігі
     public static List<TextFile> textFileList = new ArrayList<>();
 
     public static final int CONTEXT_DEPTH = 60;
-
-    public static final String NON_SEPARATE_CHARACTERS = "[^a-zA-ZáÁéÉúÚíÍóÓüÜАñÑа-яА-ЯіІїЇґҐєЄ'’]";
+    public static final String ROMANIC_ALPHABET_SYMBOLS = "a-zA-ZáÁéÉúÚíÍóÓüÜАñÑ";
+    public static final String CYRYLLIC_ALPHABET_SYMBOLS= "а-яА-ЯіІїЇґҐєЄ'’";
+    public static final String NON_SEPARATE_CHARACTERS = "["+ROMANIC_ALPHABET_SYMBOLS+CYRYLLIC_ALPHABET_SYMBOLS+"]";
+    public static final String SEPARATE_CHARACTERS = "[^"+ROMANIC_ALPHABET_SYMBOLS+CYRYLLIC_ALPHABET_SYMBOLS+"]";
+   // public static final String NON_SEPARATE_WITH_PUNCTUATION = "[a-zA-ZáÁéÉúÚíÍóÓüÜАñÑа-яА-ЯіІїЇґҐєЄ'’.,:¡!¿ \"»«]";
 
     public static void printInWindow(List<String> result) {
 
@@ -116,7 +121,7 @@ public static final String strTooManyCoincidences = "Забагато збігі
         if (CoincedNum > 30) fr.setExtendedState(JFrame.MAXIMIZED_BOTH);
 
         Expression.textArea.append(strTotalFound+ Expression.CoincedNum + " збігів " + userQuery + " в " + filesWithExpression + " файлах" + "\n");
-        Medium = (float) Expression.CoincedNum / (float) filesWithExpression;
+        Medium = (float) Expression.CoincedNum / (float) textFileList.size();
         Expression.textArea.append("Середня частота на 10 000 слів: " + Medium + "\n");
         Expression.textArea.append("Середнє квадратичне відхилення: " + getStandardDeviation() + "\n");
 
@@ -204,7 +209,7 @@ public static final String strTooManyCoincidences = "Забагато збігі
             exprsn = exprsn.toLowerCase();
         }
 
-                exprsn = exprsn.replace("*", NON_SEPARATE_CHARACTERS + "*");
+                exprsn = exprsn.replace("*", "[^\\s]"+ "*");
                 exprsn = exprsn.replace("?", NON_SEPARATE_CHARACTERS);
                // System.out.println(exprsn);
 
@@ -219,13 +224,13 @@ public static final String strTooManyCoincidences = "Забагато збігі
       //  System.out.println(character+ " Matches "+ Character.toString(character).matches("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яіІїЇґҐєЄ'’]"));
     //    System.out.println(character);
         if (character==' ') return true;
-        return( Character.toString(character).matches(NON_SEPARATE_CHARACTERS));
+        return( Character.toString(character).matches(SEPARATE_CHARACTERS));
 
     }
 
    public static String higlightMatchingString(String fragment, String query){
         Matcher mtcher = Pattern.compile(query.toLowerCase()).matcher(fragment.toLowerCase());
-        if (mtcher.find())
+        while (mtcher.find())
         {
             fragment= fragment.substring(0, mtcher.start())+fragment.substring(mtcher.start(), mtcher.end()).toUpperCase()+fragment.substring(mtcher.end());
         }
@@ -249,16 +254,8 @@ public static final String strTooManyCoincidences = "Забагато збігі
             fragment = file.getContent().substring(index, index + CONTEXT_DEPTH + query.length());
         }
 
-        //query = formatQuery(query, caseMatters);
-        System.out.println("Query : " + query);
+         System.out.println("Query : " + query);
         fragment=higlightMatchingString(fragment, query);
-
-//        System.out.println(fragment+ " CONTAINS "+query+ " "+fragment.matches(query));
-//        fragment= fragment.replace(query, query.toUpperCase()); // Pokazyvaem bolshimi bukvami slolo ili frazu zaprosa
-//        if (!caseMatters){
-//            query =query.substring(0,1).toUpperCase()+query.substring(1);// ESLI ZAPROS BYL lowercase, a V FAILE POPALOS SLOVO S BOLSHOY BUKVY
-//            fragment= fragment.replace(query, query.toUpperCase());
-//        }
 
 
 
@@ -268,7 +265,6 @@ public static final String strTooManyCoincidences = "Забагато збігі
     }
 
     public static List<String> getListOfResultsByQuery(String query, boolean caseMatters){
-//        query = formatQuery(query, caseMatters);
         List<String> result = new ArrayList<>();
 
         for (TextFile textFile : textFileList) {
@@ -283,12 +279,10 @@ public static final String strTooManyCoincidences = "Забагато збігі
                     if (mtcher.start() == 0 && isSeparator( textFile.getContent().charAt( mtcher.end()))){
                         resultsInFileCount++;
                         result.add(getResultString(textFile, mtcher.start(), query));
-                      //  System.out.println("count"+textFile.getName());
                     }
                     if (mtcher.start()>0 && isSeparator( (textFile.getContent().charAt(mtcher.start()-1)))&& isSeparator( (textFile.getContent().charAt( mtcher.end())))) {
                         resultsInFileCount++;
                         result.add(getResultString(textFile, mtcher.start(), query));
-             //           System.out.println("count"+textFile.getName());
                     }
                     while (mtcher.start()>0 && mtcher.find() ) {
                         if (mtcher.end() >= textFile.getContent().length() - 1 || (isSeparator(textFile.getContent().charAt(mtcher.start() - 1)) && isSeparator(textFile.getContent().charAt(mtcher.end())))){
@@ -297,13 +291,8 @@ public static final String strTooManyCoincidences = "Забагато збігі
                         }
                     }
 
-                    //TO DO   Nuzhno poschitat kolichestvo naidennogo v kazhdom faile, sokranit v kakom-to massive, chtob potom
-                    // ispolzovat pri podschiote dostovernosti
-
             }
             textFile.setFoundInFile(resultsInFileCount);
-
-          //  System.out.println("FILES WITH AFTER SEARCH ");
 
         }
               return result;
@@ -335,7 +324,7 @@ public static final String strTooManyCoincidences = "Забагато збігі
                 allContents.append(txtFile.getContent().toLowerCase());
             allContents.append(" ");
         }
-       return allContents.toString().trim().split(NON_SEPARATE_CHARACTERS);
+       return allContents.toString().trim().split(SEPARATE_CHARACTERS);
     }
 
 
@@ -411,12 +400,12 @@ public static final String strTooManyCoincidences = "Забагато збігі
         float dyspersia;
 
         for (int i = 0; i < textFileList.size(); i++) {
-         sumaTmp= (float) (sumaTmp + Math.pow(textFileList.get(i).getFoundInFile() - Medium, 2));
-           // System.out.println((((float)MassivAbsChastot[i][0]-Medium)*((float)MassivAbsChastot[i][0]-Medium)));
-
+         sumaTmp= (float) (sumaTmp+ ( Math.pow(textFileList.get(i).getFoundInFile() - Medium, 2)));
+            System.out.println(textFileList.get(i).getFoundInFile()+" "+sumaTmp);
         }
-        dyspersia=sumaTmp/(float)filesWithExpression;
+        dyspersia=sumaTmp/(float)textFileList.size();
 
+            System.out.println("Dyspers "+dyspersia);
 //        dyspersia=dyspersia*2;// TREBA POMNOZHYTE; BO TILKY POLOVYNA FAILIV ISPANSKYH. KOLY ROZDILEMO KONKORDANSY; TODI MOZHNA BUDE PRUBRATY TSEI RIADOK
 
 
@@ -435,25 +424,24 @@ public static final String strTooManyCoincidences = "Забагато збігі
 
     public static int calculateReliability ()
     {
-float StandardDeviation= getStandardDeviation();
+        float StandardDeviation= getStandardDeviation();
         Expression.textArea.setText("");
         Expression.textArea.append(strMeanFreqPer10000 + Medium + "\n");
         Expression.textArea.append(strStandardDeviation + StandardDeviation + "\n");
         Expression.textArea.append(strTripleStandardDeviation + StandardDeviation*3 + "\n");
 
 
-
+        List<String>  resultReliability = new ArrayList<>();
 
         for (TextFile file : textFileList)
-        {  if (file.getFoundInFile()>0) {
-
+        {
             if (file.getFoundInFile() < (StandardDeviation * 3))
-                Expression.textArea.append(file.getName()+" "+file.getFoundInFile() + " " + strReliably + "\n");
+                resultReliability.add(inFile+" \""+file.getName()+"\" "+strFound+" "+file.getFoundInFile() + " " + strReliably + "\n");
             else
-                Expression.textArea.append(file.getName()+" "+file.getFoundInFile() + " " + strNonReliable + "\n");
-        }
+                resultReliability.add(file.getName()+" \""+" "+strFound+"\" "+file.getFoundInFile() + " " + strNonReliable + "\n");
         }
 
+        printInWindow(resultReliability);
 
         return 0;
     }

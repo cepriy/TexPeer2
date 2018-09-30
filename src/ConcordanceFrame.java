@@ -41,23 +41,34 @@ public class ConcordanceFrame {
         mainpanelConc.add(mainpanelConcHalf1);
         mainpanelConc.add(mainpanelConcHalf2);
 
-        panel1.setSize(200, 400);
+        panel1.setMaximumSize( new Dimension(1000,100));
         panel2.setSize(800, 400);
 
 
-        panel.setLayout(new BoxLayout(panel, BoxLayout.X_AXIS));
+        panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
         panel.add(panel1);
         panel.add(panel2);
 
-
-        final JRadioButton radioButtonCase = new JRadioButton(Expression.strCaseMatters);
         final JRadioButton radioButtonCase2 = new JRadioButton(Expression.strCaseMatters);
+        final JRadioButton radioButtonIsHyphenSeparator = new JRadioButton(Expression.strIsHyphenSeparator);
+        final JRadioButton radioButtonCase = new JRadioButton(Expression.strCaseMatters);
+
+        GridBagConstraints c1 = new GridBagConstraints();
+        c1.gridx = 1;
+        c1.gridy = 0;
+        radioButtonIsHyphenSeparator.setBackground(Color.lightGray);
+        panel1.add(radioButtonIsHyphenSeparator, c1);
+
 
         GridBagConstraints c = new GridBagConstraints();
         c.gridx = 3;
         c.gridy = 0;
         radioButtonCase.setBackground(Color.lightGray);
         panel1.add(radioButtonCase, c);
+
+
+
+
         GridBagConstraints d = new GridBagConstraints();
         d.gridx = 3;
         d.gridy = 1;
