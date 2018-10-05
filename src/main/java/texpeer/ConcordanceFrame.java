@@ -229,7 +229,7 @@ public class ConcordanceFrame {
                     ConcordList.setText("");
                     Expression.getSortedWordsAndCount(ConcordList);
                 } catch (IOException ignored) {
-
+                    JOptionPane.showMessageDialog(mainpanel2, "No files FOUND");
                 }
             }
         });

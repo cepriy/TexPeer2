@@ -186,19 +186,19 @@ public static final String strTooManyCoincidences = "Забагато збігі
         address=   getPathRelativeToSubject();
         File f = new File(address);
         FilesArray = f.list();
-        try {
-            fillListOfTextFiles();
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
-        }
   //      severalFilesTogether = f.list().length;
+        if (FilesArray == null || FilesArray.length == 0) JOptionPane.showMessageDialog(null, "Files not found " + address);
         if (FilesArray.length > 200) JOptionPane.showMessageDialog(null, "Too many files");
-
-        if (FilesArray.length == 0) JOptionPane.showMessageDialog(null, "Files not found");
         if ((FilesArray.length !=10 && (FilesArray.length == 200)))
         {
             JOptionPane.showMessageDialog(null, strYourVersionIsLimited);
             System.exit(0);
+        }
+
+        try {
+            fillListOfTextFiles();
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
         }
 
     }
