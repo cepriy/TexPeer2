@@ -13,6 +13,8 @@ import java.net.URISyntaxException;
 
 public class ConcordanceFrame {
     public static void main(String[] args) throws IOException, URISyntaxException {
+        FileReadHelper fileReadHelper = new FileReadHelper();
+        System.out.println(fileReadHelper.convertTextFileToString("Помилки перекладу.docx"));
         Expression.fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         Expression.fr.setSize(900, 400);
         Expression.fr.setLocationRelativeTo(null);
