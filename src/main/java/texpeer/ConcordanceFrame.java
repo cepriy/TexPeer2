@@ -3,10 +3,7 @@ package texpeer;
 import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
+import java.awt.event.*;
 import java.io.IOException;
 import java.net.URISyntaxException;
 
@@ -14,13 +11,14 @@ import java.net.URISyntaxException;
 public class ConcordanceFrame {
     public static void main(String[] args) throws IOException, URISyntaxException {
         FileReadHelper fileReadHelper = new FileReadHelper();
-        System.out.println(fileReadHelper.convertTextFileToString("Помилки перекладу.docx"));
+//        System.out.println(fileReadHelper.convertTextFileToString("fileread.doc"));
+//        System.out.println(fileReadHelper.readFileAsStream("primer.txt"));
         Expression.fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         Expression.fr.setSize(900, 400);
         Expression.fr.setLocationRelativeTo(null);
         //   Expression.fr.setBounds(400, 200, 680, 420);
         Expression.fr.getContentPane().setBackground(Color.CYAN);
-        ImageIcon img = new ImageIcon("icon2.jpg");
+        ImageIcon img = new ImageIcon("icon_eye.png");
         Expression.fr.setIconImage(img.getImage());
 
         Expression.fr.setResizable(true);
@@ -98,12 +96,47 @@ public class ConcordanceFrame {
         panel1.add(Expression.combTemas);
         panel2.add(Expression.textArea);
 
-        Expression.textFieldSearch.addMouseListener(new MouseListener(){
+//        Expression.textFieldSearch.addMouseListener(new MouseListener(){
+//
+//            @Override
+//            public void mouseClicked(MouseEvent e) {
+//
+//              //  System.out.println("Clicked");
+//                JRootPane rootPane2 = SwingUtilities.getRootPane(Expression.textFieldSearch);
+//                rootPane2.setDefaultButton(butSearch);
+//                if (Expression.textFieldSearch.getText().equals(Expression.strEnterYourText)) {
+//                    Expression.textFieldSearch.setText("");
+//                    Expression.combTemas2.setSelectedIndex(Expression.combTemas.getSelectedIndex()); //synchronyze the two combo boxes
+//                    radioButtonCase2.setSelected(radioButtonCase.isSelected()); //synchronyze the two radioButtonsr
+//                }
+//            }
+//
+//            @Override
+//            public void mousePressed(MouseEvent e) {
+//
+//            }
+//
+//            @Override
+//            public void mouseReleased(MouseEvent e) {
+//
+//            }
+//
+//            @Override
+//            public void mouseEntered(MouseEvent e) {
+//
+//            }
+//
+//            @Override
+//            public void mouseExited(MouseEvent e) {
+//                JRootPane rootPane2 = SwingUtilities.getRootPane(Expression.textFieldSearch);
+//                rootPane2.setDefaultButton(butSearch);
+//            }
+//        });
 
+        Expression.textFieldSearch.addMouseListener(new MouseAdapter() {
             @Override
-            public void mouseClicked(MouseEvent e) {
-
-              //  System.out.println("Clicked");
+            public void mouseClicked(MouseEvent mouseEvent) {
+                //  System.out.println("Clicked");
                 JRootPane rootPane2 = SwingUtilities.getRootPane(Expression.textFieldSearch);
                 rootPane2.setDefaultButton(butSearch);
                 if (Expression.textFieldSearch.getText().equals(Expression.strEnterYourText)) {
@@ -114,22 +147,7 @@ public class ConcordanceFrame {
             }
 
             @Override
-            public void mousePressed(MouseEvent e) {
-
-            }
-
-            @Override
-            public void mouseReleased(MouseEvent e) {
-
-            }
-
-            @Override
-            public void mouseEntered(MouseEvent e) {
-
-            }
-
-            @Override
-            public void mouseExited(MouseEvent e) {
+            public void mouseExited(MouseEvent mouseEvent) {
                 JRootPane rootPane2 = SwingUtilities.getRootPane(Expression.textFieldSearch);
                 rootPane2.setDefaultButton(butSearch);
             }

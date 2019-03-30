@@ -34,7 +34,7 @@ class Expression {
     public static int CoincedNum = 0;
     public static boolean Joker = false;
     public static String userQuery="";
-    public static String FilesArray[];
+    public static String[] filesArray;
     public static int filesWithExpression = 0;
     public static float Medium = 0;
     public static String[] sCombTemas = {"Усі теми", "Філософія", "Українська художня література", "Історія", "Мовознавство", "Іспанська художня література", "Медицина", "Політологія", "Психологія", "Переклад", "Соціологія"};
@@ -118,7 +118,7 @@ public static final String strTooManyCoincidences = "Забагато збігі
 
         Expression.textArea.setText("");
 
-        Expression.textArea.append(strTotalProcesed + FilesArray.length + strFilesGenitiv + "\n");
+        Expression.textArea.append(strTotalProcesed + filesArray.length + strFilesGenitiv + "\n");
 
 
         if (CoincedNum > 30) fr.setExtendedState(JFrame.MAXIMIZED_BOTH);
@@ -174,23 +174,20 @@ public static final String strTooManyCoincidences = "Забагато збігі
         if (combTemas.getSelectedItem() == "Політологія") address = f1.getAbsolutePath() + "//Basico//Politologia";
         if (combTemas.getSelectedItem() == "Переклад") address = f1.getAbsolutePath() + "//Basico//Traduccion";
         if (combTemas.getSelectedItem() == "Психологія") address = f1.getAbsolutePath() + "//Basico//Psicologia";
-        if (combTemas.getSelectedItem() == "Усі теми") address = f1.getAbsolutePath() + "//Basico//Todos los temas";
+        if (combTemas.getSelectedItem() == "Усі теми") address = f1.getAbsolutePath() + "//Basico";
 
         return address;
     }
 
     public static void getFilesArray() {
-        String fAdress = "";
-        File f1 = new File(fAdress);
-        address = f1.getAbsolutePath() + "//Basico";
-        address=   getPathRelativeToSubject();
+        address = getPathRelativeToSubject();
         File f = new File(address);
-        FilesArray = f.list();
-  //      severalFilesTogether = f.list().length;
-        if (FilesArray == null || FilesArray.length == 0) JOptionPane.showMessageDialog(null, "Files not found " + address);
-        if (FilesArray.length > 200) JOptionPane.showMessageDialog(null, "Too many files");
-        if ((FilesArray.length !=10 && (FilesArray.length == 200)))
-        {
+        List<String> listFilesForFolder = listFilesForFolder(f);
+//        filesArray = f.list();
+        filesArray = listFilesForFolder.toArray(new String[0]);
+        if (filesArray == null || filesArray.length == 0) JOptionPane.showMessageDialog(null, "Files not found " + address);
+        if (filesArray.length > 200) JOptionPane.showMessageDialog(null, "Too many files");
+        if ((filesArray.length !=10 && (filesArray.length == 200))) {
             JOptionPane.showMessageDialog(null, strYourVersionIsLimited);
             System.exit(0);
         }
@@ -201,6 +198,19 @@ public static final String strTooManyCoincidences = "Забагато збігі
             throw new RuntimeException(e);
         }
 
+    }
+
+
+    public static List<String> listFilesForFolder(final File folder) {
+        List<String> files = new ArrayList<>();
+        for (final File fileEntry : folder.listFiles()) {
+            if (fileEntry.isDirectory()) {
+                files.addAll(listFilesForFolder(fileEntry));
+            } else {
+                files.add(fileEntry.getName());
+            }
+        }
+        return files;
     }
 
 
@@ -304,7 +314,7 @@ public static final String strTooManyCoincidences = "Забагато збігі
     public static void fillListOfTextFiles() throws FileNotFoundException {
         textFileList.clear();
 
-        for (String s : FilesArray) {
+        for (String s : filesArray) {
             Scanner scanner = new Scanner(new File(address + "//" + s), "UTF-16");
             StringBuilder content = new StringBuilder();
             String temp;
@@ -314,6 +324,8 @@ public static final String strTooManyCoincidences = "Забагато збігі
             }
 
                 textFileList.add(new TextFile(s, content.toString()));
+            System.out.println(s);
+//            System.out.println(content);
            // System.out.println(textFileList.size());
         }
     }
@@ -332,6 +344,8 @@ public static final String strTooManyCoincidences = "Забагато збігі
 
 
     public static void getSortedWordsAndCount(JTextArea txtAr) throws IOException {
+
+        // TODO: 30/03/19 REFACTORING!!!
 
         TreeMap<String, Integer> wordsAndCount = new TreeMap<>();
         String[] fileToArray = getAllWords();
