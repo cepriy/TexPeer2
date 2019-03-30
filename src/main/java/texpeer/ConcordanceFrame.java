@@ -4,23 +4,21 @@ import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.*;
-import java.io.IOException;
+import java.util.TreeMap;
 
 
 public class ConcordanceFrame {
-    public static void main(String[] args) {
-//        System.out.println(fileReadHelper.convertTextFileToString("fileread.doc"));
-//        System.out.println(fileReadHelper.readFileAsStream("primer.txt"));
-        Expression.fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        Expression.fr.setSize(900, 400);
-        Expression.fr.setLocationRelativeTo(null);
-        //   Expression.fr.setBounds(400, 200, 680, 420);
-        Expression.fr.getContentPane().setBackground(Color.CYAN);
+    public void run() {
+        Expression expression = new Expression();
+        expression.fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        expression.fr.setSize(900, 400);
+        expression.fr.setLocationRelativeTo(null);
+        expression.fr.getContentPane().setBackground(Color.CYAN);
         ImageIcon img = new ImageIcon("icon_eye.png");
-        Expression.fr.setIconImage(img.getImage());
+        expression.fr.setIconImage(img.getImage());
 
-        Expression.fr.setResizable(true);
-        Expression.fr.setVisible(true);
+        expression.fr.setResizable(true);
+        expression.fr.setVisible(true);
 
         JPanel panel = new JPanel();
         JPanel mainpanel2 = new JPanel(new GridLayout(0, 1));
@@ -30,9 +28,9 @@ public class ConcordanceFrame {
         JPanel panel1 = new JPanel(new GridBagLayout());
         JPanel panel2 = new JPanel(new GridLayout(0, 1));
 
-        Expression.fr.add(panel);
-        Expression.fr.add(mainpanel2);
-        Expression.fr.add(mainpanelConc);
+        expression.fr.add(panel);
+        expression.fr.add(mainpanel2);
+        expression.fr.add(mainpanelConc);
         mainpanelConc.setLayout(new BoxLayout ( mainpanelConc, BoxLayout.X_AXIS));
         mainpanelConcHalf1.setSize(200, 400);
         mainpanelConcHalf2.setSize(800, 400);
@@ -50,7 +48,7 @@ public class ConcordanceFrame {
         panel.add(panel2);
 
         final JRadioButton radioButtonCase2 = new JRadioButton(Expression.strCaseMatters);
-        final JRadioButton radioButtonIsHyphenSeparator = new JRadioButton(Expression.strIsHyphenSeparator);
+        final JRadioButton radioButtonIsHyphenSeparator = new JRadioButton(expression.strIsHyphenSeparator);
         final JRadioButton radioButtonCase = new JRadioButton(Expression.strCaseMatters);
 
         GridBagConstraints c1 = new GridBagConstraints();
@@ -65,9 +63,6 @@ public class ConcordanceFrame {
         c.gridy = 0;
         radioButtonCase.setBackground(Color.lightGray);
         panel1.add(radioButtonCase, c);
-
-
-
 
         GridBagConstraints d = new GridBagConstraints();
         d.gridx = 3;
@@ -90,38 +85,37 @@ public class ConcordanceFrame {
         f1.gridy = 4;
         panel1.add(butCalcRelibl, f1);
 
-        panel1.add(Expression.textFieldSearch, d);
-        panel1.add(Expression.combTemas);
-        panel2.add(Expression.textArea);
+        panel1.add(expression.textFieldSearch, d);
+        panel1.add(expression.combTemas);
+        panel2.add(expression.textArea);
 
-        Expression.textFieldSearch.addMouseListener(new MouseAdapter() {
+        expression.textFieldSearch.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent mouseEvent) {
-                //  System.out.println("Clicked");
-                JRootPane rootPane2 = SwingUtilities.getRootPane(Expression.textFieldSearch);
+                JRootPane rootPane2 = SwingUtilities.getRootPane(expression.textFieldSearch);
                 rootPane2.setDefaultButton(butSearch);
-                if (Expression.textFieldSearch.getText().equals(Expression.strEnterYourText)) {
-                    Expression.textFieldSearch.setText("");
-                    Expression.combTemas2.setSelectedIndex(Expression.combTemas.getSelectedIndex()); //synchronyze the two combo boxes
+                if (expression.textFieldSearch.getText().equals(Expression.strEnterYourText)) {
+                    expression.textFieldSearch.setText("");
+                    expression.combTemas2.setSelectedIndex(expression.combTemas.getSelectedIndex()); //synchronyze the two combo boxes
                     radioButtonCase2.setSelected(radioButtonCase.isSelected()); //synchronyze the two radioButtonsr
                 }
             }
 
             @Override
             public void mouseExited(MouseEvent mouseEvent) {
-                JRootPane rootPane2 = SwingUtilities.getRootPane(Expression.textFieldSearch);
+                JRootPane rootPane2 = SwingUtilities.getRootPane(expression.textFieldSearch);
                 rootPane2.setDefaultButton(butSearch);
             }
         });
 
 
-        JScrollPane scroll = new JScrollPane(Expression.textArea);
-        scroll.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+        JScrollPane scroll = new JScrollPane(expression.textArea);
+        scroll.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED);
         panel2.add(scroll);
-        Expression.textFieldSearch.setText(Expression.strEnterYourText);
+        expression.textFieldSearch.setText(Expression.strEnterYourText);
         Border border = BorderFactory.createLineBorder(Color.BLACK);
-        Expression.textFieldSearch.setBorder(border);
-        Expression.textArea.setBackground(new Color(190, 200, 100));
+        expression.textFieldSearch.setBorder(border);
+        expression.textArea.setBackground(new Color(190, 200, 100));
         GridBagConstraints e = new GridBagConstraints();
         e.gridx = 3;
         e.gridy = 2;
@@ -130,7 +124,7 @@ public class ConcordanceFrame {
         Expression.tabby.addTab("Конкорданс", panel);
         Expression.tabby.addTab("Інфо", mainpanel2);
         Expression.tabby.addTab("Список словоформ", mainpanelConc);
-        Expression.fr.add(Expression.tabby);
+        expression.fr.add(Expression.tabby);
 
         panel1.setBackground(Color.lightGray);
         JTextArea textAbout = new JTextArea();
@@ -142,20 +136,12 @@ public class ConcordanceFrame {
 
         textAbout.append(Expression.strProgrDescription+"\n\n");
         textAbout.append(Expression.strTextAbout);
-
-        // mainpanelConc.setLayout(new GridBagLayout());
-        //      mainpanelConcHalf1.setLayout(new GridBagLayout());
-        //     mainpanelConcHalf2.setLayout(new BoxLayout(mainpanelConcHalf2, BoxLayout.Y_AXIS));
         mainpanelConcHalf2.setLayout(new GridBagLayout());
 
-        JTextArea ConcordList = new JTextArea(20,70);
-        ConcordList.setBackground(new Color(170, 180, 255));
-        //   GridBagConstraints textConc = new GridBagConstraints();
-        //  textConc.gridx = 1;
-        //   textConc.gridy = 3;
-        //     textConc.fill = 26;
-        mainpanelConcHalf1.add(ConcordList);
-        JScrollPane scrollPane = new JScrollPane(ConcordList);
+        JTextArea wordsListTextArea = new JTextArea(20,70);
+        wordsListTextArea.setBackground(new Color(170, 180, 255));
+        mainpanelConcHalf1.add(wordsListTextArea);
+        JScrollPane scrollPane = new JScrollPane(wordsListTextArea);
         scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
         mainpanelConcHalf1.add(scrollPane);
 
@@ -182,28 +168,27 @@ public class ConcordanceFrame {
         combLayout.weightx = 0.5;
         combLayout.gridx = 2;
         combLayout.gridy = 10;
-        Expression.combTemas2.setSize(30,70);
+        expression.combTemas2.setSize(30,70);
 
-        mainpanelConcHalf2.add(Expression.combTemas2, combLayout);
-
-
-
+        mainpanelConcHalf2.add(expression.combTemas2, combLayout);
         retrConcBtn.addActionListener(e13 -> {
-            try {
-                Expression.combTemas.setSelectedIndex(Expression.combTemas2.getSelectedIndex());
-                Expression.getFilesArray();
-               // Expression.getAllWords();
-                ConcordList.setText("");
-                Expression.getSortedWordsAndCount(ConcordList);
-            } catch (IOException ignored) {
-                JOptionPane.showMessageDialog(mainpanel2, "No files were FOUND");
-            }
+            expression.combTemas.setSelectedIndex(expression.combTemas2.getSelectedIndex());
+            expression.getFilesArray();
+            wordsListTextArea.setText("");
+            TreeMap<String, Integer> sortedWordsAndCount = expression.getSortedWordsAndCount();
+            expression.drawResult(wordsListTextArea, sortedWordsAndCount);
+            javax.swing.SwingUtilities.invokeLater(new Runnable() {
+                @Override
+                public void run() {
+                    scrollPane.getViewport().setViewPosition( new Point(0, 0) );
+                }
+            });
         });
 
         radioButtonCase.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent mouseEvent) {
-                Expression.caseMatters=radioButtonCase.isSelected();
+                expression.caseMatters=radioButtonCase.isSelected();
             }
         });
 
@@ -211,36 +196,29 @@ public class ConcordanceFrame {
             @Override
             public void mouseClicked(MouseEvent mouseEvent) {
                 radioButtonCase.setSelected(radioButtonCase2.isSelected()); //synchronyze the two combo boxes
-                Expression.caseMatters=radioButtonCase.isSelected();
+                expression.caseMatters=radioButtonCase.isSelected();
             }
         });
-
-        // Expression.fr.setResizable(true);
-        Expression.fr.setVisible(true);
-        // String ExpressionToFind = JOptionPane.showInputDialog(null, Expression.panel, "Введіть вираз для пошуку");
+        expression.fr.setVisible(true);
         long startTime = System.currentTimeMillis();// DLIA IZMERENIA VREMENI DEISTVIA PROGRAMMY
-
-
-
-
             butSearch.addActionListener(e1 -> {
-                Expression.combTemas2.setSelectedIndex(Expression.combTemas.getSelectedIndex());
+                expression.combTemas2.setSelectedIndex(expression.combTemas.getSelectedIndex());
                 radioButtonCase2.setSelected(radioButtonCase.isSelected());
-                if (Expression.textArea.getText() == null) {
+                if (expression.textArea.getText() == null) {
                     JOptionPane.showMessageDialog(null, Expression.strEnterAnExpression);
                     return;
                 }
-                Expression.getFilesArray();
-                   // Expression.getAllWords();
-                String expressionToFind = Expression.textFieldSearch.getText();
+                expression.getFilesArray();
+                String expressionToFind = expression.textFieldSearch.getText();
                 long startTime1 = System.currentTimeMillis();// DLIA IZMERENIA VREMENI DEISTVIA PROGRAMMY
-                Expression.textArea.setText("");
-                if (radioButtonCase.isSelected()) Expression.caseMatters = true;
+                expression.textArea.setText("");
+                if (radioButtonCase.isSelected()) {
+                    expression.caseMatters = true;
+                }
+                expressionToFind = expression.formatQuery(expressionToFind, expression.caseMatters);
 
-                expressionToFind = Expression.formatQuery(expressionToFind, Expression.caseMatters);
 
-
-                Expression.printInWindow(Expression.getListOfResultsByQuery(expressionToFind, Expression.caseMatters));
+                expression.printInWindow(expression.getListOfResultsByQuery(expressionToFind, expression.caseMatters));
 
 
                 long timeSpent = System.currentTimeMillis() - startTime1;
@@ -248,7 +226,7 @@ public class ConcordanceFrame {
 
             });
 
-        butCalcRelibl.addActionListener(e12 -> Expression.calculateReliability());
+        butCalcRelibl.addActionListener(e12 -> expression.calculateReliability());
 
     }
 }
