@@ -34,15 +34,13 @@ class Expression {
     public static int CoincedNum = 0;
     public static boolean Joker = false;
     public static String userQuery="";
-    public static String[] filesArray;
+    public static File[] filesArray;
     public static int filesWithExpression = 0;
     public static float Medium = 0;
     public static String[] sCombTemas = {"Усі теми", "Філософія", "Українська художня література", "Історія", "Мовознавство", "Іспанська художня література", "Медицина", "Політологія", "Психологія", "Переклад", "Соціологія"};
-    public static JComboBox combTemas = new JComboBox(sCombTemas);
+    public static JComboBox<String> combTemas = new JComboBox<>(sCombTemas);
 
-    public static JComboBox combTemas2 = new JComboBox(sCombTemas);
-
-    public static String address = "";
+    public static JComboBox<String> combTemas2 = new JComboBox<>(sCombTemas);
 
 
     //constants
@@ -76,7 +74,6 @@ class Expression {
   public static final String strTotalFound = "Усього знайдено ";
   public static final String strFilesGenitiv = " файлів";
   public static final String strYourVersionIsLimited = "Ви використовуєте обмежену версію";
-public static final String strTooManyCoincidences = "Забагато збігів. Обмежте пошук!";
    public static final String strMeanFreqPer10000 = "Середня частота на 10000 слововживань: ";
     public static final String strStandardDeviation =  "Середнє квадратичне відхилення: ";
     public static final String strTripleStandardDeviation= "Потрійне середнє квадратичне відхилення: ";
@@ -137,32 +134,10 @@ public static final String strTooManyCoincidences = "Забагато збігі
         fr.setVisible(true);
 
         result.clear();
-
-     //  for (TextFile file: textFileList)
-//       {
-//       file.setFoundInFile(0);
-//       }
     }
 
-//    public static void drawChart(TextFile[] textFiles)
-//    {
-//        DefaultCategoryDataset dataset = new DefaultCategoryDataset(); //Create dataset
-//        for(int i = 0; i < dub.length; i++){
-//            dataset.setValue(dub[i], "Marks", student[i]); //Setting the values
-//        }
-//
-//        JFreeChart chart = ChartFactory.createBarChart3D("Goal comparison",
-//                "Marks", "Students", dataset, PlotOrientation.VERTICAL,
-//                false, true, false); //Chart creation
-//    }
-
-
-
-
-    public static String getPathRelativeToSubject()
-    {
-
-
+    private static String getPathRelativeToSubject() {
+        String address = "";
         File f1 = new File("");
         if (combTemas.getSelectedItem() == "Філософія") address = f1.getAbsolutePath() + "//Basico//Filosofia";
         if (combTemas.getSelectedItem() == "Соціологія") address = f1.getAbsolutePath() + "//Basico//Sociologia";
@@ -180,11 +155,10 @@ public static final String strTooManyCoincidences = "Забагато збігі
     }
 
     public static void getFilesArray() {
-        address = getPathRelativeToSubject();
+        String address = getPathRelativeToSubject();
         File f = new File(address);
-        List<String> listFilesForFolder = listFilesForFolder(f);
-//        filesArray = f.list();
-        filesArray = listFilesForFolder.toArray(new String[0]);
+        List<File> listFilesForFolder = listFilesForFolder(f);
+        filesArray = listFilesForFolder.toArray(new File[0]);
         if (filesArray == null || filesArray.length == 0) JOptionPane.showMessageDialog(null, "Files not found " + address);
         if (filesArray.length > 200) JOptionPane.showMessageDialog(null, "Too many files");
         if ((filesArray.length !=10 && (filesArray.length == 200))) {
@@ -201,13 +175,16 @@ public static final String strTooManyCoincidences = "Забагато збігі
     }
 
 
-    public static List<String> listFilesForFolder(final File folder) {
-        List<String> files = new ArrayList<>();
+    public static List<File> listFilesForFolder(final File folder) {
+        final List<File> files = new ArrayList<>();
+        if (folder == null) {
+            return files;
+        }
         for (final File fileEntry : folder.listFiles()) {
             if (fileEntry.isDirectory()) {
                 files.addAll(listFilesForFolder(fileEntry));
             } else {
-                files.add(fileEntry.getName());
+                files.add(fileEntry);
             }
         }
         return files;
@@ -227,18 +204,11 @@ public static final String strTooManyCoincidences = "Забагато збігі
                // System.out.println(exprsn);
 
        return         exprsn;
-
-
     }
 
-    public static boolean isSeparator(char character)
-    {
-//character = ' ';
-      //  System.out.println(character+ " Matches "+ Character.toString(character).matches("[^A-Za-zñáéúíóüÁÉÍÓÚÜА-Яа-яіІїЇґҐєЄ'’]"));
-    //    System.out.println(character);
-        if (character==' ') return true;
-        return( Character.toString(character).matches(SEPARATE_CHARACTERS));
-
+    public static boolean isSeparator(char character) {
+        if (character == ' ') return true;
+        return Character.toString(character).matches(SEPARATE_CHARACTERS);
     }
 
    public static String higlightMatchingString(String fragment, String query){
@@ -308,23 +278,23 @@ public static final String strTooManyCoincidences = "Забагато збігі
             textFile.setFoundInFile(resultsInFileCount);
 
         }
-              return result;
+        return result;
     }
 
     public static void fillListOfTextFiles() throws FileNotFoundException {
         textFileList.clear();
 
-        for (String s : filesArray) {
-            Scanner scanner = new Scanner(new File(address + "//" + s), "UTF-16");
+        for (File file : filesArray) {
+            Scanner scanner = new Scanner(file, "UTF-16");
             StringBuilder content = new StringBuilder();
-            String temp;
-            while (scanner.hasNext()){
-                temp = scanner.nextLine();
-                content.append(temp);
+            String line;
+            while (scanner.hasNext()) {
+                line = scanner.nextLine();
+                content.append(line);
             }
 
-                textFileList.add(new TextFile(s, content.toString()));
-            System.out.println(s);
+            textFileList.add(new TextFile(file.getAbsolutePath(), file.getName(), content.toString()));
+//            System.out.println(file);
 //            System.out.println(content);
            // System.out.println(textFileList.size());
         }

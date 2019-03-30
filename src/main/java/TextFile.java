@@ -14,7 +14,8 @@ public class TextFile {
         this.foundInFile = foundInFile;
     }
 
-    public TextFile(String name, String content) {
+    public TextFile(String path, String name, String content) {
+        this.path = path;
         this.name = name;
         this.content = content;
     }

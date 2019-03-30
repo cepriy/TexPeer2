@@ -5,12 +5,10 @@ import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.IOException;
-import java.net.URISyntaxException;
 
 
 public class ConcordanceFrame {
-    public static void main(String[] args) throws IOException, URISyntaxException {
-        FileReadHelper fileReadHelper = new FileReadHelper();
+    public static void main(String[] args) {
 //        System.out.println(fileReadHelper.convertTextFileToString("fileread.doc"));
 //        System.out.println(fileReadHelper.readFileAsStream("primer.txt"));
         Expression.fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -96,43 +94,6 @@ public class ConcordanceFrame {
         panel1.add(Expression.combTemas);
         panel2.add(Expression.textArea);
 
-//        Expression.textFieldSearch.addMouseListener(new MouseListener(){
-//
-//            @Override
-//            public void mouseClicked(MouseEvent e) {
-//
-//              //  System.out.println("Clicked");
-//                JRootPane rootPane2 = SwingUtilities.getRootPane(Expression.textFieldSearch);
-//                rootPane2.setDefaultButton(butSearch);
-//                if (Expression.textFieldSearch.getText().equals(Expression.strEnterYourText)) {
-//                    Expression.textFieldSearch.setText("");
-//                    Expression.combTemas2.setSelectedIndex(Expression.combTemas.getSelectedIndex()); //synchronyze the two combo boxes
-//                    radioButtonCase2.setSelected(radioButtonCase.isSelected()); //synchronyze the two radioButtonsr
-//                }
-//            }
-//
-//            @Override
-//            public void mousePressed(MouseEvent e) {
-//
-//            }
-//
-//            @Override
-//            public void mouseReleased(MouseEvent e) {
-//
-//            }
-//
-//            @Override
-//            public void mouseEntered(MouseEvent e) {
-//
-//            }
-//
-//            @Override
-//            public void mouseExited(MouseEvent e) {
-//                JRootPane rootPane2 = SwingUtilities.getRootPane(Expression.textFieldSearch);
-//                rootPane2.setDefaultButton(butSearch);
-//            }
-//        });
-
         Expression.textFieldSearch.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent mouseEvent) {
@@ -157,25 +118,13 @@ public class ConcordanceFrame {
         JScrollPane scroll = new JScrollPane(Expression.textArea);
         scroll.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
         panel2.add(scroll);
-
         Expression.textFieldSearch.setText(Expression.strEnterYourText);
-
         Border border = BorderFactory.createLineBorder(Color.BLACK);
         Expression.textFieldSearch.setBorder(border);
-        // Expression.textFieldSearch.setColumns(70);
-
-
-        // Expression.textArea.setText("Введіть вираз для пошуку");
         Expression.textArea.setBackground(new Color(190, 200, 100));
-//        Box box1 = new Box(BoxLayout.Y_AXIS);
-//        box1.add(Box.createVerticalStrut(105));
-//        box1.setBackground(Color.CYAN);
-//        box1.setOpaque(true);
-
         GridBagConstraints e = new GridBagConstraints();
         e.gridx = 3;
         e.gridy = 2;
-        // panel1.add(box1, e);
 
 
         Expression.tabby.addTab("Конкорданс", panel);
@@ -239,75 +188,32 @@ public class ConcordanceFrame {
 
 
 
-        retrConcBtn.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                try {
-                    Expression.combTemas.setSelectedIndex(Expression.combTemas2.getSelectedIndex());
-                    Expression.getFilesArray();
-                   // Expression.getAllWords();
-                    ConcordList.setText("");
-                    Expression.getSortedWordsAndCount(ConcordList);
-                } catch (IOException ignored) {
-                    JOptionPane.showMessageDialog(mainpanel2, "No files FOUND");
-                }
+        retrConcBtn.addActionListener(e13 -> {
+            try {
+                Expression.combTemas.setSelectedIndex(Expression.combTemas2.getSelectedIndex());
+                Expression.getFilesArray();
+               // Expression.getAllWords();
+                ConcordList.setText("");
+                Expression.getSortedWordsAndCount(ConcordList);
+            } catch (IOException ignored) {
+                JOptionPane.showMessageDialog(mainpanel2, "No files were FOUND");
             }
         });
-radioButtonCase.addMouseListener(new MouseListener() {
-    @Override
-    public void mouseClicked(MouseEvent mouseEvent) {
-        Expression.caseMatters=radioButtonCase.isSelected();
-    }
 
-    @Override
-    public void mousePressed(MouseEvent mouseEvent) {
+        radioButtonCase.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent mouseEvent) {
+                Expression.caseMatters=radioButtonCase.isSelected();
+            }
+        });
 
-    }
-
-    @Override
-    public void mouseReleased(MouseEvent mouseEvent) {
-
-    }
-
-    @Override
-    public void mouseEntered(MouseEvent mouseEvent) {
-
-    }
-
-    @Override
-    public void mouseExited(MouseEvent mouseEvent) {
-
-    }
-});
-        radioButtonCase2.addMouseListener(new MouseListener() {
+        radioButtonCase2.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent mouseEvent) {
                 radioButtonCase.setSelected(radioButtonCase2.isSelected()); //synchronyze the two combo boxes
                 Expression.caseMatters=radioButtonCase.isSelected();
-
-            }
-
-            @Override
-            public void mousePressed(MouseEvent mouseEvent) {
-
-            }
-
-            @Override
-            public void mouseReleased(MouseEvent mouseEvent) {
-
-            }
-
-            @Override
-            public void mouseEntered(MouseEvent mouseEvent) {
-
-            }
-
-            @Override
-            public void mouseExited(MouseEvent mouseEvent) {
-
             }
         });
-
 
         // Expression.fr.setResizable(true);
         Expression.fr.setVisible(true);
@@ -317,42 +223,32 @@ radioButtonCase.addMouseListener(new MouseListener() {
 
 
 
-            butSearch.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-
+            butSearch.addActionListener(e1 -> {
                 Expression.combTemas2.setSelectedIndex(Expression.combTemas.getSelectedIndex());
                 radioButtonCase2.setSelected(radioButtonCase.isSelected());
-                if (Expression.textArea.getText() == null)
-{
-    JOptionPane.showMessageDialog(null, Expression.strEnterAnExpression);
-
-    return;
-}
-                    Expression.getFilesArray();
+                if (Expression.textArea.getText() == null) {
+                    JOptionPane.showMessageDialog(null, Expression.strEnterAnExpression);
+                    return;
+                }
+                Expression.getFilesArray();
                    // Expression.getAllWords();
                 String expressionToFind = Expression.textFieldSearch.getText();
-                long startTime = System.currentTimeMillis();// DLIA IZMERENIA VREMENI DEISTVIA PROGRAMMY
+                long startTime1 = System.currentTimeMillis();// DLIA IZMERENIA VREMENI DEISTVIA PROGRAMMY
                 Expression.textArea.setText("");
                 if (radioButtonCase.isSelected()) Expression.caseMatters = true;
 
-                expressionToFind= Expression.formatQuery(expressionToFind, Expression.caseMatters);
+                expressionToFind = Expression.formatQuery(expressionToFind, Expression.caseMatters);
 
 
                 Expression.printInWindow(Expression.getListOfResultsByQuery(expressionToFind, Expression.caseMatters));
 
 
-                long timeSpent = System.currentTimeMillis() - startTime;
+                long timeSpent = System.currentTimeMillis() - startTime1;
                 System.out.println("Программа выполнялась " + timeSpent + " миллисекунд");
 
-            }
-        });
+            });
 
-        butCalcRelibl.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                Expression.calculateReliability();
-            }
-        });
+        butCalcRelibl.addActionListener(e12 -> Expression.calculateReliability());
 
     }
 }
