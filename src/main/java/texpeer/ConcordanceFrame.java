@@ -177,12 +177,7 @@ public class ConcordanceFrame {
             wordsListTextArea.setText("");
             TreeMap<String, Integer> sortedWordsAndCount = expression.getSortedWordsAndCount();
             expression.drawResult(wordsListTextArea, sortedWordsAndCount);
-            javax.swing.SwingUtilities.invokeLater(new Runnable() {
-                @Override
-                public void run() {
-                    scrollPane.getViewport().setViewPosition( new Point(0, 0) );
-                }
-            });
+            javax.swing.SwingUtilities.invokeLater(() -> scrollPane.getViewport().setViewPosition( new Point(0, 0) ));
         });
 
         radioButtonCase.addMouseListener(new MouseAdapter() {
