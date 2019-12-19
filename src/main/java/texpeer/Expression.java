@@ -349,7 +349,8 @@ class Expression {
       //  System.out.println("FILES WITH EXPRESSION ");
         float standardDeviation;
         float sumaTmp=0;
-        float dyspersia;
+        float dyspersi; float dyspersia;
+
 
         for (int i = 0; i < textFileList.size(); i++) {
          sumaTmp= (float) (sumaTmp+ ( Math.pow(textFileList.get(i).getFoundInFile() - median, 2)));
@@ -358,7 +359,7 @@ class Expression {
         dyspersia=sumaTmp/(float)textFileList.size();
 
             System.out.println("Dyspers "+dyspersia);
-//        dyspersia=dyspersia*2;// TREBA POMNOZHYTE; BO TILKY POLOVYNA FAILIV ISPANSKYH. KOLY ROZDILEMO KONKORDANSY; TODI MOZHNA BUDE PRUBRATY TSEI RIADOK
+//        dyspersia=dyspersia*2;// TREBA POMNOZHYTY; BO TILKY POLOVYNA FAILIV ISPANSKYH. KOLY ROZDILEMO KONKORDANSY; TODI MOZHNA BUDE PRUBRATY TSEI RIADOK
 
 
         standardDeviation=dyspersia/2;
